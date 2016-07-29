@@ -1,0 +1,486 @@
+cache
+in-role cache
+cache cluster
+object
+role
+information
+azure managed cache service
+cache client
+configure
+
+nuget package
+item
+application
+managed cache service
+store asp.net session state
+store asp.net page output caching
+section
+time
+caching
+azure cache
+datacache object
+role instance
+expiration
+memory
+guide
+add
+size
+min
+azure powershell
+name
+azure application
+access
+virtual machine
+retrieve
+configuration
+sample
+client
+subscription
+high availability
+solution explorer
+configuration element
+notification
+code
+next step
+.net api
+cache size
+reference
+caching nuget package
+web.config
+project
+eviction
+feature
+cache nuget package
+performance
+overview
+serviceconfiguration.cscfg file
+region
+following example
+cache offering
+cache client diagnostic level
+storage account
+deployment
+step
+co-located role cache cluster
+required configuration
+default
+basic
+virtual machine size
+expiry policy
+output cache provider
+role property
+worker role
+asp.net web role
+use
+caching tab
+config file
+accept
+datacacheclients element
+following feature
+search online text box
+asp.net application
+several thing
+default configuration
+configsections element
+following configuration element
+common task
+choose manage nuget package
+next step section
+second section enables asp.net page output
+app.config
+dedicated role cache cluster
+child
+azure in-role cache
+.net
+property
+switch
+new section
+cachediagnostics section
+azure cache offering
+configsections
+cache cluster role name
+complex caching task
+cache client application
+microsoft azure
+guidance
+scenario
+link
+right azure cache
+letter
+add-azureaccount cmdlet
+click install
+asp.net page output
+asp.net session state
+result
+type
+datacacheclients section
+required assembly reference
+first section enables session state
+select-azuresubscription cmdlet
+powershell cmdlets
+cache service
+following section
+managed cache service instance
+account
+vm size
+cache worker role
+refer
+sku
+provision
+setting
+in-role cache capacity planning consideration
+new-azuremanagedcache cmdlet
+minute
+default cache
+role caching
+co-located role caching
+azure management portal
+scope
+session state provider
+pricing
+client project
+way
+note
+detailed information
+technique
+absolute
+instruction
+data
+configurationsettings
+web
+tier
+serviceconfiguration.cscfg
+endpoint
+azure.note
+dedicated role
+small
+diagnostics
+following assembly
+clientdiagnosticlevel
+cache client role
+default clientdiagnosticlevel
+azure website
+webrole1 section
+key
+cloud service project
+desired cache
+value
+level
+diagnostic information
+clientdiagnosticlevel setting
+email address
+targetinvocationexception
+element
+number
+configuration data
+configuration tab
+cache cluster role property page
+asp.net web project
+backend source
+cachediagnostics element
+default instance count
+cache endpoint
+simplified overview
+password
+azure sdk
+deployment topology
+diagnostic level
+super-fast access
+term
+inner datacacheexception
+client role
+combination
+capacity planning consideration
+azure storage account
+right-click
+list type windowsazure.caching
+share
+in-role cache cache
+certificate
+select window azure cache
+allocated memory
+instance count
+role project
+information in-memory
+location
+total memory
+subdomain name
+single setting
+default vm size
+increase performance
+azure powershell command window
+azure account
+twenty character
+installing
+layer
+string
+cache cluster storage account
+cost
+cache instance
+database transaction
+scalable solution
+message
+desired caching option
+enable caching checkbox
+named cache setting
+memory work
+lowercase number
+client application
+new cache
+cloud service
+role exists
+responsive application
+select in-role cache
+cloud
+cache server
+desired size
+cache section
+standard
+outputcache directive
+vm
+certain cache offering
+powershell cmdlet
+timeout interval
+provided snippet
+cache feature
+first configure
+expiration policy
+o
+available memory
+cache pricing detail
+need
+complete list
+capacity planning spreadsheet
+multiple role instance
+cache information
+sliding
+combined memory
+name contosocache
+interval
+specified section
+creation progress
+management portal
+package
+gb
+manner
+add method
+cache process
+tier differs
+additional role instance
+default setting
+single resource
+total amount
+specified percentage
+running status
+nuget package manager
+session state
+nuget package manager installation
+virtual machine memory
+following configure
+out-of-process storage mechanism
+specified amount
+cachename attribute
+cache data
+example
+different cache
+extrasmall vm
+getting
+datacache
+azure
+put method
+parameter
+new-azuremanagedcache cmdlet documentation
+page output
+azure powershell window
+page
+south central u geographic region
+premium
+live
+never
+increment
+premium cache offering
+last access
+xml
+put
+default item
+substatus
+second
+getcacheitem method
+web application
+page data
+specified object
+following
+expiration interval
+option
+consistent development model
+following message
+authentication key
+first way
+key parameter
+binary data
+null
+clr object
+available option
+visual studio
+new datacachefactory instance
+sql server database
+caching session state provider
+target profile
+timespan parameter
+getcache method
+backup copy
+datacacheitem object
+provider
+second way
+output
+client profile
+microsoft.web.distributedcache.dll
+assembly reference
+specific key
+string value
+cache expire
+configuration file
+default constructor
+new output cache provider extensibility point
+different version
+unique key value
+getdefaultcache method
+.net framework
+attempt
+necessary reference
+pre-built asp.net provider
+default expiration type
+configure tab
+acceleration
+migrate
+full http response
+row
+errorcode
+support
+msdn reference
+cached item
+new datacachefactory object
+statement
+top
+cache notification
+window server appfabric
+microsoft.windowsfabric.common.dll
+overload
+datacacheexception
+application code
+expiration countdown
+method
+parameter combination
+provider plug
+none
+file
+specific duration
+profile
+order
+countdown timer
+microsoft.windowsfabric.data.common.dll
+pas
+output cache data
+timeout
+get method
+asp.net
+desired option
+cache share
+cloud service deployment
+window
+co-locate caching
+automatic invalidation
+control
+basic cache offering
+managed cache service session state provider
+memory impact
+azure storage version
+isolation
+following advantage
+click yes
+capacity
+azure storage sdk
+cache specific quota restriction
+extralarge
+name box
+flexibility
+microsoft azure storage sdk version
+total
+caching service session state provider
+portion
+cpu
+offer
+in-role cache sample
+standard cache offering
+managed cache service sample
+service endpoint
+compute resource
+default expiration policy
+eliminates
+memory threshold
+expiration type
+deployment option
+cloud service application
+required memory
+vm resource
+create multiple
+lru
+microsoft
+ten
+session
+asynchronous notification
+sliding window
+memory pressure
+configurable option
+web project
+capacity planning task
+version
+primary copy
+provides full-fidelity development time debugging
+memory consumption
+variety
+cache dashboard
+throttling
+previous version
+cache operation
+flexible manner
+microsoft azure storage service version removal
+tagging
+individual cache
+quota
+medium
+securityproperties section
+hosted service
+timeout parameter
+azure caching
+set
+configure high availability
+memcache protocol
+maximum performance
+definition
+dashboard
+multiple client
+bandwidth
+add operation
+cache property
+manage key
+memory capacity
+click discard
+azure cloud service
+addition
+client diagnostic level
+click save
+capability
+december
+co-located role
+change
+conjunction
+size cache
+different property
+secure
+replace cache role name
+teched
+amount
+unexpected failure
+release note
+pay

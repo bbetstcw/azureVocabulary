@@ -1,0 +1,6503 @@
+asset
+media service
+azure media service
+channel
+provide feedback
+media service learning path
+content
+topic
+am
+overview
+information
+example
+file
+suggestion
+
+path
+feedback
+user voice forum
+following category
+job
+rest api
+video
+media service account
+stream
+release
+.net
+task
+program
+locator
+smooth streaming
+portal
+client
+filter
+unit
+endpoint
+hl
+format
+token
+azure portal
+set
+see
+dynamic packaging
+azure.selector
+following
+create
+url
+content key
+value
+media service sdk
+azure media player
+mpeg dash
+step
+azure.note
+note
+rest
+section
+ad
+consideration
+codecs
+media
+option
+microsoft azure media service
+key
+playready
+type
+http request
+element
+encoder
+azure media encoder
+prerequisite
+configure
+live encoding
+request
+next step
+player
+hds
+azure management portal
+user
+order
+customer
+media service .net sdk
+storage
+widevine license
+storage account
+common scenario
+vod
+state
+encode
+time
+media service rest api
+default
+minute
+on-premises encoders
+restriction
+streaming url
+dynamic encryption
+media file
+number
+list
+job progress
+following example
+dynamic manifest
+protocol
+event
+audio
+platform
+lesson
+streaming
+client sdk library
+asset delivery policy
+single bitrate live stream
+tutorial
+name
+streaming endpoint
+service
+entity
+media encoder standard
+issue
+license
+.net sdk
+key delivery service
+account
+media content
+demand streaming workflow
+get
+am live streaming workflow
+multi-bitrate stream
+access
+media service asset
+media encoder premium workflow
+java
+access policy
+multi-bitrate live stream
+kbps
+http
+azure media indexer
+accesspolicy
+following format
+input
+processing
+castlabs
+aes
+article
+detail
+application
+single bitrate stream
+axinom
+am channel
+code
+authorization policy
+contentkey
+demand
+output asset
+player framework
+code sample
+tutorial walk
+second
+live encoder
+blob
+advantage
+way
+delete
+multiple storage account
+configure asset delivery policy
+tool
+upload file
+media service uri
+live event
+configure content key authorization policy
+version
+start
+index
+description
+following task
+configuration
+server
+delivery
+adaptive bitrate mp4
+rtp
+http response
+http live streaming
+presets
+asset file
+window
+scenario
+hour
+azure media service .net sdk
+limitation
+bottom
+playready license
+problem
+track
+open restriction
+dolby digital plus
+widevine
+response
+input asset
+project
+bitrate
+upload
+case
+click
+something
+image
+jwt token
+general media service update
+following consideration
+support
+duration
+data
+media service .net sdk update
+profile
+workflow
+access token
+live stream
+adobe primetime/access
+configuration step
+june
+progressive download
+adaptive bitrate
+encryption
+aes-128 dynamic encryption
+new uri
+addition
+storage encryption
+sample
+bitrate stream
+connect
+aac
+resource
+bulk
+media service development
+download sample
+dash player
+link
+playready license template
+standard
+sts
+ondemand streaming locator
+encryption key
+azure
+day
+quota
+on-premises live encoder
+concept
+allowed ip address
+change
+yes
+elemental live encoder
+use
+november
+flash player
+container
+create contentkeys
+playback
+protect content
+silverlight player
+azure management portal media service content player
+new asset
+dash
+media on-demand
+media processor
+metadata
+end
+smooth
+result
+on-demand streaming
+document
+perform live encoding
+assetfile
+redirect
+osmf
+technology
+file format
+following code
+common encryption
+scale unit
+thing
+audio track
+subsequent call
+thumbnail
+link contentkeyauthorizationpolicies
+following adaptive bitrate
+august
+sa locator
+closed captioning
+input audio codecs
+playready drm
+update
+mp4
+input video codecs
+content key authorization policy
+create contentkeyauthorizationpolicies
+xml
+elemental live
+support ticket
+//media.windows.net
+delivery policy
+codec
+december
+contentkeydeliverytype
+add authorization policy
+azure media hyperlapse
+related topic
+am account
+please
+sa url
+cdn
+september
+test playback
+video-on-demand
+mpeg-ts
+channel state
+secure token service
+create contentkeyauthorizationpolicyoptions
+billing mode
+static encryption
+setup
+reference
+media service encoder
+code example
+device
+error
+blob container
+common live streaming scenario
+part
+guidance
+update media service
+additional resource
+fmle
+encoders
+ip address
+azure media packager
+chained task
+mp4 file
+encoding
+vast
+tip
+claim
+s
+create channel
+question
+property
+azure media service account
+video player
+viewer
+computer
+overlay
+dash.js
+method
+rest apis
+adaptive bitrate mp4 set
+advanced encryption standard
+cloud
+following http request
+content page
+index content
+e.g
+quality
+preset
+ad support
+test token
+console.writeline
+api
+key request
+following section
+azure account
+limit
+powershell
+video stream
+adaptive bitrate streaming
+h.264
+factor
+on-premises live encoders
+ad break
+ability
+cpu utilization
+sdk
+current network bandwidth
+content player
+encrypt
+workflow designer
+client side
+specific header field
+system
+microsoft azure
+link asset
+play button
+media service rest api development
+internet
+advertisement
+fragmented mp4
+comparison
+ac
+playready encryption
+multiple asset
+class
+global filter
+live streaming
+vmap file
+source file
+output
+demand media encoders
+adaptive bitrate mp4s
+streaming content
+azure.note currently
+build
+optional
+encoded asset
+may
+create asset delivery policy
+related link
+stopped
+caption file
+digital file
+license delivery service
+video file
+goal
+input container/file format
+text track
+partner
+adaptive bitrate smooth streaming file
+ready state
+khz
+ssl
+live streaming service
+policy type
+thumbnail collection
+media service entity
+media service playready
+july
+widevine drms
+ingest url
+html5 application
+output format
+uri
+jwt
+task presets
+azure media service .net sdk change
+ac token
+mpeg-dash adaptive streaming video
+describes
+file name
+long-running operation
+microsoft® smooth streaming client porting kit
+detailed information
+window store application
+media asset
+token restricted policy
+specific section
+preview url
+break
+protectionkeyid
+azure media encoder format
+april
+following code example
+secure access
+single storage format
+storage access key
+widevine drm
+fmle encoder
+need
+october
+adaptive bitrate mp4 file
+selective streaming
+following procedure
+newtek tricaster encoder
+assetdeliverypolicy
+plugin
+azure media service concept
+mezzanine
+content key’s authorization policy
+related entity
+right
+window phone
+failure
+media service key delivery service
+vast file
+on-demand streaming reserved unit
+default value
+flash media live encoder
+playready dynamic encryption
+header
+store
+browser
+trigger
+mast file
+ondemand
+transient state
+media encoder
+receive multi-bitrate live stream
+mbps
+operation
+redundant audio track
+presentation
+developer
+setting
+vmap
+widevine license template
+level
+wirecast
+page
+preset file
+convention
+must
+failover
+attribute
+visual studio project
+audio stream
+slate image
+false
+microsoft hyperlapse
+data center
+slate
+source
+clean
+parameter
+encrypted content
+http post request
+single-bitrate live stream
+sparse track
+asset entity
+smooth stream
+key id
+march
+token restriction
+care
+exception
+zero-based index
+appropriate response
+hl url
+use azure media player
+frame
+amse tool
+upload asset
+|n/a
+encode content
+content delivery application
+json web token
+functionality
+high
+general step
+smooth streaming plugin
+main
+delivery url
+blog
+media processor instance
+apis
+multiple way
+requirement
+input protocol
+task preset
+single encoding task
+use media service sdk
+hlsv3
+availability
+content overview
+language
+dplm
+live encoding channel
+redundancy
+customer overview
+vpaid
+download
+sample rate
+create content key
+process
+tricaster
+table
+copy
+keywords
+egress capacity
+request body
+id
+fragment
+specification
+procedure
+make sure
+digital video
+different protocol
+microsoft dot com
+playready drm runtime
+live streaming content
+aes-128
+let
+streaming service
+rule
+authorized client
+none
+media service playready license template overview
+workflow designer tool
+contentkeyauthorizationpolicy
+128-bit encryption key
+castlabs license server
+audience
+environment
+dynamicenvelopeencryption
+azure storage
+azure media service fragmented mp4 live ingest specification
+ltd
+assetdeliverypolicytype
+mpeg-dash
+output audio codecs
+token restriction schema
+create filter
+single asset
+content delivery network
+output container/file format
+progressive download url
+get mediaprocessor
+content protection
+encoding reserved
+contentkeyrestrictiontype
+develop video player application
+visual studio
+write permission
+assetdeliveryprotocol
+aes clear key delivery service
+blob storage container
+azure.important
+encoder setting
+purpose
+audio and/or video overlay
+telestream wirecast encoder
+acknowledgment
+management portal
+update locator
+playready drm license
+playready and/or widevine dynamic common encryption
+output video codecs
+output metadata
+asset encryption option
+current limitation
+assetdeliverypolicyconfigurationkey
+object
+mxf
+dynamiccommonencryption asset delivery policy
+hyperlapse
+increment
+mac
+dynamicenvelopeencryption asset delivery policy
+storage key
+body
+client playback application
+ingestmanifest
+scale
+azure media service encoder
+fee structure
+following method
+folder
+playready license template xml schema
+packaging
+clear asset delivery policy
+high quality video
+silverlight
+azure active directory
+advanced
+telestream wirecast
+point
+various device
+live encoders
+linux
+rendition
+ingest streaming protocol
+solution
+pipeline
+condition
+different network condition
+manage asset
+following step
+media encoder strandard
+“stream”
+upload url
+ad server
+common live streaming application
+access key
+media processor microsoft azure
+development
+upload content
+window pc
+mostly speech
+different asset delivery policy
+media indexer
+new features\scenarios
+camera
+create advanced encoding workflow
+live streaming guide
+manipulate
+adobe open source media framework
+cenc
+activity
+axinom widevine license server
+scale media processing
+simple web token
+media encoder standard format
+workflow file
+media service rest api overview
+deliver progressive download
+full-text transcript
+delete filter
+string
+lc
+resolution
+source asset
+smooth streaming client final product
+azure media service rest api
+media encoder premium workflow format
+uploading asset
+widevine license template overview
+amse
+status
+media processor component
+azure cdn
+media service application
+azure media service explorer
+azure media service overview
+demand content delivery application
+blob storage
+couple
+overivew
+decrypt media content
+preview
+previous step
+on-premises encoder
+strobe media playback
+azure free trial
+live streaming ingestion
+static packaging task
+free trial account
+authentication
+keyframe
+media service release note
+subsequent api
+channel preview
+hyperlapse media file
+azure media service job
+authorization restriction
+error condition
+frame rate
+manage azure media service account
+following output setting
+companion ad
+swt
+mpeg-2 transport stream
+policy
+key authorization policy
+ezdrm
+multi-bitrate
+server resource
+protected content
+billing
+stopped state
+mezzanine file
+running
+progress
+expiration date
+ondemandorigin locator
+percent-encoding
+field
+job reference
+github
+unit type
+notification message
+following diagram
+output file
+license template
+dvr
+live archive
+related component
+following response
+please contact
+following image
+filtering
+on-demand
+audio overlay
+make
+new storage account
+dolby digital
+.net sdk extension
+information see
+max
+pas
+ondemand locator
+period
+following am partner
+am .net sdk
+token match
+feature
+azure cdn integration
+macro
+live feed
+playright
+read permission
+development environment
+reason
+navigate
+solution explorer
+job status
+ad insertion
+h.264 mp4 adaptive bitrate set
+client application
+io device
+media progress
+batch processing
+azure service management rest api
+beginning
+subset
+origin locator
+rtmp
+template
+inc
+contentkeytype
+playreadylicenseresponsetemplate
+single bitrate fragmented mp4
+configuration file
+commonencryption
+current state
+name property
+premium
+asset’s delivery policy
+video ad service template
+playreadyplayright
+asset reference
+progressive downloads
+video rendition
+live input stream
+detailed explanation
+stereo
+single bitrate rtmp
+adaptive bitrate set
+whole video
+error code
+azure media service .net sdk extension
+following streaming format
+true
+mast
+media packager
+practice
+azure.important note
+media abstract sequencing template
+locator id
+media service account name
+following way
+digital video multiple ad playlist
+various task
+streaming locator
+new azure media service account
+list job
+slider bar
+ip range
+microsoft smooth streaming plugin
+media service job notification
+sub-clips
+on-demand streaming server
+microsoft
+mainpage class
+streamingendpoint
+starttime value
+static packaging
+channel page
+server side rule
+specified filter
+following code snippet
+output file name
+package
+mono
+interface
+rendition filtering
+information see configuring asset delivery policy
+assetfile instance
+token restriction configuration xml
+http-live-streaming
+caption
+master file
+mediaelement control
+view
+.net extension
+token’s authorization requirement
+drm
+creating overlay
+live viewing
+token restriction option
+rest api version history
+open source media framework
+high profile
+keyframe interval
+live streaming problem
+valid value
+queue
+network condition
+smooth streaming client interim product
+special type
+january
+”data center b”
+multiple filter
+blob storage usage
+cdn integration
+commercial break
+video cover
+programmatic connection
+possible value
+azure media service rtmp support
+upload multiple file
+smooth stream content
+listed encoders
+dynamic streaming
+collection
+background noise
+live transcoder
+encryption option
+insert slate
+multichannel
+nuget
+access control service token
+preview release
+service failover
+input container
+top
+following list
+ad marker
+sample solution
+list filter
+reserved unit type
+click media service
+custom preset file
+smooth time-lapsed video
+file name extension
+basic smooth streaming store application
+cloud platform
+common task
+action-camera content
+robust live ingest mechanism
+”data center a”
+select smooth streaming track
+publishing
+adaptive streaming
+microsoft smooth streaming client porting kit final product license
+stitch video
+map
+smp
+queue storage
+select smooth streaming stream
+broadcast content
+basic media service
+generate thumbnail
+following encryption option
+february
+microsoft smooth streaming client porting kit interim product license
+media service .net class
+following functionality
+index multiple file
+iassetfile.name property
+compute
+=+
+envivio
+instruction
+component
+connection value
+transform manager
+manage
+dynamic packaging capability
+file type
+azure storage account
+following percent-encoding-reserved character
+mediaservicescredentials
+single file
+dolby digital plus stereo
+apple http live streaming
+shared-instance model
+put
+bitrate video track
+distribution
+transit
+blog post
+content key spec
+quick create
+default slate asset id
+content key id
+length
+speed
+following output
+.origin.mediaservices.windows.net/
+iassetfile.name
+account name
+smooth streaming content
+building url
+old format
+/streamingparameters
+pause
+maximum
+cloudmediacontext
+ip
+guid
+live ingestion
+‘.’
+specified key
+geographic region
+cloudmediacontext instance
+.ism
+wmv
+commonencryption type
+simplicity
+advertising
+issue claim
+presentation window
+html page
+menu
+stop
+policy_overrides
+configure authorization policy
+definition
+speech
+odata
+size
+strong encryption
+cea
+token restriction configuration
+stopping
+creation
+envelopeencryption type
+checksum
+leverage microsoft azure ac
+clear content
+istwopass=
+anyone
+primary use case
+re-encrypted prior
+new output asset
+rate
+ready
+different device
+custom sts
+filename
+disk
+commonencryptionprotected
+play
+portal ui indicator
+file system
+signal
+specified delivery policy
+mse
+line
+bitrate constantbitrate bitrate=
+scale media service
+bufferwindow=
+ingest
+jwt token authentication
+series
+place
+dynamic common encryption
+please refer
+media service .net sdk version
+state property
+permission
+dash.js player
+main video
+jobtemplate
+ingestmanifestfiles
+sdks
+envelopeencryption
+pattern
+sa
+durationinminutes value
+ingestmanifestassets
+different policy
+customers’ device
+region
+client_id
+north china region
+uncompressed video format
+single policy
+download file
+envelope
+console application project
+tokentype
+app
+session initialization
+client_secret value
+closed caption file
+widevine license server
+new primary storage key
+open authorization policy
+apple prores
+vast xml
+json message
+archive window length
+completion
+mp3
+ssl connection
+powershell cmdlets
+.mp4
+output video stream
+year expiration date
+configuration preset
+high quality
+input contribution feed
+language track
+playreadylicensetemplate
+scalability
+media task
+build progressive download url
+.net apis
+archived content
+host name
+surround
+following topic
+video player application
+azure.video
+commercial encoding service
+third party encoders
+gxf
+cueid
+data loss
+smooth streaming asset
+specifies
+dynamiccommonencryption
+specifies hl
+digital video file
+livebackoff
+enum type
+sla
+microsoft playready
+use azure ac
+policy override
+single filter
+external encoders
+recognizability
+local filter
+authenitcation
+create envelope type contentkey
+video player-ad interface definition
+dedicated egress capacity
+live position
+media service blog
+protectionkey
+cache
+outage
+azure marketplace
+show slate
+sspk access
+get media service account
+create common type contentkey
+mode attribute
+sample code
+new secondary storage key
+mastpage
+live
+timescale
+nodynamicencryption
+xml string
+custom host name
+create new media service account
+install microsoft azure powershell cmdlets
+encoding step
+proxy
+related task
+sql server
+integrate azure media service owin mvc
+mingfei’s blog
+multiple rule
+billing meter
+select azure subscription
+conjunction
+define statechanged event handler
+cloudmediacontext constructor
+scheduleclippage
+practice guidance
+chrome
+get azure media encoder processor
+truepeakemphasis attribute
+vastlinearcompanionpage
+channeloperations class definition
+freewheelpage
+use odata batch processing
+media service model
+on-premises
+osmf static loading
+vmappage
+create/update/read/delete asset filter
+live streaming event
+aib
+merge
+encoder failover
+following sample
+standard http response header
+standard http verb
+service redundancy
+regenerate primary storage access key
+tag
+encoder redundancy
+copy blob
+separate stream
+live encoding workflow
+endpoint name-media service
+singe bitrate
+pc
+media service general issue
+adschedulingpage
+different filter
+aes-256 bit encryption
+microsoft media platform
+cdn cache
+ad marker source
+control
+jwt claim
+adpodpage sample
+adaptive bitrate stream
+input image file format
+programmaticadpage
+newtek tricaster
+portion
+truepeakdcblock attribute
+vastlinearnonlinearpage
+content key delivery
+isvs
+re-generate media service access key
+new locator
+channel output
+issuer
+video segment
+input file format
+use media service key
+multiple mp4 file
+thumbnail preview
+start time
+.net issue
+json
+additional functionality
+scale storage
+output audio stream
+.streaming.mediaservices.windows.net/
+common processing operation
+url format
+bundle
+createfromfile method
+configure azure media encoder setting
+indexing
+use media service .net sdk extension
+media service built-in media encoder
+standard http request header
+aes key
+performance
+create/update/read/delete global filter
+key seed
+dplm result
+conformance notation
+multi-bitrate rtmp
+live content
+media service content delivery workflow
+new github repository
+job entity
+create asset
+authorized user
+monitor processing progress
+media service encoder release
+remove media service account
+combination
+assetfilter
+mediafile attribute
+media service playready license template
+use media service .net sdk
+get storage account name
+baseline
+axinom license server
+poster
+thumbnail xml preset
+speechthreshold attribute
+service level agreement
+image overlay
+thumbnail json preset
+preset string
+sequence
+media service partner
+client code
+chain
+osmf dynamic loading
+following change
+party
+media service sample
+regenerate secondary storage access key
+batch
+player failure
+captioning
+ad response
+framework
+azure media player preparation
+monitor bulk ingest progress
+|3
+widevine support
+environment microsoft azure
+azure access control service
+azure media service change
+system preset
+basic media service workflow
+append
+performs
+sample media file
+requested adaptive bitrate stream
+common programming object
+sync metadata button
+protocol format http
+various type
+media service uisng .net
+managing azure media service job
+faq
+rolling storage access key
+format definition
+create global filter
+following constraint
+update filter
+main component
+encoder release
+odata api
+target storage account
+azure media encoder output file name
+add
+ingestion format
+microsoft playready drm
+monitor
+filter composition
+dynamic loading
+getting
+update global filter
+indexing job
+mobile device
+smooth streaming window store application
+v4
+high performance
+amsaccount
+asset pair
+program class
+source content
+read-only sa locator
+different client request
+current version
+creating player application
+digital right management
+tricaster live encoder
+encrypts
+aes 128-bit encryption key
+build url
+case wirecast
+following streaming protocol
+live streaming presentation
+target empty asset
+.net class
+delivery dash
+manage content
+enable azure cdn integration
+http/1.1
+media encoder premium workflow output format
+rtp ingest
+associated asset
+dynamic packaging overview
+extra hourly charge
+s odmf dynamic plugin
+channel input
+implicit
+local assetfilter
+browser-based streaming video player
+tutorial introduces
+create/start/stop program
+connection endpoint
+send status update
+following example show
+dynamic plugins
+related article
+uploading
+media encoder premium workflow support
+tried several encoder output setting
+am license service
+typical system
+azire
+key identifier
+“verification
+file size value
+network error
+avi
+access file
+fragmented mp4 format
+sa url locator
+actual upload url
+datetime
+media service powershell cmdlets
+default720p
+following step describe task
+media encoder premium workflow input format
+target asset
+atomic task
+secondary url
+java azure.note
+azure queue storage
+media encoder premium workflow format format
+major part
+ga release
+download media asset
+dolby professional loudness metering
+modify
+azure sdk tool
+statement
+full live presentation
+event handler code
+necessary intellectual property right
+media service encoder update
+checksum value
+microsoft smooth streaming client interim product agreement licensee
+media service quota
+wirecast live encoder
+new url
+pricing detail
+use portal
+azure portal microsoft azure
+default workflow file
+end time
+media service account microsoft azure
+source video
+io video player
+azure media service smooth streaming plugin
+authorization requirement
+complex object type
+live encoding setting
+media service pricing detail
+wirecast encoder
+drm license delivery service
+correct header value
+key delivery service workflow
+visual studio app
+separate channel
+.net type
+output media asset
+media service uisng rest api
+output file format
+encrypt content
+following configuration
+delete global filter
+following type
+public preview release
+compare encoders
+publish content
+source resolver
+dialognormalization attribute
+failover streaming scenario
+running state
+following xml schema
+specific resolution
+compile time
+actual file size
+china
+signing key
+use am key\license deliver service
+billing implication
+dolby® digital plus
+envelopeencryptionprotected
+multiple locator entity
+source stream
+use azure queue storage
+post
+update local assetfilters
+azure media encoder standard format
+generation
+service diagram
+following component
+mean
+azure media service learning path
+jwt token generation
+rtp protocol
+billing charge
+insert slate image
+audio format
+stop program
+know issue
+aes envelope encryption
+add code
+actual work
+common workflow
+ondemandorigin type
+delete local assetfilters
+asset delivery policy configuration
+input video stream
+azure media service release note
+bit-stream format iso 14496-12 fragmented mp4
+progressive stream
+connection
+additional consideration
+hds stream
+flexibility
+sample application
+smooth streaming window store app tutorial
+microsoft smooth streaming client final product agreement licensee
+associated program
+decryption
+task configuration presets
+xml mediaelement control
+advertising folder
+child
+multiple background role instance
+create local assetfilters
+joboutputasset
+get assetfilter
+eme
+space
+failover streaming scenario microsoft azure
+azure.note media service
+following prerequisite
+enumeration value
+note media encoder premium workflow media processor
+first input asset
+interruption
+media source
+include
+high-quality mezzanine file
+software
+media service service
+media service .net sdk extension
+paste
+brazil south
+html5
+display
+.workflow extension
+azure media encoder schema
+benefit
+ttml
+disqus thread
+impact
+access signature
+wait
+primary verification key
+press
+path property
+sparse fragment
+on-demand streaming throughput
+elemental
+primary file
+snippet
+post request
+layer
+india central
+charge
+app.config file
+separate configuration file
+multiple content key
+custom workflow
+press ctrl+s
+bit rate
+function
+india south
+encoding task
+per-user access control
+individual user
+different access right
+diagram
+program.cs file
+behavior
+openid connect discovery spec
+segment
+fragment request
+keyword file
+-3
+production environment
+mpeg-2 style adts packaging
+‘10.0.0.1’
+discontinuity
+bit
+adobe flash live
+channel name
+output multi-bitrate smooth streaming
+pc/mac
+metric
+cisco
+system.configuration
+assetname
+load
+complete sample code
+new content
+storage account name
+license service
+dependency
+specified content
+bits/sample stereo audio cbr
+complete .net example
+content list
+type property
+content_key_specs
+ijob.state property
+submit
+smooth streaming file
+header box
+uploading process stop
+video track
+live streaming task section link
+following characteristic
+aac-lc
+unique locator
+playready content protection
+license request
+locator path
+sami
+input url
+external storage
+bandwidth
+word
+default program
+single ip address
+‘10.0.0.1/22’
+following live encoders output rtmp
+job’s state
+cost
+view code
+actual media content
+live tab
+‘10.0.0.1
+//
+archiving
+following live encoders
+on-demand origin locator
+security
+streamingendpoint service
+sp1
+format conversion
+url start
+dotted decimal subnet mask
+tricaster transcoders
+right click
+production environment asset
+india west
+asset file size
+multi-bitrate smooth streaming source file
+live presentation
+cidr subnet mask
+video cbr
+vast response
+stop streaming
+encoder presets
+ingested stream pas
+h.264 main profile
+integration
+.ism file
+mp4s
+token data
+mpeg-1 audio layer
+ip restriction
+singlefilepath
+multi-bitrate mp4 file
+azure media service sdk
+input video
+constructor
+safari
+suffix
+asset id
+tb
+bandwidth need
+“streaming.mediaservices.windows.net”
+encoding job
+active-active redundant encoders
+single media service account
+merge http request
+capability
+pixel
+azure storage sdk
+aib file
+.ismv
+location
+ad insertion standard
+odata batch processing
+demand asset
+streamingendpoints
+media encoder standard encoder
+x.509 certificate
+multiple process
+/bitrate /streaminfo streaminfo size=
+on-going slate
+window media video
+ensure
+media service content player
+assetcreationoptions
+preset xml
+byte
+xml schema
+general availability
+bitrates
+mm
+client player application
+actual media file
+player application
+certain critical live event
+get media processor
+non-default streaming endpoint
+single point
+incoming stream
+access control
+following data center
+amp document
+base path
+ijob
+streaming protocol
+media service dynamic packaging
+smooth streaming client sdk
+ad pod
+post-roll ad
+smooth streaming presentation
+response body
+end user player
+web application
+microsoft digital video recording
+box
+dvr-ms
+distinct object
+encoding reserved unit
+channel property
+click new
+single url
+encoder must
+azure media hyperlapse media processor
+envelope encryption
+extension method
+helper function
+azure storage queue
+use url
+multiple type
+content provider
+assetid
+syntax
+seamless failover
+job id
+capacity
+new format
+live channel
+ie11
+bulk ingesting
+previous section
+outbound stream
+live ingest
+file extension
+different stream
+new streaming endpoint
+initial state
+retry logic
+ms-sstr
+amp
+“origin.mediaservices.windows.net”
+live streaming functionality
+experience
+assetdeliveryconfiguration
+asset collection
+odata v3
+webvtt
+complete list
+protect
+media service apis
+property information
+mid-roll ad
+processor
+trackingevents element
+following property
+android device
+optional header
+thread
+sspk
+vpaid ad
+window media audio
+xdcam
+token authentication
+formatting
+matroska/webm
+http post
+generate
+left
+web server
+dialog
+assetcreationoptions.none
+mpeg2-ts
+io
+protectionkeytype
+multiple live encoders
+intent
+elemental technology
+linear sequence
+file protocol
+standard xml-based file
+base url
+vendor
+v0
+wait time
+24-hour period
+u4
+elemental live web interface
+choice
+select
+console app
+inline
+device profile
+portal window
+additional information
+.ts
+media service encoding
+super
+.mov
+ateme
+job mediafile deinterlacemode=
+dvcpro/dvcprohd
+basic type
+image pixel
+provision
+statechanged event handler
+different kind
+high level architecture
+independent software vendor
+many application scenario
+http load
+base64
+content management article
+input file
+effect
+hand
+digital video player ad interface definition
+quicktime
+chained itask object
+videoresizemode=
+client device
+various live streaming protocol
+term
+open data protocol
+expires_in
+japan west
+access token request
+approach
+mpeg-2
+playready compliance rule document
+multiple language audio track
+normalizeaudio attribute
+east asia
+billing impact
+smpte
+button
+new connection
+resizequality=
+mov
+atomic processing task
+ingested content
+various ad
+media presentation
+nonlinear overlay ad
+new media service account
+playready license delivery service
+west europe
+low score
+use media service dynamic packaging
+network limitation
+rule definition
+typical use case
+locator’s path value
+mediaservicescredentials class
+difference
+high availability
+smooth streaming client porting kit
+licensee
+task chaining
+release note
+different media processor
+ismt
+linear full frame ad
+basic encoding reserved unit
+scope
+common streaming protocol
+date
+dplm sdk
+encoder implementation
+.wav
+media service credential
+network disconnect
+asset filter
+position
+media timeline
+/ismv
+access claim
+complete description
+preview endpoint
+getprotectionkey method
+autopixeladaptive
+idea
+task finishing
+example rtmp
+accountname
+access media service
+new token
+url change
+http request header
+.lst extension
+new account
+y2
+apply storage encryption option
+sparse nature
+following attribute
+client_secret correspond
+ingestmanifestasset
+task navigation property
+assetfile entity
+conceptual information
+wma
+assetdeliverypolicy section
+client manifest
+task finish
+basic
+task preset string
+streaming endpoint service
+single ijob object
+dialognormalization
+input media file
+manage key button
+mpeg-1
+.mpg
+new program
+contentkey entity
+call
+main video’s time line
+associated storage account
+leftmost pixel
+audiogainlevel=
+entry point
+microsoft smooth streaming client porting kit
+.m4v
+gif
+interval
+multi-drm
+static image
+accountkey value
+smooth streaming url
+xaml file
+manifest
+movie
+mainpage constructor
+int64
+logo
+window media platform
+valid option
+broadcast
+aes3-2003
+getprotectionkeyid
+single-bitrate stream
+public key
+entire file
+next task
+secondary key
+recommended implementation
+filepath
+.m4a
+non-linear ad
+local computer
+loudness
+appropriate format
+asset creation option
+secure
+runtime
+eg
+dash content
+unit type compare
+full url
+widevine license acquisition url
+live streaming video
+media service platform
+media service account setup process
+widevine license request
+usability
+multiple media file
+media service sdk version
+patch
+associated setting
+new channel
+complex workflow
+mpeg layer
+live ingestion endpoint
+oauth v2 protocol
+filename.ism
+host
+jobinputasset
+message
+.net framework
+accountkey
+u0
+alternative
+north europe
+link operation
+next lesson
+live video encoder
+adschedulerplugin
+starting
+y4
+ericsson
+finished
+encoding reserved unit type
+tv
+inputmediaassets
+new feature
+preset schema
+ac3
+default storage account
+stretch
+microsoft azure media service sdk
+microsoft.com
+new event
+japan east
+outputformat mp4outputformat streamcompatibility=
+input audio
+third party encoder
+mediaplayer class
+potential issue
+.3gp
+basic workflow
+azure media service rest api reference
+following protocol
+delete http request
+y0
+encryptedcontentkey
+allocation
+supported feature
+avid dnxhd
+keyframeinterval
+audio quality
+job run
+upload progress
+access control service
+.net -version
+compression/decompression algorithm whereas
+new property value
+royalty model
+dolby laboratory
+aes-128 bit
+time-synchronized signal
+//sltoken.azurewebsites.net
+view content information
+different storage account
+encoder guide
+e-ac-3
+breakid
+branching
+complete fragmented mp4 bit-stream
+dolby® digital
+flv
+example video
+overridable property
+following benefit
+primary asset file
+designer tool
+ad marker signal
+main .net class
+storateencrypted contentkey
+window azure media encryptor
+ismv
+output protection level
+generates thumbnail
+static version
+appropriate time
+enhanced ac-3
+cablelabs®
+odata system query option
+microsoft playready protection
+microsoft smooth streaming content playback
+live ingestion format
+primitive data type
+backup
+maximum limit
+“live server manifest box”
+john sheehan’s jwt nuget package
+u east
+sdk code manager
+cdn pop
+mainconcept
+use patch
+following modern browser
+encoder type
+replication
+azure media hyperlapse job
+stadium
+following media file format
+input element
+|2
+following bug fix
+telestream wirecast live encoder
+source code
+world
+incoming video signal
+detailed requirement
+azure design guideline
+adschedulingpage.xaml
+vmappage.xaml
+multiple context
+free public preview state
+basic mechanism
+wire format
+scte-35 signaling mechanism
+west
+encoding type
+azure media service .net sdk library enables
+average bitrate
+media service rest metadata
+origin url
+job entity property
+//aestoken.azurewebsites.net
+storage analytics
+static plugins
+datetime value
+list permission
+run-time
+input stream
+third-party component
+unnecessary token request
+playready protection
+audio enhancement
+use azure storage sdk
+multiple quality level
+azure.important reserved unit work
+channel reset
+icon
+microsoft research
+.net framework api
+v3
+time-lapsed rendition
+documentation
+datacenters
+wiki
+aes-128 bit envelope encryption
+usage metric
+platform/browser capability
+dynamic cenc protection
+use nuget
+osmf plugins
+nature
+non-async version
+expression encoder
+16-byte aes key
+/// /summary /// param name=
+web video player
+configured key
+vastlinearcompanionpage.xaml
+“playready aes key checksum algorithm” section
+business requirement
+player development
+company-branded smooth streaming client final product
+parallelize bulk hyperlapse processing
+playready header object document
+input source file
+you’ll
+multi-native-drm
+multi-bit rate mp4 file
+playready license service
+traditional media
+nuget package
+appsettings section
+azure media service dashboard
+following list describes
+cinema
+production account
+rsa
+play content
+advanced configuration
+basic media function
+dash multi-native-drm
+important media service concept
+pre-production account
+aac plugin
+encoder schema
+account key
+normalizeaudio=
+azure.important microsoft hyperlapse
+following table
+following content
+click ok
+account information
+default encoder presets
+microsoft azure media service rest api
+manifest file
+iso-14496-12
+audio stream switching
+typical http adaptive streaming scenario
+time client
+following .net example
+.asf
+static smooth streaming plugin
+example mast file
+renewal
+default slate
+child element
+following sample preset
+plugins
+entertainment
+stream header
+widevine packaging
+specified amount
+ijob.delete
+newtek tricaster live encoder
+second input asset
+tutorial describes
+server error
+new storageencrypted asset
+encrypted mpeg-dash
+default limit
+long-running .net apis
+device manufacturer
+multiple video file
+text box
+first
+easy way
+iso fragmented mp4
+min
+call createfromfile
+south east asia
+expiration time
+download url
+envelopeencypted option
+.swc
+job processing progress
+upload new content
+asp.net web application
+kit
+state transition
+key\license delivery service
+high level
+azure.note additional cost
+server manifest box
+channels=
+scale encoding
+regular audio/video streaming
+simple web page
+persistent storage
+mediaplayer instance
+playreadylicensetemplate class
+industry standard
+timer
+deleted job
+recommendation
+configuration xml
+nonlinear ad
+jpg
+accesspermissions.list
+mpeg-ts stream
+different quality level
+entire presentation
+transcoding
+amplification
+input audio stream
+azure.note consider
+window form application
+slider start
+media encoder premium worflow input format
+** element
+expectation
+recorded content
+extensible cloud-based platform
+quality level change
+basic streaming license
+right-click mainpage.xaml
+aac-he
+azure media service content protection
+smooth streaming content playback
+media encoder premium worflow output format
+channel manage program
+fallback technology
+november release
+mediaservicesaccountkey
+video-on-demand file
+designer
+expected control
+program relationship
+display ad
+dynamic protection
+appropriate media source
+require
+important thing
+job request
+home theater
+large amount
+azure media processor
+.mxf
+commonencrypted option
+encoding process
+save button
+sample code relevant
+encode presentation
+mpeg2-ps
+consideration section
+packaging asset
+odata-based http request
+‘mdat’ box
+following video
+time offset
+client player
+outputmediaassets collection
+excellent business value
+iso/iec
+advertising signal
+event signaling
+distribution right
+delivery application
+public preview version
+list attribute
+typical scenario
+audio content
+interest
+on-demand smooth streaming content
+streaming endpoint page
+various ad response format
+azure media service msdn forum
+channel creation
+player sample
+azure storage container
+special format definition
+many operation
+media service solution
+core dolby digital technology
+relative path
+following method uploads multiple media file
+distinct license agreement
+progressive mp4
+timestamp
+media job
+.3gpp
+delivery encrypted dash stream
+dynamic live ad insertion
+microsoft.playerframework.xaml.samples solution
+needed claim
+versus packaging
+decryption key
+|25
+third-party encoder
+major accomplishment
+high-fidelity audio
+read
+storage connection
+main profile
+google
+special action
+walkthrough
+wide variety
+mobile device proliferate
+many ad
+specific scenario
+playback technology
+.swf
+official osmf site
+comma
+axinom’s widevine license server
+default setting
+rich client experience
+private network
+professional broadcaster
+encoded media
+high-end on-premises live encoders
+media encoder premium
+ip authorization restriction
+playready widevine
+encodingjobmessage type
+second type
+encoding channel
+job completes
+default capability
+hl player
+towards professional broadcaster
+following asset creation option
+seamless azure cdn integration
+post url
+key\license delivery service url
+stitching
+single subscription
+azure data center
+service pack
+introduction
+main class
+jwtpayload
+new mediaservicescredentials instance
+single ad break
+class definition
+stream media content
+lecture
+output control section
+live smooth streaming content
+dynamic value
+deliver media
+he-aac v1
+old job
+audio\video content
+mpeg dash url
+home theater surround sound
+following media service powershell cmdlets
+breaktype attribute
+osmf plug-in
+32-byte aes key
+single track
+first element
+createfromfile
+encryptsymmetrickeydata function
+rich feature
+.ps
+live streaming delivery
+media encoder premium workflow media processor
+azure-sdk-tools
+adpodpage.xaml
+ordemandorigin locator
+encoder side
+azure media service media processing platform
+mp4 bit-stream
+playready and/or widevine drm
+cloud-based sibling
+multiple archive
+client need
+available media service region
+asynchronous ad marker api
+azure ad
+programmaticadpage sample
+running operation
+channeloperations
+createfileinfos media service rest api
+oaep
+single xml preset
+mediaserviceslicensetemplateserializer class
+required http header
+various format
+export file format
+osmf player
+correct x.509 certificate
+main media data
+system clipboard
+short overview
+department
+clear content key
+output file naming
+current position
+freewheel plugin
+different part
+power
+mode
+.mp3
+mediapackager_mp4tosmooth.xml
+break type
+xaml/cs file
+background music
+noise
+running application
+media service license delivery service
+content protection page
+data transfer
+system integrator
+media encoder premium workflow encoder
+single storage account
+am support jwt
+google widevine dynamic protection
+following content operation
+container name
+atom+pub
+constant stream
+numerous application scenario
+media processing task
+jwt token generation section
+positive value
+third input asset
+assetfile.name
+smooth streaming client porting kit device licensee
+clear speech
+media service .net sdk bit
+download .ism*
+adaptive source update event
+playready license restriction
+media service license template xml
+status update
+storageencrypted option
+setup step
+endpoint enables
+oauth protocol
+standard way
+swc
+industry
+regenerated storage key
+azure media service .net sdk extension library
+widevine drm license
+configuration information
+timeoffset specifies
+storage problem
+reader
+certain situation
+basic unit
+media service content
+streaming workflow
+generate media data
+m4a
+summarize change
+window media video/vc-1
+mediaservicesaccountname
+wav
+encoder generate
+preview sdk release
+persistent license
+wmv asset file
+base64-encoded string
+content processing
+odata service
+first-person content
+dynamic smooth streaming plugin
+rest update
+phone-based hyperlapse mobile
+additional bandwidth saving
+optional identifier
+ok
+certain case
+output filename
+web service class definition
+encrypted media extension
+redundancy scenario
+azure active directory access control
+mediaplayer
+samplespersecond=
+ingestion
+scale tab
+filter name
+‘moof’
+minimum
+pre-event image
+mp
+first file
+xml conforms
+reserved capacity slider
+following data member
+rolling access key
+playready and/or widevine drm dynamic common encryption
+multiple track
+live event feed
+.gxf
+develop great app
+interim product
+max limit
+appropriate content
+string.format
+static library
+final output file
+primary audio track
+common input
+readability
+iassetfile information
+//smf.cloudapp.net/healthmonitor
+media service replicator tool
+imagine
+access media
+single output asset
+current live position
+jobs\tasks
+following improvement
+increased demand
+smooth streaming client porting kit licensee
+rtp support
+end-to-end example
+average
+different operation
+mixed audio
+media service notification
+flash
+quickstart walk
+azure queue messaging architecture
+aac-hev2
+public preview
+usage
+open data protocol documentation
+primitive type
+ac server
+sound effect
+microsoft playready drm license
+previous release
+following media service management task
+__
+scheduleclippage.xaml
+y3
+following feature
+extra effort
+smooth streaming playback capability
+second element
+life
+audio indexing blob file
+secondary storage access key
+official osmf plugin page
+bmp
+compressed video
+tv show
+unique
+target blob container
+osmf plugin
+failover scenario
+|1,000
+great content
+on-disk storage encryption
+media processing
+/asf
+xml file
+delete entity
+//dashplayer.azurewebsites.net
+online streaming
+hl content
+xdcam hd
+smooth streaming media content
+d10
+*.wav
+necessary information
+scalable media management
+chipset manufacturer
+task specifies
+various client
+following documentation section
+write access
+knowledge
+live real-time caption
+extension
+window console application
+project output
+recorded meeting
+different way
+fmle doesn’t support aac
+encryption capability
+timed event
+multiple element
+additional task
+output control
+digital right manager
+monitoring storage data
+post-event image
+playready license template xml schema section
+proper failover logic
+end-to-end workflow
+following required connection value
+library
+following consideration applies
+|50
+write sa locator
+sa signature
+zero index
+output data
+azure media player framework
+introductory blog post
+associated account
+massive scale
+media service sdk release
+cloud-based service
+event handler
+ad-break image
+programmaticadpage.xaml
+manifest url
+source storage account
+dedicated asset
+example vmap file
+target media service account
+quick create method
+main functionality
+widevine drm dynamic common encryption
+following audio/video bitrates
+access apis
+break id
+new unit
+key delivery policy
+power failure
+time-synchronized event
+publish/unpublish content
+good failover support
+azure subscription
+still-camera footage
+desktop hyperlapse pro
+unified javascript interface
+encoded media data
+click mainpage.xaml
+live encoder side
+quality level restriction
+ad type
+fourth pixel
+|5
+window desktop tool
+azure media service explorer tool
+sound quality
+different file container
+streaming throughput
+callback
+|10
+phone
+necessary dependency
+custom presets
+playready aes key checksum algorithm
+y5
+rest-based service
+.mkv
+encodes
+associate blob
+customer facing update
+various attribute
+default asset
+ismc
+advanced surround sound audio codec
+compiled output
+content type
+uploadfile method
+time.be
+m edge
+following sdks
+xdcam imx
+slate and/or advertisement
+encryptor
+audio bitrate
+pre roll ad
+url syntax
+ads.video player application
+512-bit storage access key
+azure media player wiki
+adobe® flash® f4v
+option property
+y1
+mobile entertainment
+//aka.ms/amse
+enriched adaptive streaming experience
+mastpage.xaml
+portal ux
+client project
+continued billing
+e-ac3
+authorization server
+window length
+basic video-on-demand
+advanced new technology
+minimum security level
+single mp4 file
+specified video
+osmf dynamic plugin
+detailed overview
+rewind etc.
+wide-range
+desired video
+dependent library
+query
+sspk license
+content management system
+specified locator id
+variant
+display detail
+appropriate http response
+github page
+following audio format
+basic playback
+customer decision logic
+token authorization restriction
+maximum amount
+envelopeencrypted use
+various option
+modern browser
+verbose json
+premium on-demand workflow
+many additional feature
+vastnonlinearpage.xaml
+tif
+media processor support
+dynamic encryption encryption
+audio fragment
+freewheelpage.xaml
+following nuget package command
+live dvr
+azure media service packager
+static loading
+guid part
+end-to-end live streaming delivery
+following source file format
+new microsoft azure media service asset
+offline playback
+.net code
+console application
+dolby® digital plus encoding
+gop size
+appropriate storage key
+optional task preset
+azure.note window azure media packager
+.if
+preset configuration file
+bar control
+starting point
+swf
+multiple option
+ac service limitation
+desired input file
+general prerequisite
+isma
+simplest
+azure.note wait
+complex encoding task
+wave/wav
+streaming unit
+media source extension
+renowned dolby cinema experience
+he-aac v2
+broadcaster
+aac codecs
+error event
+multiple time
+metadata record
+use aes-128 dynamic encryption
+widevine protection
+//dashif.org
+pricing
+mediaelement xaml control
+live streaming ingest
+osmf download
+multiple drms
+error-event image
+anything
+us
+correct value
+common import
+relevant topic
+filmstandard
+t=1000
+evertz
+azure.note note
+code gallery
+avc 8-bit/10-bit
+thumb
+asset topic
+e.currentstate
+job state
+//media.windows.net/
+server context
+vc-1
+mpeg-4/mp4
+default smooth streaming url
+communication key
+asset delivery protocol
+hl streaming url
+storage location
+am platform
+encryption property
+30-second delay
+default azure media service image
+manifest/playlist url
+notification end point
+compile
+input mp4 file
+press ok
+video quality
+asset encryption
+azure managment portal
+archive window
+accurate state
+primary input url
+mystarttime
+specific start time
+check button
+confirm playback
+_cachedcredentials
+entitlement message claim
+network congestion
+following event handler
+iv
+video overlay
+character
+program creation
+encoder tab
+imagine communication selenio enc
+avcintra
+old storage key
+itu_r_bs_1770_2_di
+baseline profile
+dialogue intelligence
+disconnect
+dash streaming
+reset.the element
+assetname attribute
+whenever
+media service .net development
+class program
+media service concept
+channel preview url
+new storage account name
+form
+preset configuration
+range
+channel playback
+advertising configuration page
+click create channel
+video quality level
+multiple encoders
+fixed
+jtw token
+hover
+ie/chrome/safari
+flash/silverlight
+unnecessary program
+mymobiledevice
+lesson1
+express
+launch
+complete system
+near future
+slider
+storagename
+official osmf development page
+mp4 fragment duration
+create new program
+licenseacquisitionurl property
+fragmentspersegment
+local filter type
+channel completion status
+press f6
+propagation process
+second gop
+azure media
+preset element
+live encoding option
+primary key information
+description field
+hourly billing impact
+following parameter
+am player
+kbits/sec
+video codec
+press f5
+filter quality
+specific asset
+brief overview
+existing azure subscription
+click quick create
+text
+input endpoint
+indicates
+smooth streaming protocol
+mini-solution
+copy input url
+identifier
+correct media processor id
+permutation
+general osmf development
+download mp4 file
+following value
+global
+action
+hardwired internet connection
+iassetfile.upload
+semicolon
+ultimate
+contact mepd microsoft.com
+good rule
+active directory
+live streaming workflow
+specific rendition
+mandatory requirement
+slight delay
+setting option
+mpeg-2 aac-lc audio
+bitrate streaming protocol
+nuget package restore
+javascript code
+iasset asset
+openid connect discovery document
+r2
+window media/asf
+media encryptor preset
+root uri
+handful
+webcam
+video element
+piff
+json web key
+digital media file
+xbox
+playreadylicenseacquisitionurl property
+com_key_id
+msdn developer code sample
+widevine server setup
+channel setting
+ownership
+using playready dynamic encryption
+mp4 file format
+program area
+email
+press enter
+create account
+enables
+data redundancy
+smooth streaming file format
+following provider
+let’s
+program information
+status change
+reconnect
+select standard
+sparse track fragment
+salesforce
+manage key icon
+jpeg
+wav/pcm
+streaming bitrates
+output stream
+identity provider
+//iab.org/vmap.pdf
+click set source
+letter
+job’s completion
+vertical line
+following preset snippet
+icloudblob
+complete example
+audience parameter
+video camera
+storage encryption option
+hh
+main difference
+smooth streaming format
+browse
+underscore
+dolbydigitalplus
+group
+filer
+pre-defined filter
+channel start average
+important content delivery concept
+client token
+channel configuration
+channel start
+cloudblobcontainer
+pmt
+message area
+iasset
+channel area
+payload
+wamsaccount
+professional
+media service playready license service
+channel ingest url
+flow
+output url
+communication key id
+machine
+bandwidth requirement
+mediaprocessorname
+select create channel…
+outputmediaassets
+assembly
+channel creation page
+encoding preset page
+clipboard
+apple hl
+recommended way
+management task
+announcing azure media service integration
+unsupported format
+characteristic
+cname
+media service .net sdk apis
+specified asset
+click create program
+system presets
+mpeg-dash video
+4-byte block
+state change notification
+contain element
+please wait
+asset option
+added support
+statistic property
+mpeg-4 avc h.264 video
+defaultmediaoutputfilename attribute
+explicit/user-supplied channel mapping
+validation
+process button
+sourceblob
+related object
+ac-3
+executable ad
+key acquisition url
+simple
+system.text
+tasktemplate
+system.threading
+indexing task
+new mediaservicescredentials
+xml preset
+new http post request
+trusted execution environment
+yuv format
+blobtransferclient
+create encryption content key
+monitoring
+locatortype.sas
+“open” version
+specify
+trackfragmentextendedheaderbox
+gbytes
+flac
+percentage
+aes envelope
+timeline
+queue service
+system.threading.tasks
+asset file object
+archive
+refer
+u2
+subscription
+linear ad
+system.linq
+//en.wikipedia.org/wiki/opus_
+media service playready license delivery service
+lt
+policy option
+iassetfile
+following article
+blob service rest api
+empty asset
+‘ftyp’
+delay
+active
+ssz
+azure media packager topic
+cloudmediacontext class
+audio-only filter
+audio file
+audio_format
+mxf/smpte
+spts
+system.web
+azure media service live streaming
+cached credential
+system.io
+theora
+set-top box
+job page
+clock skew
+output protection
+bit encryption
+hardware
+retention policy
+javascript
+default hl segment packaging ratio
+new argumentexception
+return
+add authorizationpolicy
+uuid
+azure blob storage
+single encoder
+media service packager
+add reference
+y6
+tcp error
+specific processing task
+dashboard
+envelopeencryptionprotected use
+spanish language
+multiple program
+socket
+interaction
+service update
+indexer
+app.config
+unique identifier
+key information
+replace
+solution name
+itu_r_bs_1770_1_di
+-31
+azure storage blob
+foreach
+schema
+advanced profile
+canopus hq/hqx
+audio codec
+unlimited number
+bitrate mp4 set
+json structure
+localpath
+validation task
+mediaencryptor_playreadyprotection.xml file
+logic
+key delivery service cache contentkeyauthorizationpolicy
+drm license
+origin
+source attribute
+“token” restriction
+client-request-id
+rfc
+manage reference dialog
+primary url
+gop
+adsource element
+choose .net
+media service encoder task
+gzip
+iassetfile.uploadasync
+premium encoding
+following datetime format
+jpeg2000
+ilocator object
+azure media encryptor topic
+azure storage sdk version
+bug
+v2
+fault tolerance
+h264 multiple bitrate
+microsoft sql server
+vorbis
+video timeline
+asset creation
+bitspersample=
+system.collections.generic
+format=m3u8-aapl
+closed caption
+cc
+dolby®
+follow instruction
+repository
+see set
+current time
+quick start page
+locator path value
+mp4 fragment timestamps
+authorization
+single program transport stream
+hl segment packaging ratio
+live edge
+fmle profile
+audioprofile aacaudioprofile codec=
+fragment timestamp
+stream name
+case mp4
+media processor name
+key frame
+// read value
+‘moov’ box
+leq
+video playback
+azure storage rest apis
+custom domain name
+operation status
+long-running apis
+programming live streaming application section
+decimal
+web page
+virtual program
+aspera
+leqa_di
+xq
+code snippet
+ingest redundancy
+new storagecredentials
+emphasis filter
+new fragment
+copy operation
+etag property
+vocabulary adaptation
+iii
+video stabilization
+quickstart
+programs.cs file
+-suffixed
+choose portal
+format=f4m-f4f
+encoder send data
+project reference
+smooth/dash
+// processor
+access policy right
+output asset file size
+new image-codec specific macro
+ilocator
+dynamic packaging overview topic
+mediaelement_manifestready method
+new version
+cancellationtoken
+resiliency
+tokenexpiration value
+supported codecs
+individual asset
+aggregate
+axinom gmbh
+monitoring data
+.net framework assembly
+on-demand locator
+parent track name
+window media audio lossless
+get-azuremediaservicesaccount
+upload button
+fragment_absolute_time
+media server
+aac stereo
+domain name
+asset file name
+mpeg audio
+taskbody property must
+legacy
+multiple rendition
+milan gada
+single-file mp4 video asset
+mediaservicescredentials object
+position that’s
+regardless
+name value
+namespace encodeandgeneratethumbnails
+.lastordefault
+azure side
+storageencryption
+authentication token
+invalid configuration
+scheduled network disconnect
+infomir gmbh
+variable definition
+vertical line sampled.byte ordering
+v4 format
+following function definition
+task.inputassets.add
+osmf mediafactory class
+overlayendtime
+pre-roll ad
+airties kablosuz iletism sanayive dis ticaret a.s
+udp/ts streaming
+target bit rate
+actual asset
+publish button
+f.name.endswith
+encoder2 push
+job entity definition
+filtertrackpropertycondition
+domain
+stringcomparison.ordinalignorecase
+evaluation
+kbp
+configurationmanager class
+fragment level
+timespan.fromdays
+dbfs
+deliver
+lorocentermixlevel=
+window store project
+network issue
+ingestmanifestfile
+hl version
+default limitation
+aac audio stereo
+required header
+taskbody definition
+quarter
+heartbeat
+indeo-produced yvu9 format
+kid
+explicit content-length header
+audiocodingmode=
+sufficient free internet connectivity
+aes policy
+locatortype.ondemandorigin
+true‐peak metering
+dependent assembly
+_sourcestorageaccount
+job.submit
+fragment_index
+timestamp value
+ultra hd
+tab
+interlace mode
+grouping
+root manifest
+newtonsoft.json.linq
+static void main
+ssplayer namespace
+dpp
+/bitrate /dolbydigitalplusaudioprofile /audioprofile /mp4outputformat /outputformat /mediafile /preset preset version=
+basicplayer.html
+fluendo sa
+.config file
+adobe® flash® player
+track_type
+publish url link
+following people
+castlabs system
+window azure media encryptor|lets
+content key type
+event region
+create method
+name-value pair
+job name
+configurelicensedeliveryservice method
+multiple audio language
+new connection must
+lorosurroundmixlevel=
+accesspolicies
+library package manager
+access configuration file
+context
+install button
+dchighpassfilter=
+stream type name
+zte corporation
+stream button
+adaptive source level event handler
+op1a
+image output format
+code output
+system.net
+new solution
+initial header box
+timeout
+azure application
+preferred upload mechanism
+variable
+search
+http method
+next page
+blob storage container uri
+.mp4 asset
+azure media service player
+friendly output content name
+outputmediaasset
+keydeliverytype
+adtec en-91p
+duplicate
+playready protection.|
+http verb
+ott
+stereodownmixpreference=
+30-40 second delay
+newjob
+protection key id
+ingestmanifest id
+preview stream
+media service code
+declare
+on-demand stream
+linemodedynamicrangecontrol=
+storage encryption x.509 certificate
+sei message
+sts configuration
+single authorization policy
+media audio standard
+eia-608
+firefox
+actual video
+itu‐r bs.1770‐2.the default value
+enseo
+non-zero positive value
+program name
+authentication policy
+-70
+encoder column
+catch
+dynamic client player application
+audio/video track
+select tool
+bandwidthlimitinglowpassfilter=
+compress
+main purpose
+process dialog
+vast ad response
+shortcut
+network fluctuation
+localmediadir
+bump
+inner value
+h.264 elementary stream
+iassetfile.contentfilesize
+lossless codecs
+teleidea bv
+customhostnames property
+deletes message
+following createassetdeliverypolicy method
+workflow asset
+specific entity
+source duration
+cross-datacenter failover
+aes dynamic encryption
+integer
+encoded file
+user click
+azure queue
+deflate
+gigabyte technology
+subsequent request
+n-th entry
+xml payload
+recommended practice
+method return
+stream id
+whole xml preset
+.firstordefault
+use azure media service player
+assetfile.upload
+mp4 fragment
+// cast sender
+initialization vector
+asset’s encryption key
+format=mpd-time-csf
+fragment mp4 bit-stream
+xml schema definition
+frame number
+property value
+identical
+cycle
+jump
+request-id
+azure media player update
+outputmediaassets navigation property collection
+dolbysurroundmode=
+eos
+verificationkey
+extra redundancy
+defaultstoragename.name
+smooth streaming client
+use visual studio
+aes clear key
+web exception
+files. /param ///
+_newjob
+end-of-stream
+\n
+hq
+repeat tag
+efs
+delivery protocol
+audiocodingmode
+people
+destinationblob.uri
+channel\program
+window media audio professional
+select ok
+head section
+ordered delivery
+policy configuration
+attempt
+shall
+operator
+crypto
+task.outputassets.addnew
+processor == null
+h-2
+bit/s
+co.
+multi-audio stream support
+reset command
+predefined preset string
+requested key
+refreshtoken
+second hl segment
+ericsson rx8200
+aac audio
+sports.contoso.com
+osmf code
+content-type
+java sample repository
+test
+albis technology ltd
+regenerate storage access key
+dialognormalization=
+varies
+encoding configuration
+job id value
+project name
+client machine
+receive operation
+canceljob
+mpeg-4 part
+average bit rate
+asset.assetfiles.create
+fatal error
+summary ///
+12-byte block
+in-video search
+hdcp
+enable encryption
+notdefaultstroagename.name
+pre-existing policy
+adbreak element
+web service
+encoding detail
+p.name == mediaprocessorname
+association
+object sender
+amazon digital service
+upload content dialog box
+console
+operation id
+export
+secondary disconnect
+jitter
+_context new cloudmediacontext
+threedbattenuationsurrounds=
+“manage keys” icon
+assetcreationoptions.storageencrypted option
+bad network
+ss… format
+notificationjobstate.all
+literal xml
+specified storage account
+ateme am2102
+sender
+s.isdefault ==
+jpeg thumbnail creation
+presentationtimerange
+file upload
+e.previousstate
+//smf.cloudapp.net/healthmonitor player
+key value
+job.id
+confidence
+_destinationstorageaccount
+find
+installation instruction
+dynamic
+audiocodingmode attribute
+new console project
+multiple file
+ericsson avp2000
+various encryption option
+timescale value
+metering
+full text search
+rfmodedynamicrangecontrol=
+various different format
+encoders output metadata
+ui button
+mediaencryptor_playreadyprotection.xml
+repeat
+key file
+h.264 frame rate
+lfeon=
+audio codecs
+internal server error message
+initial post url
+new sparse connection
+outputmediaasset name property
+adaptive source manager level event handler
+anchor
+mediapackager_smoothtohls.xml
+layer ii
+ijob object
+new encoder must
+transient error detection
+_mediaservicesaccountkey configurationmanager.appsettings
+uploadasync method
+failed instance
+internet explorer
+case jobstate.canceling
+storage decryption| let
+handan co.
+uncompressed format
+english
+asset name
+lowercase number
+mpeg-2 h.262 video
+screen
+returned url
+dv
+endpoint hostname
+system.configuration assembly
+previous state
+dynamic envelope encryption
+progressive
+high speed client application
+origin service
+cleaner development environment
+lfelowpassfilter=
+guangdong oppo mobile telecommunication corp.
+duplicate notification message
+audiovisual file
+case jobstate.error
+gear icon
+local directory
+log error detail
+__metadata
+scenario encoder
+delayed disconnect
+overlay filename
+utf-8
+format.|
+mhz
+media service encoding overview
+new configuration xml format
+asset delivery policy topic
+save
+ssplayer
+saffron digital
+seek
+bearer
+media processor reference
+future update
+outputmediaassets navigation property
+switch
+tv episode
+edits
+consumable clip
+asynchronous version
+jpgformat
+end user
+desired asset file
+certificate
+press save
+associated file
+r-tag
+asynchronous method
+job name value
+as02
+new
+y7
+start/end time
+video content
+picture gop
+show
+supportfiles folder
+private static mediaservicescredentials _cachedcredentials
+aac-lc core
+present
+koninklijke philip electronics n.v
+license server
+assetcreationoptions assetcreationoptions
+cancellationtoken.none
+path value
+asset container
+uyvy
+adaptive streaming category
+smooth streaming text track
+panasonic corporation
+data retention policy
+specific task
+_singleinputfilepath
+consume indexed content
+smooth streaming byte-stream handler
+string preset
+iasset.create
+session token
+ltrtsurroundmixlevel=
+bottleneck
+push
+args
+timestamp property
+png
+azure mediaservices extension
+mpeg-2 program stream
+encoder failure encoder
+initial post
+finished state
+return processor
+reset method
+avi file
+non-negative integer
+encodermode
+device implementation
+relationship
+p.version
+.wma
+ijob job _context.jobs.create
+storage encryption.|n/a window azure media packager|lets
+different position
+“non-polling methods”
+outputmediaasset name
+dataserviceversion
+delete asset filter
+scte35
+task topic
+primary
+h264 broadband
+media service root uri
+notable high speed upload service
+choose manage nuget
+cs
+controlled upgrade process
+|yes|no|no
+quicktime file
+stream ingest
+advanced digital broadcast sa
+average bitrates
+select add
+azure library
+mark
+building
+accesspolicies entity set
+year
+signifies
+upload content dialog
+connecting
+visual studio main menu
+sichuan changhong electric co.
+table describes jwt token
+alias
+segment file
+remove-azuremediaservicesaccount
+operation progress
+downloads
+overlaystarttime
+// create
+woojeon
+dash.all.js file
+rtmp encoders
+lifetime
+choose azure media service .net sdk extension
+tolist
+destinationcontainername
+as11
+structure
+smooth streaming client implementation
+azure.note use
+xaml
+outputformat
+enter
+server context object
+azure media service account name
+done
+destinationblob.copystate.status
+sparse fragment t=1000
+system.globalization
+new cloudmediacontext
+mime type
+content name
+primary/secondary url
+azure service bus queue compared
+please note
+_mediaservicesaccountname configurationmanager.appsettings
+synchronous method
+server reboot
+maintenance
+s plugin
+vpaid executable ad
+/bitrate /aacaudioprofile /audioprofile /mp4outputformat /outputformat /mediafile /preset preset version=
+slke
+.orderby
+defaultprogram
+multibitrate mp4 file
+positive integer
+input media
+time window
+track must
+towards
+empty ttml file
+azure media encoder processor
+hz
+reliability
+input size
+unique audio track
+dolby
+new-azuremediaserviceskey
+supported audio file format
+media presentation description
+actual signal
+cisco system
+multiple filtering rule
+media service related dlls
+allowed_track_types
+system.security.cryptography
+vpaid api
+connection type
+ac token request
+format data
+new http post url must
+speech recognition accuracy
+drop
+second pixel
+jobstatechangedeventargs
+adtec en-100
+direct path
+online gallery
+cirrus logic jr yuv
+fileasset size
+token issuer
+code behand file
+mod
+inner
+actual file
+individual file
+basic video
+accurate search result
+locator instance
+iassetfile.downloadasync
+ad signal
+lower-case number
+existing asset
+ancillary data
+local task
+adtec en-30
+associated access policy
+ltrtcentermixlevel=
+following region
+keyframe frequency
+avc
+ijob job
+view designer
+announcement
+multiple
+private static imediaprocessor getlatestmediaprocessorbyname
+media service account setup
+itu-r bs.1770-2
+input type
+qualified url
+cisco spinnaker
+azure media encoder topic
+icontentkey
+ie
+accesspolicy instance
+new stream
+info file
+transcoder
+following one
+command prompt
+separate asset
+writepolicy
+dc block
+technicolor delivery technology
+corresponding parent track fragment
+media service streamingendpont’s host name
+widewine
+encodermode=
+credential
+null
+secondary input url
+http get request
+different scenario
+sourceblob.name
+auto-redirect/follow logic
+contrasted
+ninetydegreephaseshiftsurrounds=
+encoding operation
+http status code
+console window type install-package windowsazure.mediaservices
+output section
+mp4files folder
+current connection must
+value parameter
+awox s.a
+long running http post
+variety
+var processor _context.mediaprocessors.where
+redundant stream
+bug fix
+apple prores proxy
+asset.storageaccountname
+isdefault
+secondary ingest url
+available media processor
+bulk ingestmanifest
+manage nuget package dialog box
+exact location
+new http post must
+jpg/png/bmpformat
+video codecs
+azure blob storage container
+jobtemplates
+imediaprocessor processor getlatestmediaprocessorbyname
+format=m3u8-aapl-v3
+static class variable
+package manager console
+framerate
+filter specifies
+open
+static public iasset createassetanduploadsinglefile
+fault-tolerance
+********************
+arrangement
+fails
+delivery policy configuration
+program map table
+itask task job.tasks.addnew
+osmf built-in apis
+block blob
+video online
+zero
+dvr window
+harmonic prostream
+softathome
+new class
+drop-down list
+different pixel
+avc intra
+job generates file
+second set
+index value
+mainconcept h.264
+multiple encoder
+available stream
+azure storage queue service
+presentation timeline
+expand event
+multiple output asset
+order message
+image format
+argument
+linq query
+new server
+add config file
+download content
+jpgvideo
+new job
+front
+playready policy
+listblobs method
+royalty
+.net topic
+fixed backward compatibility issue
+multiple output mp4 file
+v1.2 release blog post
+truepeakemphasis
+.name
+production
+valid token
+segment duration
+different region
+significant benefit
+appropriate ad
+accept-language
+htts
+endpoint service
+original file name
+following line
+format parsing
+pty
+timespan.fromhours
+.net sdk dependency
+a.mp4
+following error code
+deliver asset
+new api
+use azure portal
+supported storage type
+sagemcom broadband sa
+image/video overlay
+video3.wmv
+asynchronous method support
+media player
+select microsoft smooth streaming client sdk
+new asset. /returns static public iasset createassetfromexistingblobs
+fourth vertical line.9 bit
+target mp4 fragment duration
+send timeout
+following rest api presentationtimerange
+fourcc
+flag
+flexible pipeline
+accesstoken string
+await channel.startasync
+empty message
+player user interface
+x-ms-version header
+use separate server
+specifies storage encryption
+windows.media namespace
+valid entity type
+subsequent line
+mediapackager_smoothtohls.xml configuration file
+microsoft silverlight client
+sticky ad
+location field
+private static void jobstatechanged
+filtering update
+sample hal implementation
+default constructor
+track type
+license response
+elemental event
+hex string
+start button
+fixed issue
+track name
+var defaultstoragename _context.storageaccounts.where
+audio-video interleaved
+savetokendatatoexternalstorage
+integration architecture
+destinationblob.exists
+html resource
+end validity
+netgear
+blank app
+channel’s input endpoint
+quickstart page
+planar yuv format
+opentv
+return metadata
+primary destination field
+azure blob
+upstream system
+istorageaccount type
+simple demo
+current post request fails
+sticky mid-roll ad
+cross-region backup
+encoding work
+dialog box
+preferred language
+account key information
+publishing url
+application/atom+xml
+iaccesspolicy writepolicy _context.accesspolicies.create
+publish url
+installation
+increasing encoding ru
+integratedloudness
+session_init
+taskoptions.none
+limitation describes quota
+adaptive bitrate smooth streaming
+encoder interface
+overlay rectangle
+specified container
+following object
+token restriction policy
+mediaelement_adaptivesourcestatusupdated method
+x86
+microsoft azure’s load balancer
+system.configuratio assembly
+head
+iingestmanifest.blobstorageuriforupload property
+audio_es
+keyuri value
+adobe flash client
+accesspermissions.read
+media service azure media encoder
+work
+vc1
+widevinelicenseacquisitionurl
+compression
+issuer string
+default program class
+configure tab
+user selection
+.first
+y10
+github repository
+way sa url
+microsoft playready device licensing
+partner ecosystem
+iassetfiles object
+hdcp_v1
+microsoft.data.odata.dll
+html code
+media service account creation time
+.ism extension
+e
+new ingestmanifestassets
+force16pixels=
+dvhd
+open source mpeg-dash video player
+executable ad unit
+image/jpeg
+download media
+add output
+matter
+filemode.open
+non-sticky mid-roll ad
+azure.note available media service
+following rest apis filtertrackselect
+ii smooth streaming porting kit box
+service available across domain boundary
+rich array
+samplepeak
+custom authorization header
+var policy _context.accesspolicies.create
+ad content
+azure media player app
++= new eventhandler jobstatechangedeventargs
+current datetime
+error “415 unsupported media type”
+deploy
+device-specific player-frameworks
+chosen secure token service
+default language
+client download heuristic
+dynamic packaging and\or dynamic encryption
+configured fmle profile
+authentication\authorization server
+unique id
+start/end
+course
+default task presets
+security_level
+stateful service
+microsoft visual c++ runtime package
+dispatcher thread
+problem type
+storageencrption
+etc
+advertising insertion
+speech threshold
+azure caching
+“bulk ingesting”
+client access policy
+stop button
+click preview
+blobstorageuriforupload property
+am license server
+template hierarchy
+core method
+dvsd
+old version
+audience string
+media encoder standard job
+new guid identifier
+rtmp live encoders
+direct access
+broadcast wave format
+scte-35
+run launcher
+storagecredentials externalstoragecredentials
+rate commensurate
+clientsecret variable
+helper method log error detail
+final blob copy status
+lfe
+separate pcm track
+specific
+notation
+reconnecting
+mechanism
+x-ms-version
+keyid value
+future third-party extensibility
+choose
+dash.di.dashcontext
+relevant flash server field
+demand encoders
+static plugin
+// get
+response message
+actual “chunks”
+policy setting
+output asset id
+added hl auto target duration
+invalid input asset
+sdk level tooling
+iasset asset createassetfromexistingblobs
+smoothstreamingmedia
+filter usage
+media service encoder support
+language engine
+sourceblob.uri
+content_key_specs.track_type
+encoder preset
+provider_session_token
+design
+template data
+compal electronics
+freezesort=
+content subject
+non-volatile storage
+common set
+players.md
+midpoint event
+naming convention
+click continue
+compressor/decompressors
+video and/or audio overlay
+useful
+multiple event
+supported input stream format
+use dynamic packaging
+update token data
+http client stack
+expires
+stream differs
+accesspermissions.write
+following class
+new rest api
+submit button
+y8
+property change
+absolute true‐peak value
+absolute sample value
+source container. /param /// param name=
+dolbydigitalplusaudioprofile codec=
+yuv420
+// // get
+allotted time
+information media service pricing detail
+slicecount=
+cabac
+redundant global distribution
+required_output_protection.hdc
+long running nature
+select property
+valid ingest protocol option
+shared access policy restriction
+h.264 baseline
+autofit=
+“mediaprocessor
+simple visual profile
+player application apis
+azure.note blob
+add additional reference
+azure media encoder xml preset
+truepeakdcblock
+loewe opta gmbh
+playready smooth streaming asset need
+task configuration
+u.s.
+client framework
+following javascript
+lkfs/dbfs
+slider control
+storagename parameter
+azure playready license service
+mezzanine asset
+streaminfo size=
+startcopyfromblob
+progress information
+cdnenabled property
+following element
+limited ability
+storagecredentials mediaservicesstoragecredentials
+html5 player framework documentation
+specific license
+url locator
+child node
+private static void statechanged
+timelinemarker
+fixed duration
+assetfiles
+go-to-live
+output destination
+clientid
+caller-defined value
+azure-media-services-explorer
+performance improvement
+trimming filter
+apis support
+stop sequence
+load sharing purpose
+new preset
+=null
+streamingendpont topic
+cea-708 translation
+kaonmedia co.
+adaptive source
+fifo
+iassetfiles
+amongst thing
+actual video/audio data
+obfuscated decoder
+rtmp server
+referencebframes=
+sspkinfo microsoft.com
+outbound port
+load balance
+datetime.utcnow.tostring
+long running
+default file extension
+default playready license service policy
+updated // reference
+resource usage
+async version
+path.getfilename
+click get support
+microsoft smooth streaming client sdk
+delete button
+different dvr window
+original request
+sliderprogress
+asynchronous support
+// location
+audio blob
+on-demand content
+assetname path.getfilenamewithoutextension
+orange sa
+including mpeg-ps
+drawback
+conformant configuration file
+http header “x-axdrm-message”
+origin-specific version
+storage account page
+html script tag
+encoding setting
+key_id
+remoteadsource
+mpeg-2 aac adts
+smooth streaming window store app
+|yes aes
+long running operation
+output stream name
+associated resource
+dash.all.js
+blobcontainer
+in-line ad response
+azure sdk
+string type
+level gating
+mediaservicesstorageaccountkey
+following rest api filter
+static ijob getjob
+adaptive video
+encode task
+demand workflow
+_context.assets.create
+ingestmanifests collection
+many live event
+advanced video coding high definition
+castlabs merchant id
+separatefilesperstream=
+pre-defined presets
+smooth streaming window
+clickthroughs
+following output file
+logjobstop method
+shenzhen jiuzhou electric co.
+sufficient content
+exact hostname
+cache control
+uploaded files. /returns static public cloudblobcontainer uploadcontenttostorageaccount
+index-based mpeg-dash
+azure media indexer update
+ext-x-i-frame-stream-inf
+h.264 high
+dashed line
+click add
+mid-roll advertisement
+synchronized audio/video sample
+height
+drm restriction
+balanced
+inputfilename.kw.xml
+live dvr function
+destination container. /param static private void copyblob
+bar
+modified preset file
+network communication degrades
+availability guarantee
+boolean value
+streammanifestbox
+fragmented mp4 header box
+post http request
+get http request
+markerreached event
+azure media dynamic packaging feature
+methods”
+encoder restarts
+azure powershell
+licensing query
+local folder
+file menu
+encoding field
+interleaved stereo
+http caching
+streamingfiles
+loudness measurement
+// yourstsname .azurewebsites.net/api/token/assetid/ yourcastlabsassetid /contentkeyid/ thecontentkeyid
+possible ingestion option
+kddi corporation
+available india west
+notdefaultstroagename.isdefault
+mpeg-2 t
+video quality change
+useful way
+var ismassetfiles
+video_384x216_550kbps
+engine
+aes file
+aes 128-bit envelope encryption
+externalstorageaccountname
+continue
+advanced system format
+notificationendpoint
+smartphones
+alphanumeric character
+creates cloudstorageaccount instance
+console window
+encoder failover case
+high-quality input media file
+body element
+tap
+per http protocol
+note currently
+ipad
+improvement
+permission sharedaccessblobpermissions.read
+medialength
+amp code
+expand operation
+multireferencemotionsearchmode=
+inputfilename.ttml
+.net sdk extension method
+fragment timestamps
+publish video
+pre-defined policy
+static string _externalstorageaccountkey configurationmanager.appsettings
+new project dialog
+interactive ad experience
+neq
+start time filter
+incoming video stream
+word/phrase
+media processor topic
+send operationname operation
+pixela corporation
+entire live presentation
+payload must start
+analog video
+used sts
+h.264 baseline+aacl
+runtime environment
+ex.message
+channel’s preview endpoint
+.mmm
+text editor
+scale encoding reserved unit
+support type
+ingested asset
+i-frame support
+.wmv
+storageencrypted
+specific encoding
+signature
+sendcreateoperation
+poll
+linq select query
+mediaservicesstorageaccountname
+compositing
+channeloutputhls
+smoothstreaming=
+keyframe interval value
+multiple format
+outbound
+soft quota
+keyword xml file
+archivewindowlength
+inserted caption
+updated behavior
+large number
+fragmented mp4 bit-stream
+empty “body”
+keyframeinterval property
+ga
+type attribute
+-|
+cloudblockblob
+multiple video segment
+shenzhen coship electronics co.
+testing
+streamid
+operation request
+multiple fragment mp4 bit-streams
+traffic manager
+decompress audio
+different locator
+bit rate change
+_externalstorageaccountname
+vast file location
+audio-only mp4 file
+output restriction
+custom app logic
+job execution
+ac-3 system-a
+azure storage client sdk
+dongguan digital av technology corp.
+content identification scheme
+job.outputmediaassets
+indexer media processor
+cenk dingiloglu
+multiple ad
+caption data
+quality stream
+request body.in
+cpu platform configuration
+early binding vast ad //download
+destblobstorage.getcontainerreference
+-30
+possible tracking event
+platform abstraction layer
+full list
+firewall and/or proxy setting
+desktop client
+and/or
+recommended encoders
+android
+dispatcher
+uploaded asset
+azure storage dependency
+previous lesson
+invalid
+download asset
+determine
+smooth stream task
+progressjobtask.wait
+new constructor
+y41p format data
+inputfilename.aib
+tasktemplateid
+multiple companion ad
+patch/put/merge
+iasset asset createassetanduploadsinglefile
+video tab
+scte20
+example line
+adaptivebframes=
+window media audio professional aac-lc
+subsequent license renewal request
+smooth streaming content out-of-box
+summary /// copy
+cloudmediacontext object
+internal error
+new encoder’s post request must
+namespace multiplestorageaccounts
+createemptyasset method
+window media
+drm abstraction layer
+playback start
+build menu
+javascript application
+*.jpg extension
+sliderprogress.stepfrequency sliderfrequency
+amtran technology co.
+support team
+specific device
+right-click ssplayer
+method converthexstringtobytearray
+self logframeworkerror
+iasset object
+db
+uploadcontenttostorageaccount
+limited
+.m4b
+scenario-based test
+cdn layer
+unused analytics data
+apiframework attribute
+understanding
+breakend
+cloud dvr
+nearby azure data center
+filmflex movie limited
+encoder must use chunked transfer encoding
+dynamic packaging workflow
+east u
+select stream
+precedence
+system.threading.thread.sleep
+short term approach
+refreshed reference
+locator section
+text file
+on-demand streaming service
+favorite flash® player
+build streaming url
+.bmp
+request body property
+smooth steaming
+sub-clip
+consumption
+x509 cert
+operationbasecollection class
+media service management rest api
+sidecar
+first line
+delivery method
+channel mapping
+job getjob
+inputasset
+level gated
+duration setting
+confirm
+var locator _context.locators.createlocator
+index multiple asset file
+keyword
+atomic operation
+khz timescale
+rich client application
+overlayendtime attribute
+regional disaster
+license server requirement
+speech content
+ad scheduling information
+c.mp4
+key word
+j.id == jobid select
+.key file
+video/image overlay
+content id
+video-only mp4 file
+private static cloudstorageaccount _sourcestorageaccount null
+chunked transfer encoding message sequence
+uploading/downloading file
+choose standard
+playlist
+static public iasset encodetoadaptivebitratemp4set
+tatung technology inc
+simple profile
+arrow
+new live channel page enter
+dvd transport stream
+decoding
+tcl overseas marketing
+appropriate certificate
+job output
+following xml
+saved token value
+ifiltertrackpropertycondition
+spoken word
+broadcast encoders
+new adaptivesourceopenedeventhandler
+video encoder
+stop advertisement
+handling
+original asset
+available client sdks
+non-integer frame rate
+.gif
+configure encoder presets
+simple caption file
+c++
+fmp4
+project directory
+encode section
+adhandlerplugin
+first step
+jobstatus.error
+default smooth streaming
+channel’s ingest
+var
+endpoint name
+copystatus
+iframe
+_externalstorageaccountkey
+new sharedaccessblobpolicy
+ingestmanifestasset associate
+required
+audioprofile dolbydigitalplusaudioprofile codec=
+mobile
+inline ad response
+smooth file
+common http header field
+complex type
+mpeg-dash output
+onload event
+startframe
+use iasset.copy extension method
+entry
+create ticket
+expirationdate
+collapse event
+_destinationstorageaccount new cloudstorageaccount
+web browser
+ingestmanifestfiles collection
+metricstransactionsqueue
+http request message chunk
+opacity
+sliderprogress_pointerpressed event handler
+legacy presets
+table demonstrates
+client endpoint
+new encoder instance
+sd_hd
+primary class
+asset.uri
+video_960x540_2200kbps
+following xml snippet
+new functionality
+error slate
+parallel
+dependency injection framework
+silence
+srt subtitle file
+media service page
+error state
+listbox control
+azure media service streaming
+mbytes
+azure media service playready license delivery pricing
+renewal_server_url
+several example xml
+player sdk manager default
+icontentkey object
+hl v4 output
+subblockmotionsearchmode=
+iaccesspolicy policy _context.accesspolicies.create
+security need
+iasset.publish method
+explicit timestamps
+copyblob_
+runtime issue
+redundant audio track must
+fastinterdecisions=
+southeast asia
+outputfiles
+quick glance section
+current operation
+use “parenttrackname” parameter
+adaptive multi-rate
+dvr playback
+integratedloudnessspeechpercentage
+media volume
+asset container uri
+-an arbitrary string
+millisecond
+information specific
+indexer performance
+short timeout
+.jpeg
+output setting
+|yes
+display image size
+visualon
+open internet
+file.name
+input’s list attribute
+create directory
+word alternative
+le
+data need
+createlocator method
+boundary point
+storageaccount property
+adaptive streaming environment
+linq consideration
+pre-existing event
+mpd
+tracking event
+/manifest
+somevalue
+supported encoders
+allowmultipleads
+media service primary
+vc-1/wmv9
+enabled media encoder premium workflow
+adaptive streaming content
+error column value
+event live
+hardware abstraction layer
+widevine license server generate
+one
+locator path refers
+“title”
+destinationblob.startcopyfromblob
+player sdks
+directoryinfo uploaddirectory new directoryinfo
+new iasset interface
+\sstutorials
+device specific
+duration may fluctuate
+available customizing
+widevine modular drm technology
+framerate=
+audio channel
+fragment_index increase
+jpg/png/bmpvideo element
+specific legacy workflow
+possible aggregation
+audiooverlaylayoutmode determines
+premium encoder
+product
+_context.storageaccounts
+microsoft azure media service handle
+iab.net/vast
+specific runtime environment
+motion limited
+output track
+azure media indexer processor
+confidence word
+aach
+cross domain access policy
+telechips inc
+forth parameter
+ac-3 system-b
+common reason
+response code
+recognizability score
+reusing access control service token
+underlying asset metadata repository
+assset
+midpoint
+start/step/range
+previous encoder
+end user player try
+plain-text file
+search engine
+audio overlay attribute
+scenario test
+.tif
+policy id
+castlab license server
+backed-off
+sign
+iso mp4s video rendition
+deflate encoding
+http error
+different bandwidth
+indexer sql add-on
+setismfileasprimary
+streamid attribute
+encoder vendor
+queued
+png image
+minute dvr window
+simplified version
+accept-encoding
+service deployment
+mediaopened method
+analysis
+live smooth streaming playback
+use .net sdk
+azure media service support
+iat
+official long term approach
+different client
+latter
+multiple thread
+following xml preset example
+archivewindowlength property
+late binding vast ad
+many media file
+sequence attribute
+ticket
+azure media on-demand streaming
+manifest’s blob container
+input parameter
+different technology
+var file
+playback specific policy
+aligned fragment boundary
+advertisement insertion point
+key delivery url
+following data
+tricaster project
+storage container
+double click mainpage.xaml
+streaming end
+appropriate interface
+crt
+sa.name
+input reconnection
+waste
+default main method definition
+microsoft edge
+video format
+recommended
+preview publication point
+decision
+region class stream
+search experience
+mediaprocessors
+new output
+ad.the element
+hdcp_none
+web.config
+stream id field
+constructor overload
+identity provider side
+azure support
+|yes opus
+accesspolicy property
+end-user
+beijing
+charset type
+am content
+ilocator originlocator _context.locators.createlocator
+identify azure media service entity
+certain device
+media creation
+creativetype attribute
+output settings…
+auto play
+metadata operation
+window media audio standard
+tokenrestrictiontemplate.audience
+altech multimedia international
+scenechangedetector=
+encryptionutils.getcertificatefromstore
+fm url field
+metricstransactionstable
+_storageaccountname
+player buffering
+/bitrate /aacaudioprofile /audioprofile /mp4outputformat /outputformat /mediafile /preset
+locator.name
+trial version
+uploads file
+digital camcorder mpeg-2
+channel’s output
+.mp4 file
+unsupported linq method
+eq
+website
+///
+look
+added reference
+following http
+optional data
+accepted authorization mechanism
+image/gif
+new-azuremediaservicesaccount
+encodingjobmessage class
+.ism manifest
+audiooverlaystarttime
+client technology
+ilocator destinationlocator _context.locators.createlocator
+one-time license fee
+“encoder redundancy” case
+encoder reconnect
+certain state
+http adaptive streaming protocol
+following scenario
+bloblist mediablobcontainer.listblobs
+mobile operator
+toshiba lifestyle product
+finer
+shanghai
+script tag
+dropdown
+multiple input file
+token textbox
+unit-based test
+media codec
+failover consideration
+validating adaptive bitrate mp4s
+secondary access key
+origin locator path
+use iassetfile
+click configuration manager
+authorization header
+redundant service deployment
+confirmation question
+following script
+smpte rp2052
+limited dvr window
+am host name
+playback_duration_seconds
+ebu r128 mode
+method overload
+template group
+interim
+advertisement support
+platform independent implementation
+media service nuget package
+scte-35 signal
+updateplayreadyconfigurationxmlfile method
+key frame setting
+video_340x192_200kbps
+particular asset
+rough cut editing
+user-specified field
+gtr
+adjustsubsamples property
+playback adapts
+next playable video fragment
+fileinfo
+iaccesspolicy
+add smooth streaming osmf plugin
+single media file
+escape character
+wave file
+previous request
+upload smooth streaming
+media client application
+implementation
+monitor job progress
+specific file path
+video bitrates
+access control service tokens” section
+input/contribution feed resume
+custom preset
+dbtp
+certificate configuration issue
+storageaccountname
+multiple notification end point
+on-demand smooth streaming playback
+fashion
+downstream receiver
+fetchattributes
+external encoder
+seva titov
+clicktracking
+gtm
+advanced setting tab
+mediatek inc
+liveservermanifestbox
+uncompressed video data
+dashcontext
+gop boundary
+new-azuremediaservicesaccount cmdlet
+network congestion reduces
+range -70
+implementation sample
+defaultstoragename.isdefault
+storageaccount
+new sample
+azure media service poster
+mediaservicesaccountkey configurationmanager.appsettings
+amlogic
+tokenrestrictiontemplate.issuer
+iso
+mediapackager_validatetask.xml file
+string argument
+locator collection
+quality segment
+hisense international co.
+asset policy
+hyperconfig
+var signature sourceblob.getsharedaccesssignature
+icloudblob sourceblob
+local hard drive
+secondary storage key value
+xbox video application development
+shenzhen
+first “interesting” frame
+node.js
+aggregate average bitrate
+/bitrate /streaminfo /streams /highh264videoprofile /videoprofile /mp4outputformat /outputformat /mediafile /preset preset version=
+github dash.js repository
+video bitrate
+clip
+searchrange=
+mpeg-1 audio
+tcp connection
+input media’s timeline
+client platform capability
+jobtemplate id
+live media
+aka mp3
+player apis
+iso base media 14496-12
+dplmversioninformation
+ondemand-based url
+desired audio language
+live streaming preview
+media-services-rest-overview
+itu_r_bs_1770_2
+project folder
+jobresult.txt
+applicable pricing
+start streaming button
+iobject.delete
+media segment
+var sa
+aacl
+“nb
+audiooverlayendtime
+can_renew
+attache
+single production
+freewheelplugin
+asymmetric key
+french
+javascript folder
+authorization policy option
+olympics program
+valuable tool
+dialnorm
+audio play
+cue id
+audio_eng
+custom domain
+spanish
+media service programmatically
+special macro
+storage grows
+canada
+azure website
+input source
+numerous task
+deliver streaming content
+inputfile
+streamingendpoint operation
+jti
+static string _storageaccountname configurationmanager.appsettings
+entire content length
+input metadata
+streamelement
+see concept
+h264 adaptive bitrate mp4
+virtual view
+configure button
+actual azure media encoder preset file
+cross-platform player
+lossy compression
+setting page
+visual studio express
+hardware a/v decoder
+new setting
+static string _storageaccountkey configurationmanager.appsettings
+description information
+monitoring level
+encoding slider
+get call
+new cloudmediacontext object
+vertical slider
+sdk assetcollection object
+media_3
+example code
+ingest stream
+entire request
+/streams
+sspk distribution portal
+i.e
+standard amp api
+yuy2 format data
+epoch
+name parameter
+selection
+retry policy class
+firewall
+renew_with_usage
+last frame
+hl v3
+license duration
+incoming video
+example io
+additional element
+example contentkey
+transmission
+grid
+typical azure media service
+vast file specifies
+encryptor/streaming server
+dash.js framework
+azure java developer center
+var ismassetfile asset.assetfiles.tolist
+desired configuration change
+microsoft hyperlapse processing
+envelope encryption type
+support option
+sharp corporation
+single bitrate
+yvyu format data
+teleca u software solution llc
+mxf/gxf file
+accesspermissions.write accesspermissions.list
+archiving window
+client traffic
+media element event handler
+asset.storageaccount
+large resource
+optional flag
+blob stream
+optdata
+get delivery url
+individual event
+metricstransactionsblob
+amp player
+renewal_retry_interval_seconds
+project file
+compression requirement
+better speed
+am playready license delivery service
+.xesc
+ease-of-use
+azure media account
+handler
+default slate asset id property
+h264
+fragment index must
+bitmap
+:2
+“timescale”
+cea-608/cea-708 pas
+related storage account
+high-quality
+accesspolicy defines permission
+media service encoder output filename
+get-azuremediaservices
+storage decryption mediaprocessor
+adaptive bitrate technology
+dfxp file creation
+rolling dvr window
+baseball
+microsoft sql
+n+1 asset
+rowdefinitions
+attribute’s value
+overlay-specific attribute
+segment ratio
+.update
+audio/video
+available audio track
+cs style
+“forward” buffer
+tracking element
+new program page
+azure premium encoder workflow designer training video
+contain audio track
+media account
+static iasset createencodingjob
+primary storage access key
+sensitive configuration data
+followredirects
+sourcecontainsaudio
+press basic
+metricscapacityblob
+absolute_ time
+preset version=
+url point
+media service channel
+ddp
+next fragment
+unsupported feature
+specified storage key
+cache control header
+live ingestion’s point
+rolling buffer
+azure queue storage notification
+assetdeliveryconfiguration value
+rtmp streaming
+drop-down list box
+mpd file
+tiff
+job.priority
+hl v4
+mediaprocessor
+mpeg-2 video
+afternoon
+improper usage
+obsolete
+refreshtoken method
+ingestmanifeststatistics
+various event
+custom data string
+following xml preset
+working knowledge
+encoder must wait
+inputfilename.smi
+src
+adjust dvr presentation window
+following adaptive bitrate technology
+summary /// uploads content
+update media service locator
+authentication challenge
+java documentation
+specific type
+us azure storage sdk
+'mfra
+service unavailable
+accesspolicy id
+liberty global service bv
+rdoptimizationmode=
+different content type
+mepartitionlevel=
+message body
+dynamic filter
+following constructor
+previous stream
+mediaservicesstoragecredentials
+storageaccountname property
+enter handleredundancyforondemandstreaming
+advanced feature
+live archive asset
+main page
+new-azuremediaserviceskey -name “mediaaccountname” -keytype secondary -force
+inputfilename.vtt
+output metadata topic
+following class-level field
+pal
+streaming url. /returns static public string createstreaminglocator
+captioning standard
+blob.uploadfromfile
+information see indexing media file
+ondemantorigin
+am credential
+new ingestmanifest call
+enumerates
+latency
+handle big dvr window
+audiooverlayfilename attribute
+ad source
+second timeout
+cellular network
+content note
+excessive request
+license_duration_seconds
+smooth streaming source
+amit rajput
+woox innovation
+gating
+mediapackager_smoothtohls.xml file
+total size
+optional boolean value
+following information
+grass valley announces edius
+affinity group
+sample pal implementation
+fix
+moviefragmentrandomaccessbox
+static packaging workflow
+first streaming endpoint
+mid-roll linear ad
+uploaddirectory.enumeratefiles
+third-party cdn
+start event
+select adobe flash
+media service rest api layer
+livesmil
+press add
+.bwf
+assetstate.publish enumeration value
+can_play
+vimpelcom
+following portal
+content web server
+advanced logic
+mode20
+assetcontainer.createifnotexists
+apple store certification
+early binding vast ad
+password
+tcl technoly electronics
+token button
+private static cloudmediacontext _context
+non-sticky ad
+united state
+primary storage account
+required connection value
+cloudblobclient destblobstorage
+audio indexing blob
+design view
+single http post connection
+path asset file mp4 name
+ittiam system private ltd
+overlayfilename
+large asset file
+topic deliver
+ui-element he/she
+createstreaminglocator
+scroll
+media service rest api version history
+default extension
+cloudblobclient externalcloudblobclient
+.ac3
+dash mpd
+gstreamer
+media service topic
+following createchainedtaskencodingjob method
+sliderprogress.width mediaelement.width
+return-client-request-id
+var notdefaultstroagename _context.storageaccounts.where
+playready license server
+audio input
+:1
+final response code
+hong kong
+conformant configuration preset
+final state
+standard html page
+multi-bitrate fragmented mp4
+enter zero
+hl segment packaging ratio fragmentspersegment
+osmf update
+adaptivesource
+single edit
+-1
+keyid
+additional setting
+rectangle
+protectionkeytype set
+new folder
+unique alphanumeric string
+server won’t
+many rtp encoders
+media service programming task
+important
+hadamardtransform=
+rce
+fragment index field
+this.initialize component
+tablet
+content length
+binary
+virgin media limited
+rtmp protocol
+format=fmp4-v20
+adaptive source open event
+cdns
+fragmented mp4 stream
+wrench icon
+mpeg-dash url
+programmaticadpage.xaml.cs file
+sparse
+destinationcontainer
+j
+ioperation object
+-5
+azure storage service api
+registerbytestreamhandler method
+available browser window
+new blobcontainerpermissions
+begindate
+rental_duration_seconds
+.vob
+storage analytics metric
+updated change
+avchd
+.isma
+-application/json
+specified blob container. /param ///
+new endpoint
+exhaustive list
+channel count
+embedded device manufacturer
+handle exception
+microsoft playready porting kit
+specified delivery method
+top left hand corner
+nextscape inc
+standard yvu9 format uncompressed data
+aes-128 key
+_singleinputfilepath path.getfullpath
+dvc
+fields/second
+internal dictionary
+others
+entity property
+return inputasset
+overlayfilename attribute
+installed/templates/visual
+mpeg-dash playback
+following rest api assetfilter
+sourcecontainsvideo
+browser request
+brief description
+azure active directory access control service
+nick drouin
+process dialog box
+keyframedistance=
+/grid
+new content key value
+breakstart
+speech analytics
+iaccesspolicy object
+new encoder
+stateless web service
+several common http header
+v8
+iso standard
+source media file
+register
+different behavior
+track type name
+video input source
+tp vision netherlands b.v
+audioprofile condition=
+guid.newguid
+intersection
+azure h.264
+pace plc
+new stream must
+timecode
+arrive
+adaptive mp4 set
+return outputasset
+liststorageaccountdetails method
+important collection
+streamingendpoint topic
+source cea-608
+output gb
+new release
+datetime.utcnow.addminutes
+overlay file name
+get locator
+.mts
+new tab
+“cmd”
+random positive integer
+wide range
+null reference exception
+second opportunity
+minimal metric
+issue|description
+wirecast rtmp endpoint
+.net example
+avc multimedia software co.
+inputassets collection
+following example return
+feed
+add new feature request
+multiple quality bitrates
+wami
+encoding profile
+offline use
+mpeg-1 system stream
+grass valley edius nonlinear editor
+supported format
+different xml
+pre-built string presets
+name gridstreamandbitrateselection
+mstar co
+_accountkey
+engineering complexity
+inloopfilter=
+encoder capacity
+azure indexer media processor
+heuristic
+notification related entity
+maximum cache value
+updated status
+mediaservicesaccountname configurationmanager.appsettings
+development platform
+.net media service encoding overview
+faster start time
+language model
+following option
+setupvideo
+example asset
+i-frame playlist
+flash server
+dal
+slate data
+mediaservicescredentials credential
+party live encoders
+single mp4
+'ftyp
+job.getexecutionprogresstask
+json preset
+interlaced source
+integrated loudness
+inputasset.assetfiles.create
+separate fragmented mp4 bit-stream
+file.fullname
+likelihood
+istreamingassetfilter
+started state
+applicable
+scheme
+externalstorageaccountkey
+verbose metric
+private static cloudstorageaccount _destinationstorageaccount null
+streaming url locator
+job processing
+interim licensee
+operating system
+response template
+blob fetch
+smooth streaming handler
+closed port
+scc
+increase numberofconcurrenttransfers
+ext-x-key
+advanced simple profile
+primary encoders
+video1.mp4
+vocabulary
+azure media service .net sdk extension repository
+following rest call
+geo-distribution
+.net handle transient fault error
+many assetfiles
+externalstoragecredentials
+vmapschedulerplugin
+acceptinvitation
+streaming media player
+different start time
+use media service management rest api
+mediacontainer
+nsurl urlwithstring
+content_id
+true peak
+specified blob
+high-level azure media service
+media url
+‘mfra’ box
+desired encoder setting
+delivery mpeg dash
+restriction token
+arcadyan technology corporation
+granular information
+quality level
+edge
+blob file
+maxdataserviceversion header
+frequent task
+audio asset
+compare
+cea-608/cea-708
+shared access signature
+encryption button
+video_704x396_1350kbps
+unique instance
+u8
+add mediaelement event handler
+video tag
+amp team
+storage encrypted content
+import policy xml button
+video asset
+stream autosize=
+entity set
+following delivery service partner
+side
+token copy
+thread-safe collection
+end result
+silverlight support
+segment file name
+filtertrackselect
+complete event
+cgms
+gop accuracy
+enabled encryption
+ad’s timeline
+crypto operation
+shenzhen skyworth digital technology co.
+registration code line
+multiple channel
+assetfile.update
+entire duration
+media fragment increase
+castpal technology inc.
+withurl
+system clock
+specified order
+\supportfiles\streamingfiles
+w3c media source extension
+currently
+stream information
+tivo inc
+click submit
+.3g2
+workflows/blueprints
+“encoder redundancy” topology
+synchronous upload method
+scale streaming reserved unit
+track language
+istreamingfilter
+encoded input stream
+castlabs credential
+external encoders topic
+drm technology
+composition
+sd_only
+request header
+cloudblobcontainer destinationcontainer
+mediaelement
+subpixelmode=
+product list
+import setting
+grass valley hq/hqx codec
+dev environment
+output multi-bitrate stream
+stream.the
+itu-r bs.1770-1
+parent track
+random distribution
+job template
+var sourceblob
+version=
+audio selection feature
+output group
+azure powershell cmdlets
+port number
+audio overlay filename
+inputmediafilepath
+next second
+hl segment
+fact
+sufficient bandwidth
+hence trimming
+start validity
+he\she
+static string _accountname configurationmanager.appsettings
+audio stream set
+default audio
+queue service rest api
+video_1280x720_3500kbps
+interpretation
+necessary class
+cached object
+error message
+uploadfile function
+remove-azuremediaservicesaccount -name “mediaaccountname” -force
+synchronize primary key
+.m2v
+success percentage
+scale request
+job error
+audio interchange file format
+graph stage
+opaque
+many file
+rtp streaming
+amp v1.4.0
+contentkeytype set
+server address
+drm runtime
+relevant ad
+prolicensingsupport dolby.com
+publish asset
+accept
+system.runtime.serialization
+azure ingest url
+client live download position
+subsequent renewal
+dolby digital plus encoding
+//example:4 schedule
+service sdk
+flash media live encoder’s
+hdcp_v2
+udp/ts output group
+live encoder push
+channeinput
+smooth streaming porting kit source
+session
+identical url
+enum
+contentkey id
+source video/audio
+dolby® |no dolby® digital
+data center location
+new profile
+id property
+maximum resolution
+command
+many second
+locator property
+cdn provider
+configure page link
+new ingestmanifest
+content-encoding
+license session
+jobid
+hypothetical extreme case
+send operationname operation method
+push service
+mpeg dash format
+protection key
+macao commercial offshore
+entire configuration file
+policy_name
+eightbyeight
+iv value
+bcp-47 language code
+main codecs
+smooth streaming technical overview
+dynamic plugin
+monitoring configuration
+ga. see
+static string _externalstorageaccountname configurationmanager.appsettings
+window media audio voice
+accesspolicy entity
+supported output format
+key/value pair
+get response
+singapore
+different implementation
+.ism/manifest
+indexer task request
+frequency
+mode32
+write code section
+playready m2ts elementary stream encryption
+huizhou
+mpeg-2 private pe
+add slider bar
+event handler track job progress
+current encoder
+webvtt format
+software crypto
+-force switch
+task-based asynchronous pattern
+technical question
+.jpg
+eng
+current subscription
+accesspolicy object
+statechanged
+kristjan jõgi
+non-polling method
+important related task
+documentation series
+autostart
+outputasset.storageaccountname
+logical program start
+what’s
+enjoy smooth streaming content
+dimension
+media service dynamic packaging enables
+media player application
+new newtek tricaster project
+convenience file
+many input file
+i-frames
+multiple datacenters
+microsoft adaptive streaming plugin
+embed code
+method call
+framework.adresolver downloadmanifest
+following request
+digitalvideoonlycontentrestriction
+stl subtitle file
+operation method
+multiple video
+properly reset
+“audio” entry
+stream failure
+consumer experience
+basketball game
+ui thread
+destination field
+available subscription
+“utf-8”
+following policy
+long-running encoding job
+defines box
+dynamiccommonencryption delivery policy
+cross-domain policy file specification
+//endpoint/ /services/mediaservices/accounts/ /storageaccounts/ /key request
+send operationname operationasync method
+simple widevine license
+retention period
+getoradd method
+lossless
+none specify
+intellisense documentation
+loss
+itu
+cloud-based media service
+configuration string
+secondary key button
+difficulty
+sub-clip filtering
+box must
+dash.js reference implementation
+media service rest
+axinom communication key
+key material
+azure media player documentation
+homecast co.
+azure media encoder xml schema
+resume
+following cmdlet
+entity type
+expression encoder screen capture codec file
+redesign
+strobe media playback setup page
+sharedaccessexpirytime datetime.utcnow.addhours
+specifed storage account
+speech gating
+|yes amr
+mediaservicescredentials constructor
+lg cns co.
+outputasset
+addnew
+many scenario
+lossy codecs
+user data
+limited length
+job.state == jobstate.error
+provider
+hl protocol
+non ui thread
+corporation
+hold
+intellisense
+custom retry policy
+t
+retries
+updated starttime value
+“media encoder premium workflow” media processor
+“description”
+memory
+video_340x192_350kbps
+azure media indexer version
+tab-separated list
+publicaccess blobcontainerpublicaccesstype.blob
+audiooverlayfilename
+video player displayed
+async operation
+bs.1770-2
+specify configuration
+multi-bitrate mp4 container
+tokenrestrictiontemplate class
+file metadata
+storage analytics data
+live server manifest
+main function
+irdeto usa inc
+proceeding
+signingcredentials
+fastintradecisions=
+asset.assetfiles.tolist
+click tracking
+smooth streaming support
+maxfps
+range rule
+best
+valid crossdomain.xml
+count
+multiple language
+integrated loudness result
+research
+following error
+external connectivity
+orderby statement
+telestream wirecast application
+public cloudmediacontext
+key delivery uri
+content metadata
+live program
+accesspolicy entity property
+bigbuckbunny.mp4 file
+can_persist
+h.264 codec quality
+encoding page
+msdn
+encoding=
+destinationlocator.path
+var jobinstance
+enter copyexistingblobsintoasset
+inputfilename.info
+iasset asset _context.assets.create
+referenceframes=
+mpeg-4 audio book
+azure storage service
+success code
+new starttime
+atsc/53
+video2.wmv
+.ismt
+change line
+hon hai precision industry co.
+rtmp live stream
+targeted platform
+proper noun
+nothing
+complete azure media encoder xml
+asset creation function
+final sspk licensee
+win
+coredispatcher
+cable
+digital
+// method
+azure media service error code
+multiple camera angle
+itu‐r bs.1770‐2
+lfeon attribute
+windowsazure.mediaservices.extensions nuget package
+task progressjobtask job.getexecutionprogresstask
+input rtp
+file.exists
+mid-roll overlay ad
+get-azurestorageaccount cmdlet
+assetcontainer
+send
+specified directory
+return job.outputmediaassets
+resilience
+technical point
+storage operation
+dash protocol
+objinstance
+arcelik a.s
+circular archive
+billing usage
+metadata xml
+point path
+statistic information
+integratedloudnessgatingmethod
+am workflow
+sensitive value
+press start streaming button
+128-bit stream encryption
+var filename path.getfilename
+unique name
+main wirecast screen
+monitoring setting
+following key
+new eventhandler jobstatechangedeventargs
+added relative offset
+decompress video
+client doesn’t
+retention
+bs.1770-3
+change active solution platform
+console.readline
+specify ip
+verb
+chance
+startup
+notification message format
+secondary rtmp
+several code example
+programmaticadpage.xaml file
+private static cloudmediacontext _context null
+unwanted quality
+job collection
+non-html resource
+mediaelement adaptivesourceopened method
+full screen
+wpf canvas xaml
+ojsc
+.mpeg
+confirm input source
+/asset-containerguid/ .key file
+forum thread
+widevine encryption
+md5
+blobtransferclient instance
+multichannel audio
+following app.config file
+default behavior
+b.mp4
+device computation
+tricaster encoder
+timing
+associated locator
+default aes clear key service policy
+“top level” class
+max playback quality selection
+configure widevine packaging
+streamingendpoint entity
+dvd video object
+common encryption method
+destinationblob.fetchattributes
+_accountname
+fast-forward
+global traffic manager
+collect metric
+basicplayback.html file
+following example illustrates
+caller
+specified media service account
+audio and/or video
+microsoft sharepoint
+propertyset
+adobe flash™
+channel’s input
+notification
+full path
+locate
+media element
+several bitrates
+input format
+output multi-bitrate rtmp
+jobnotificationsubscription
+maximum caching period
+stream configuration menu
+partial list
+british sky broadcasting
+non-vast response
+_sourcestorageaccount new cloudstorageaccount
+aiff
+following encodetoadaptivebitratemp4set method
+license acquisition
+dolby digital plus encoder
+many media source file format
+low frequency effect
+renewal_recovery_duration_seconds
+viewer performs
+.wait
+ss.mmm format
+cloudqueue object
+“bearer=” prefix
+contains invalid item
+var asset _context.assets.create
+mediablobcontainer
+\videofiles
+encryption type
+use policy attribute
+.png
+ui list box
+minimal
+healthiness
+window directshow filter
+appropriate locator entity
+reference group
+_context.jobs
+verbose
+mpeg-4 v2
+bitrate mp4
+vob
+shut
+necessary dash.js code
+playback right
+simple sample
+jobstatechanged
+aes encryption
+ingress/egress
+createfromfileasync
+database
+.wmv file
+content_key_specs.key_id
+endpoint running
+overlaystarttime attribute
+uploadsinglefile_
+use azure management portal
+click add stream
+processing task
+maxdataserviceversion
+apache lucene/solr
+wirecast output setting window
+mpeg-2 audio
+echostar purchasing corporation
+certificate thumbprint
+streamfragmentelement
+sa download url
+desktop
+updated job reference
+implement smooth streaming client functionality
+gettokendatafromexternalstorage
+guarantee
+canceljob function
+basic workflow “hello world”
+different live ingest end point
+renewal_delay_seconds
+default slate image
+x.509 certificate thumbprint
+improved video quality
+“deinterlace” option
+actual event
+‘jobresult.txt’
+program stop
+xml element
+various yuv
+attachview
+simple html page
+iassetfile replaces fileinfo
+destination blob
+‘build-on’ service
+football
+filtertrackselectstatement
+tracking uri
+split
+playready delivery method
+protection dropdown
+binary file
+new-azuremediaservicesaccount -name “mediaaccountname” -location “region” -storageaccountname “storageaccountname”
+frames/second
+window encrypting file system
+key delivery type
+following interval
+associated job
+last fragment
+audio/video presentation
+protection level silverlight support
+network
+output tab
+possible reason
+stream level timescale must
+setting keyframe interval section
+optional odata operation
+vestel elektronik sanayi ve ticaret a.s
+channel prior
+provider_client_token
+adaptive bitrate rtmp
+license info
+encryption topic
+/// summary ///
+following naming pattern
+continuous fashion
+mxf file
+encrypt property
+different timescale value
+http post url
+und
+mingfei yan
+video_512x288_850kbps
+select add+
+duplicate fragment
+cenc option
+durability
+media service javadoc documentation
+license acquisition url
+new primary storage access key
+object level
+encryption related property
+audio track stream
+new encoder try
+transient exception handling
+entire video
+appropriate action
+nuget restore build step
+.m2ts
+smardtv s.a
+horizontal slider
+redirects
+current value
+input source/contribution feed
+invalid url
+encodingreservedunittype
+adroit business solution
+program operation
+following setting
+truepeak
+bing
+delivery mechanism
+v3 format
+concurrentdictionary collection
+cross site access policy
+media_1
+_storageaccountkey
+microsoft azure sla
+secondary storage key
+ismassetfiles.count
+content protection format
+favorite text editor
+advanced setting section
+click save
+wirecast configuration
+video-on-demand workflow
+lower-right corner
+width
+rtmp endpoint
+sas-specific context.locators.createsaslocator
+internet browser
+dash.js project
+azure caching.|if
+first second
+azure media player getting
+wistron corporation
+several second
+various element
+module-level variable
+|no
+following configureclearassetdeliverypolicy method specifies
+standard choose
+bloblist
+drm license acquisition url
+playready protection task
+individual fragment
+software-based whitebox crypto
+mpeg-2 video file
+|yes|no|no opus
+overlayfilename=”
+overlayrect attribute
+propagatesourcetimestamps
+relevant text document
+wasted track
+iasset.locators.count
+required value
+use on-premises
+dvb subtitle stream
+enterprise evaluation
+multiple media service account
+adaptivesourcemanager
+application operation
+live archive extraction
+jid
+scc file
+source file scenario
+var assetname
+fiddler
+quicktime source video file
+available bitrates
+long running http request
+beyond
+following preset
+numberofencoderthreads=
+on-going commercial break
+output dd+ stream
+degree
+ijob job jobinstance.firstordefault
+first output asset
+protected configuration
+media service management rest api topic
+de-interlacing
+media service playready license acquisition url
+.3gp2
+accept-charset
+practice guidance online documentation downloadable ebook
+asf
+smartxml file
+added cors support
+x-http-method
+inning
+advanced option checkbox
+opus
+mediaelement.naturalduration.timespan
+cloudblobcontainer.listblobs
+multiple streamingendpoints
+videoprofile condition=
+today
+media fragment
+track selection
+west u
+it’s
+adaptivesource event
+traditional encoding
+smpte-tt file
+value seed internet
+language identifier
+click play
+media_2
+rest api transaction
+dynamicenvelopeencryption delivery policy
+new property
+hd/sd
+exit
+successful response
+azure media indexer sql add-on
+getoperation method
+keyseedvalue
+ingestion url
+returned path property
+modulo
+geq
+windows/extensions
+default audio track
+30-day readonly access policy
+media service name
+unwanted data
+smpte timed text
+multi-bitrate video
+appropriate
+many asset file
+array
+primary rtmp
+grass valley hq/hqx
+designer overview
+microsoft.windowsazure.storageclient.dll
+vizio
+decibel
+media service account key
+paralleltransferthreadcount
+multiple separate http connection
+entropymode=
+static string _accountkey configurationmanager.appsettings
+encrypting configuration information using protected configuration
+secondary access control endpoint
+akamai signature header authentication
+method definition
+instance
+media service rest apis
+dvsl
+pre-existing policy exist
+progressive output setting
+use separate stream
+locator entity
+animated gif
+first-in-first-out
+additional bandwidth
+package mp4s
+usable uris
+nintendo co.
+range string
+wcf data service
+dataserviceversion value
+following important audio setting
+media service account //
+tricaster rtmp endpoint
+non-standard vocabulary word
+verification key
+input media file type
+related asset
+upload method
+iassetfile.delete
+service corporation
+content service provider
+license_start_time
+detailed title
+digital output
+many type
+mastschedulerplugin
+piece
+common encryption type
+.properties.length
+live smooth streaming
+live encoder convert signal
+premium encoder column
+external account
+html tag
+select connect
+files. /param static private void setismfileasprimary
+hal
+optional box
+address field
+copyblob
+china data center
+run visual studio
+test code
+post body
+upmost importance
+osmf caption
+connection heading
+keyframe interval specifies gop duration
+specified asset file
+upload process
+handset manufacturer
+additional requirement
+following iassetfile.upload overload
+advertisement opportunity
+defines
+adlineartime.duration
+bulk ingest manifest
+dash.js repository
+assetcontainer.setpermissions
+user interface
+defines client robustness requirement
+java v0.8.0 release
+smooth streaming origin url
+azure php sdk
+ismassetfile.name
+cancellation state
+first opportunity
+new post request
+downstream application
+live service
+custom solution
+core logic
+smooth streaming format specification doesn’t block usage
+legacy reason
+media service metric
+solution provider
+speech gated
+click create
+typical example
+osaka
+highh264videoprofile bframecount=
+live encoder setting
+de-interlacing option
+new ingestmanifestasset
+.xaml
+new one
+reserved unit
+uyvy format data
+user agent
+overlayopacity attribute
+adjust presentation window
+incoming video feed
+blob content
+sourceblob.uri.absoluteuri signature
+client endpoint stream
+createencodingjob
+mediaprocessor entity
+successive media fragment
+uploads smooth
+disability

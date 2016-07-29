@@ -1,0 +1,1163 @@
+endpoint
+method
+traffic manager
+profile
+traffic
+traffic manager profile
+website
+next step
+information
+figure
+set
+article
+cloud service
+step
+management portal
+failover traffic
+client
+example
+performance traffic
+azure traffic manager
+method microsoft azure
+traffic manager setting
+service
+ip address
+traffic manager monitoring
+order
+datacenter
+different datacenters
+latency
+setting
+
+time
+configure performance traffic
+performance
+load
+name
+round robin traffic
+different traffic
+page
+number
+company domain name
+primary service
+failover
+traffic manager domain name
+azure automation
+quick create
+status
+domain name
+azure portal
+azure
+round-robin traffic
+region
+manager=
+list
+documentationcenter=
+pagetitle=
+editor=
+tysonn
+traffic-manager
+services=
+azure.note
+traffic manager traffic
+change
+note
+company internet domain
+configuration
+azure cloud service
+healthy endpoint
+traffic manager figure
+rest apis
+ttl
+operation
+traffic manager endpoint
+dns name
+user
+monitoring
+monitoring setting
+carmonm
+identical endpoint
+configure traffic manager round robin traffic
+following numbered step correspond
+traffic manager work
+backup service
+backup
+case
+azure traffic manager profile
+website endpoint
+window powershell
+state
+part
+second
+configuration page
+manage endpoint
+website mode
+rest api reference
+azure resource manager support
+configure round robin
+azure website
+azure traffic manager microsoft azure
+manage azure traffic manager
+disable
+dns resource record
+powershell
+arm
+dns server
+practice
+internet
+nested profile
+request
+type
+see
+robin
+route traffic
+location
+azure resource manager
+organization
+failover order
+file
+delete
+nslookup
+reliability
+azure traffic manager cmdlets
+common pattern
+performance consideration
+globe
+important note
+common traffic
+term
+functionality
+account real-time change
+service failover
+it’s
+method functionality
+round-robin fashion
+bottom
+robin load
+network configuration
+geographic distance
+configure traffic manager failover traffic
+relative path
+configure failover routing method
+round robin
+traffic manager domain
+traffic manager pane
+path
+profile name
+setting page
+world
+child profile
+following
+dns ttl
+dns time-to-live
+endpoint setting
+internet latency table
+way
+weight
+azure powershell cmdlets
+azure powershell
+preview limitation
+minute
+traffic manager profile microsoft azure
+traffic manager domain microsoft azure
+requesting client
+nothing
+traffic manager endpoint microsoft azure
+na
+primary endpoint
+azure automation service
+degraded status
+preview
+endpoint monitor status
+microsoft azure
+small number
+top
+window powershell prompt
+arrow
+nslookup.exe tool
+file name
+monitoring system
+dns query
+command
+point
+http
+result
+local dns cache entry
+external endpoint
+performance impact
+add
+default
+table
+profile monitor status
+access
+right
+child
+enable
+performance load
+random
+subscription
+endpoint monitoring
+single client
+cs-b
+click endpoint
+individual endpoint
+traffic manager performance
+various endpoint
+word
+scenario
+round trip time
+address
+window
+detail
+manage traffic manager profile
+resource model
+automation help manage azure traffic manager
+distribution
+maintenance mode
+disable endpoint
+use
+round robin method
+test
+azure datacenter
+implies
+dns cache
+conclusion
+change profile
+internet dns server
+parameter
+dns client
+failover load
+root directory
+traffic manager probe
+parent endpoint status
+sample tool
+new traffic manager profile
+limitation
+requirement
+round robin load
+profile act
+valid entry
+available tool
+azure traffic manager domain
+value
+user request
+procedure
+correspond
+history
+resolvers
+different azure datacenters
+select round robin
+manage
+configured list
+round-robin load
+specific path
+azure.note azure website
+traffic manager interface
+primary
+configured endpoint
+second service
+real time reflection
+connection
+display
+traffic manager setting microsoft azure
+dns query response
+critical application
+traffic manager preview microsoft azure
+add endpoint
+select performance
+monitoring work
+numbered description
+view traffic manager profile change history
+deployment state
+periodic interval
+different ip address
+computer
+account
+various ip address
+resource group
+window powershell cmdlets
+“closeness”
+azure traffic manager preview
+won’t send traffic
+comparison
+traffic manager profile endpoint
+“closest” endpoint
+health status
+dns
+delete endpoint
+traffic manager monitor
+traffic manager change history
+definition
+following setting
+traffic manager microsoft azure
+adinah
+method pattern
+additionally
+action
+identical service
+refers
+complex deployment
+select failover
+latency corresponds
+following tip
+backup endpoint
+manner
+attempt
+pattern
+referral
+east u
+understand performance
+different geographic location
+azure traffic manager service management api
+add-azuretrafficmanagerendpoint
+health
+azure blog
+azure traffic manager external endpoint
+external location
+weighted round robin
+client computer
+create definition
+example configuration
+rest
+msdn documentation
+local dns server
+dns client cache
+new dns name query
+priority
+round robin behavior
+authoritative dns server
+service management rest api
+programmatic access
+disable client-side dns caching
+weighted traffic routing
+weighted value
+port
+tool
+threshold
+click save
+traffic manager profile name
+filename
+policy
+on-premises deployment
+configuration change
+additional setting
+endpoint status
+left pane
+cname record type
+company domain
+dns record
+method setting
+datacenters
+cmdlet
+service endpoint
+dropdown list
+parent profile
+degraded
+forward slash “/“
+endpoint parameter
+traffic manager page
+much latency
+change history
+traffic manager server
+basic traffic manager profile
+service management api
+column
+failover priority list
+click configure
+traffic request
+traffic manager icon
+profile page
+traffic manager add
+cname record
+ensures
+rest api
+question
+user traffic
+exception
+traffic manager monitoring system
+application
+asia
+working
+option
+choice
+set-azuretrafficmanagerprofile cmdlet
+rest api element
+3-step process
+asia website
+profile paramters
+excellent resource
+endpoint health
+configure performance
+key information
+dns protocol
+important point
+traffic manager overview
+servicing
+basic configuration setting
+management
+basic
+web app feature
+certificate
+end-users
+many setting
+actual endpoint traffic
+preview service
+traffic manager domain name contoso.trafficmanager.net
+traffic route endpoint
+azure resource manager-based apis
+endpoint service health
+automatic failover capability
+query
+level
+add-azuretrafficmanagerendpointconfig
+improve availability
+azure.note arm support
+configure
+use tool
+support
+line
+high performing application
+‘add-azuretrafficmanagerendpointconfig’ cmdlet
+traffic manager issue
+local object
+first step
+“failover-to-cloud” scenario
+ensure
+online
+configure page
+“my monitoring site
+firm understanding
+standard http
+azure traffic manager display profile
+couple hour yesterday
+single cloud service
+tier
+.net sdk
+maintenance
+general section
+cname resource record
+upgrade
+basic profile
+service maintenance
+site
+second-level domain name
+check
+azure traffic manager monitor
+let
+new-azuretrafficmanagerprofile cmdlet
+traffic distribution
+usage scenario
+middle tier
+content delivery time
+downtime
+non-powershell user
+duration
+link
+microsoft azure traffic manager
+recent monitor status
+.cloudapp.net
+direct performance impact
+instruction
+http monitoring
+endpoint tab
+interface
+type ‘any’
+performance isn’t impacted”
+traffic manager configuration
+network latency
+dns name query
+different order
+azure app service
+management service
+status column
+profile setting
+state change
+nested traffic manager profile
+traffic manager monitoring setting
+http port
+lot
+internet resource
+key point
+azure.important
+ssl certificate
+responsiveness
+downtime traffic manager
+configure failover
+protocol choose http
+potential performance problem
+image
+intelligent policy engine
+feature
+get
+terminology
+contoso.com
+server
+microsoft azure powershell
+dns lookup
+company domain name www.contoso.com
+forward slash
+specified endpoint
+example timeline
+new dns query
+get-azuretrafficmanagerprofile
+know
+second-level domain
+azure traffic manager deal
+guide
+status entry
+port choose
+offline status
+domain name system
+common question
+improve responsiveness
+availability
+correct set
+rest api create definition
+monitoring process
+performance issue
+file name give
+new management framework
+contoso-europe.trafficmanager.net
+hybrid cloud
+azure resource
+monitor status
+wget
+azure cli
+new-azuretrafficmanagerprofile
+window powershell add-azuretrafficmanagerendpoint
+impact
+minimum number
+log
+threshold value
+production environment
+topic
+dns host entry
+cs-b’s domain name
+secondary endpoint
+client machine
+something
+request dns resolution
+optional parameter
+top-level tier
+host entry
+portal
+remove-azuretrafficmanagerendpoint
+url
+trial deployment
+server-side default
+similar utility
+top-level tier traffic manager profile
+customer feedback
+probe
+cloud
+chosen endpoint
+cache
+weighting
+row
+prefix
+dns prefix
+parent
+dns response
+click
+configure failover traffic routing
+try
+www.contoso.com cname contoso.trafficmanager.net
+label
+connection delay
+different endpoint
+process
+situation
+appropriate datacenter
+possible value
+weighted load distribution
+endpoints—see update
+parent traffic manager profile
+dns client cache dns host entry
+small percentage
+corresponding profile object
+secondary dns server
+purpose
+percentage
+offline
+weighted distribution
+sequence
+endpoint domain name
+domain
+failure
+initial dns lookup
+presentation
+click delete
+redirect
+powerpoint side
+azure service
+traffic manager profile object
+dns resolution time
+trafficmanager.net
+profile status
+stopped
+new endpoint
+traffic manager performance consideration
+protocol
+response
+unavailable cloud service
+second interval
+network traffic
+ie
+degraded state
+character
+failed check
+monitor setting
+vip
+appropriate record type
+command line
+maximum
+unavailable service
+temporary change
+4-ensure
+policy setting
+inactive
+contoso.trafficmanager.net
+defined endpoint
+next online endpoint
+traffic manager check
+dns resolution
+profile change
+normal microsoft dns root server
+updated dns entry
+ip
+next-closest endpoint becomes
+allows
+ongoing endpoint monitoring
+disabled profile
+keynote
+traffic manager domain resolve
+non-200 response
+different part
+ability
+quickly
+unique prefix
+sec
+specific location
+click disable
+endpoint cs-b
+deployment
+powershell cmdlets
+various location
+free web-based dns lookup
+click round robin
+typical result
+administrator
+enter
+ipconfig /flushdns command
+application migration
+probe path
+next endpoint
+failover priority
+public virtual ip
+hand
+performance*
+corporation
+incoming dns request
+weighted round robin traffic
+online state
+gradual application upgrade
+useful include
+configure setting
+performance statistic
+dns name resolution
+disabled
+azure region closest
+ordered list
+gomez
+difference
+none
+update
+available endpoint
+deploy
+click enable
+endpoint’s dns name
+customer action
+multiple endpoint
+ok message
+3-request dns resolution
+‘weighted’
+single subscription
+traffic pattern
+period
+‘priority’
+extra capacity
+different point
+iterative dns query
+third-party solution
+flush
+azure traffic manager dns system
+second ip address
+internet dns
+repeat step
+client’s local caching name server
+additional capacity
+following command
+monitoring file
+tertiary
+cmdlets
+mind
+behavior
+api
+azure datacenters
+“dns lookup”
+shortest time
+weight value
+traffic manager infrastructure
+traffic manager endpoint monitoring
+cloud-bursting
+portion
+“degraded”
+traffic manager profile resource
+domain name prefix
+pointer
+combination
+dns resolver cache
+task
+profile object
+next-closest endpoint
+flowing
+cascading failure
+ok
+traffic manager profile setting
+storage
+dig service
+example cs-a
+enough logic
+checkmark
+search
+endpoint matter
+click performance**
+method traffic manager
+first lookup
+latter part
+microsoft.network resource provider
+cloud service endpoint
+~50 m
+default location
+monitorprotocol
+available subscription
+top tier
+“stopped”
+child endpoint
+method’
+thing dns resolution
+cloud management
+azure automation getting started guide
+‘performance’
+shortcut menu
+example company domain
+single path
+cloud service name
+use name
+statistic
+web-asia-contoso.cloudapp.net
+make sure
+multiple subscription
+onlineat
+azure subscription need
+one-time operation
+bad naming
+azure subscription
+asp page
+standard
+need
+organization grows
+unique dns prefix name
+whereas client
+marked
+traffic manager probe failure
+multiple profile
+long traffic manager dns response
+sql azure similar
+clarification
+end user
+staging environment
+endpointlocation
+first dns lookup time
+configuration step
+production
+prefix myapp.contoso
+bill.contoso.trafficmanager.net
+//tools.pingdom.com/
+end-to-end transaction
+service stop
+remove-azuretrafficmanagerprofile cmdlet
+//www.watchmouse.com/en/checkit.php
+w3wp.exe
+checkingendpoint
+simple matter
+profile ttl
+fully-qualified domain name
+dns resolvers
+hosted service
+maximum amount time
+binary
+type shortcut menu
+cloud management task
+common technique
+traffic manager dns name server
+profile configuration
+appropriate azure subscription
+arm cmdlets
+dns option within
+api object
+fourth failure
+detailed dns information
+collection
+performance policy
+configured dns server
+confusion
+involvement
+http protocol
+complete outage
+set-azuretrafficmanagerprofile
+‘failover’ traffic
+3-type nslookup
+dns request
+/probe path
+ttl duration
+xml representation
+utility management
+configure traffic
+‘load-balancing method’
+process automation
+access monitoring file
+primary site
+identification
+trafficroutingmethod
+individual change
+first website
+dns domain name
+normal internet domain name registration
+business value
+actual website content doesn’t
+azure account
+minchildendpoints.otherwise
+//www.whatsmydns.net/
+resource provider
+dns performance
+following step
+overall dns query latency
+‘externalendpoint’ type
+traffic manager profile rule
+data requirement
+info
+‘microsoft.network’ resource provider
+service resume
+switch powershell mode
+degradedat
+click operation log
+click “create”
+click add
+probe path doesn’t matter
+online endpoint
+inactiveall endpoint
+long-running
+“online”
+basic setting
+traffic manager monitor endpoint
+multiple website
+“checkingendpoint”
+global service
+web browser
+particular dns request
+dns time
+traffic manager management task
+monitor
+configure endpoint
+failed request
+microsoft dns server
+dns latency
+page analysis
+addition
+client request directing
+resource group name
+arm resource group
+cloud service resume
+minchildendpoints.checkingendpoint state
+‘down’
+work
+possible location
+dns option
+failover site
+distinct name
+application’s logic
+endpoint configuration
+service management operation
+first dns lookup
+checkingendpoint endpoint
+diagram
+visual graph
+type ipconfig /flushdns
+limit
+traffic routing
+you’ve
+cpu
+important consideration
+bottom tier
+dns information
+think
+different subscription
+zero
+first execution show
+minchildendpoints
+migration
+profile resource
+nameservers
+//watestsdp2008r2.cloudapp.net:80/probe
+‘priority’ traffic
+‘stats’
+transition state
+devops staff
+dns result
+certificate mismatch
+efficiency
+parent endpoint monitor status
+left
+notice
+available website
+‘disabled’
+url probe port
+status checkingendpoint.if minchildendpoints
+subscription select
+returned endpoint
+endpoint monitoring setting
+quick create step
+azure powershell tool
+first probe
+dns setting
+highly-available workflow execution engine
+endpoint offline
+get-azurelocation
+session state
+default value
+ac login page
+fully-qualified name ‘contoso.trafficmanager.net’
+web
+trafficmanagerprofile
+target
+file name field
+add service endpoint page
+second time
+first endpoint
+websitepulse
+configure failover traffic
+user’s experience
+program
+http probe
+“important note
+actual content
+database
+entire profile offline
+raw http response
+entry
+billing
+geographic region
+arm resource
+redirected url
+traffic manager choose
+entire domain name
+endpoint health probe result
+multiple policy
+‘external’ endpoint
+full dns lookup
+ttl time
+‘colorize output’
+cnames
+useful tool
+classic portal
+unique name
+relativednsname
+wait
+vice versa
+watchmouse site
+answer
+parent endpoint state
+large number
+management service page
+2-type ipconfig /flushdns
+value ‘contoso’
+‘get-azuresubscription’ cmdlet
+website name
+configure monitoring setting
+cname url
+production service
+operational overhead
+test multiple time
+prefix myapp.contoso nslookup myapp.contoso.trafficmanager.net
+dns ttl value
+others
+child profile monitor status
+profile relativednsname
+selection
+rest api level
+potential problem
+endpointstatus
+“disabled”
+consider
+full dns lookup performance impact
+nslookup myapp.contoso.trafficmanager.net
+vms
+contoso
+underlying azure service
+monitorport
+type ‘trafficmanagerprofiles’
+endpointname
+“/probe.aspx”
+several geo location
+tcp port
+click new
+second default
+global system
+average ~50 m
+flag
+operation detail window
+file name text box
+cloudapp.net url
+great visual representation
+get-azuretrafficmanagerprofle cmdlet
+desired configuration
+associated service
+util.contoso.trafficmanager.net
+choose
+different user
+checkingendpoints
+multiple geographic region
+endpoint availability
+application state
+arm resource name
+configure round robin traffic
+resource manager
+default dns ttl
+policy probing
+default path
+company domain name’s dns resource record
+prompt
+standard website
+monitoring sequence example
+//www.digwebinterface.com
+resource
+scheduled interval
+traffic manager performance policy
+endpoint failover order
+endpoint page
+data
+new profile
+access resource
+traffic manager policy
+design
+‘performance’ traffic
+return message
+element
+communication
+traffic manager dns name
+filtering option
+external dns name
+fiddler
+service decrease
+arm apis
+certificate error
+different geo location
+service type drop-down list
+connection time
+virtual ip
+speed
+select ‘all’
+monitoring status
+map
+range
+different configuration step
+parent endpoint
+monitoring configuration
+use dot
+address swap
+confirmation
+resourcegroupname
+checkingendpointsat
+website configuration
+disabled state
+party system
+‘https’
+no-check-certificate” parameter
+many case
+click management service
+complex task
+click network service traffic manager
+azure production environment
+operation log page
+time range
+simplest tool
+watchmouse’s check website tool
+company
+best practice
+refresh
+xml code
+dependency package
+8-ensure
+influence
+//www.websitepulse.com/help/tools.php
+specific endpoint
+check perf counter
+specified traffic
+6-wait
+web app
+quick failover
+type nslookup
+single website
+profile property
+command prompt
+dot
+different location
+record
+correct endpoint
+internal endpoint rate
+arm api
+azure.note traffic manager
+3rd-party system
+service name field
+first part
+probe.aspx
+resource group location
+consistent hierarchy
+monitorpath
+“/favicon.ico”
+relative dns name
+numbered explanation
+diagram correspond
+clipboard
+mechanism
+separate part
+uri
+traffic manager service
+last byte
+traffic routing policy
+configure endpoint endpoint
+similar
+fqdn
+local dns resolvers
+probe result
+credential
+unavailable service stop
+next monitor check
+path relative
+documentation
+azure-based service
+dns lookup time
+‘round robin’ traffic
+cloud service’s dns name
+datacenter service
+optional ‘-force’ switch
+fully-qualified dns name
+disabledthis
+traffic manager dns lookup
+first byte
+automation
+goal
+datacenter become
+company domain point
+traffic manager probing” section

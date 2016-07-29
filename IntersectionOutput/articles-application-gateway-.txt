@@ -1,0 +1,7 @@
+application gateway
+azure load balancer
+cookie
+http
+next step
+ssl offload
+traffic

@@ -1,0 +1,215 @@
+
+.net api
+.net framework
+absolute
+acceleration
+accept
+access
+add
+add method
+app.config
+application
+application code
+asp.net
+asp.net application
+asp.net page output
+asp.net session state
+assembly reference
+attempt
+available option
+azure
+azure application
+azure cache
+azure cache offering
+basic
+binary data
+cache
+cache client
+cache client diagnostic level
+cache client role
+cache cluster
+cache expire
+cachediagnostics section
+cachename attribute
+caching
+caching nuget package
+caching session state provider
+child
+choose manage nuget package
+click install
+client
+client profile
+client project
+clientdiagnosticlevel
+clientdiagnosticlevel setting
+clr object
+code
+common task
+complex caching task
+config file
+configsections
+configsections element
+configuration
+configuration element
+configuration file
+configurationsettings
+configure
+consistent development model
+countdown timer
+data
+datacache
+datacache object
+datacacheclients element
+datacacheclients section
+datacacheexception
+datacacheitem object
+default cache
+default clientdiagnosticlevel
+default constructor
+default expiration type
+default item
+desired cache
+detailed information
+diagnostic information
+diagnostics
+different cache
+different version
+errorcode
+example
+expiration
+expiration countdown
+feature
+file
+first configure
+first section enables session state
+first way
+following
+following assembly
+following configuration element
+following example
+following feature
+following message
+following section
+full http response
+get method
+getcache method
+getcacheitem method
+getdefaultcache method
+getting
+guidance
+guide
+information
+instruction
+interval
+item
+key
+key parameter
+last access
+level
+link
+memory
+method
+microsoft.web.distributedcache.dll
+microsoft.windowsfabric.common.dll
+microsoft.windowsfabric.data.common.dll
+migrate
+min
+minute
+msdn reference
+name
+necessary reference
+new datacachefactory instance
+new datacachefactory object
+new output cache provider extensibility point
+new section
+next step
+next step section
+note
+notification
+nuget package
+nuget package manager
+nuget package manager installation
+null
+object
+order
+out-of-process storage mechanism
+output
+output cache data
+output cache provider
+outputcache directive
+overload
+overview
+package
+page
+page data
+page output
+parameter combination
+pas
+performance
+pre-built asp.net provider
+premium
+profile
+project
+provided snippet
+provider
+provider plug
+provision
+put method
+refer
+reference
+region
+required assembly reference
+required configuration
+result
+retrieve
+right azure cache
+row
+sample
+scenario
+scope
+search online text box
+second
+second section enables asp.net page output
+second way
+section
+serviceconfiguration.cscfg
+serviceconfiguration.cscfg file
+session state
+session state provider
+setting
+several thing
+size
+solution explorer
+specific duration
+specific key
+specified amount
+specified object
+specified section
+sql server database
+statement
+step
+store asp.net page output caching
+store asp.net session state
+string value
+substatus
+target profile
+technique
+term
+time
+timeout
+timeout interval
+timespan parameter
+top
+type
+unique key value
+use
+value
+virtual machine
+visual studio
+way
+web application
+web.config
+webrole1 section
+window server appfabric
+worker role
+xml

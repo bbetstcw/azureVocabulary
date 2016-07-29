@@ -1,0 +1,2691 @@
+runbook
+azure automation
+window powershell
+activity
+step
+automation account
+article
+azure preview portal
+related article
+azure portal
+dsc configuration
+value
+virtual machine
+schedule
+output
+parameter
+webhook
+information
+
+azure automation dsc
+graphical runbook
+azure automation microsoft azure
+name
+child runbook
+job
+automation
+detail
+resource
+asset
+powershell workflow
+configuration
+hybrid runbook worker
+module
+tysonn
+pagetitle=
+editor=
+powershell
+manager=
+documentationcenter=
+stevenka
+services=
+solution
+azure management portal
+workflow
+graphical authoring
+connection
+example
+certificate
+credential
+azure resource
+source control
+type
+cmdlet
+property
+authentication
+description
+file
+variable
+code
+runbook gallery
+azure
+machine
+credential asset
+node
+message
+account
+access
+new schedule
+input parameter
+user
+cmdlets
+click
+link
+azure virtual machine
+parent runbook
+node configuration
+client
+dsc
+time
+window powershell workflow
+case
+draft version
+orchestrator
+list
+window powershell cmdlets
+way
+object
+url
+runbook output
+integration pack
+powershell workflow runbook
+runbook setting
+graphical editor
+request
+canvas
+cloud
+azure subscription
+powershell runbook
+child
+method
+status
+variable asset
+azure automation solution
+set
+new variable
+new certificate
+source control integration
+management
+job status
+checkpoint
+functionality
+textual editor
+new connection
+portal
+pull server
+job history
+test
+output stream
+version
+content
+key
+textual runbook sample
+graphical runbook sample
+service management automation
+runbook parameter
+runbook job
+runbook converter
+create
+integration module
+powershell gallery
+vm
+parameter value
+new runbook
+azure alert
+gallery
+compilation job
+master certificate
+add
+data
+desired state configuration
+community
+textual runbook
+condition
+library control
+connection asset
+advantage
+parameter set
+note
+process
+conditional link
+graphical
+stream
+microsoft
+classic virtual machine
+azure automation environment
+day
+test output pane
+service
+requirement
+certificate asset
+creation
+import
+password
+prerequisite
+overview
+module gallery
+new azure automation runbook
+azure.note
+setting
+option
+limitation
+part
+script file
+following example
+environment
+local data center
+action
+issue
+change
+exception
+application
+worker
+form
+following
+tool
+view
+configuration management
+tutorial
+following table
+introduction
+integration pack converter
+section
+agent
+data retention
+computer
+number
+inlinescript
+connection type
+error message
+error
+production
+.ps1 file
+azure automation hybrid runbook worker
+written
+azure automation webhooks
+powershell expression
+following procedure
+variety
+published version
+runbook execution
+runbook input
+azure automation runbook type
+command
+consideration
+see
+following section
+operation management suite workspace
+top
+wizard
+workflow activity
+azure vm desired state configuration extension
+runbook activity
+username
+array
+instruction
+powershell credential
+github
+verbose stream
+repository
+orchestrator runbook
+next step
+practice
+progress record
+dsc node
+source activity
+github repository
+runbook using window powershell
+powershell dsc
+azure automation dsc pull server
+start/stop virtual machine
+complex object
+feedback
+ability
+different method
+configure asset
+table
+pscredential object
+review
+security
+new credential
+simple runbook
+parent
+powershell script
+collection
+expiration date
+first powershell workflow runbook
+alert
+response
+hour
+first graphical runbook
+multiple runbook
+automation variable
+data center
+text runbook
+screen
+several concept
+addition
+unique key
+add authentication
+publishing
+secure asset
+tag
+runbook dashboard
+respective procedure
+azure automation api
+azure automation account
+powershell module
+automation dashboard
+walk
+external service
+publish
+describes
+time range
+result
+get
+metric
+azure automation desired state configuration
+compiling
+line
+runbook type
+azure.note secure asset
+azure.selector
+sma
+dsc resource
+create new runbook
+starting
+add code
+breakdown
+compilation method
+sample
+azure automation dsc microsoft azure
+bottom
+add activity
+sample runbook
+operation management suite
+following sample command
+blade
+order
+package
+progress
+converted runbook
+default
+use
+configurationdata
+chocolatey
+manage key blade
+particular runbook
+function
+destination activity
+error stream
+start-azurevm
+procedure
+powershell cmdlets
+multiple step
+feature
+input
+microsoft management agent
+continuous deployment
+azure automation dsc overview
+editor
+author
+syntax
+draft mode
+preference variable
+window workflow foundation
+monitor activity
+powershell workflow code
+window powershell script
+sync
+detailed information
+click publish
+subscription
+optional parameter
+currently
+junction
+region
+azure automation runbook
+state
+modification
+usage example
+following reason
+common question
+backing
+azure automation data microsoft azure
+job state
+answer
+script
+local resource
+powershell workflow microsoft azure
+activity output
+hello world
+automation schedule
+standard activity module
+linux machine
+service name
+track job state
+runbook inline
+get-azurevm
+start runbook
+azure automation disaster recovery
+provide simple
+specific difference
+graph microsoft azure
+quick lesson
+get vms
+variable type
+security credential
+multiple topic
+following step
+system center orchestrator
+third party resource
+string
+hybrid runbook worker group
+complex parameter value
+basic parameter
+simple step
+runbook environment
+message stream
+select automation
+mandatory
+arm template
+loop
+administrator
+get-automationpscredential activity
+test control
+cycle
+output pane
+concept
+configuration control
+inlinescript block
+task
+start-azureautomationrunbook cmdlet
+following image
+registration key
+data type
+check-in
+system center orchestrator integration module
+reason
+start
+resource group
+inline execution
+arrow
+job summary
+summary
+fair share
+text
+continue
+add-azureaccount
+window
+benefit
+merge vms
+alert context
+operation
+azure cloud
+workflow script control
+azure powershell module
+reregistration
+debug stream
+behavior
+registration
+simple value
+runbook tab
+compilation
+log
+http call
+positional parameter
+click start
+parallel processing
+invoke runbook activity
+new version
+powershell expression data source
+difference
+conversion
+next line
+connect
+inline
+server
+place
+interactive user
+log file
+utility runbook
+geo-replication
+hashtables
+path
+configure
+general information
+comparison
+azure automation dsc lifecycle
+myvm
+orchestrator resource
+creating
+output data type
+classic management portal
+access certificate
+component overview
+automation job
+add automation solution
+powershell workflow version
+hood
+vm extension tweak
+control
+graphical version
+certificate expiration
+single parameter
+work
+registration url
+install powershell module
+dsc item
+basic structure
+physical virtual window machine on-premises
+.graphrunbook file
+text hello world
+video walkthrough
+send output
+bit
+lifecycle
+get-azurevm cmdlet
+azure automation relate
+documentation
+new powershell credential
+get-automationcertificate activity
+command line
+automation tool
+quick trip
+inlinescript activity
+job id
+azure resource manager template
+diagram
+association
+get virtual machine
+previous example
+warning
+internet
+tutorial walk
+following diagram
+text editor
+graphical runbook procedure
+event
+edit
+runbook permission
+edit button
+single runbook
+following syntax
+maintaining package metadata
+powershell desired state configuration
+optional additional parameter
+webhook-enabled runbook
+click create
+physical virtual linux machine on-premises
+anything
+total job
+gotchas known issue
+difference type
+particular status
+azure automation web service
+system center orchestrator migration toolkit
+basic process
+provide parameter value
+automated solution
+share
+adding
+dsc registration protocol
+new azure active directory user
+customized functionality
+automation dsc
+chart
+secure location
+powershell session
+call
+stream output
+simple parameter value
+configuration setting
+troubleshoot
+complex data type
+edits
+relationship
+devops continuous deployment
+interactive user interface
+runbook tile
+non-azure cloud
+top right corner
+azure automation dsc overview microsoft azure
+select
+describes step
+source control problem
+powershell integration module
+window computer
+overall solution
+label
+azure automation resource
+initial use
+chocolatey package manager
+folder structure
+secure registration
+required editing
+test pane
+hybrid runbook worker requirement
+record
+import runbook
+powershell source
+azure automation data
+time axis
+simple text runbook
+characteristic
+offline text editor
+azure automation dsc continuous deployment
+http post
+convertfrom-scorunbook
+graph
+beta
+new automation variable
+learning powershell workflow
+kind
+manage machine
+click save
+mandatory parameter
+production automation account
+value azure automation
+automation credential asset
+simplest method
+publish runbook
+chocolatey microsoft azure
+multiple schedule
+code change
+summary graph
+data source
+add-hybridrunbookworker cmdlet
+oauth user principal service principal
+installing
+multiple device
+simple graphical runbook
+different procedure
+azure automation dsc term
+term
+example practical application
+new webhook
+particular time
+full json arm template
+key icon
+container
+group
+expiration time
+detailed breakdown
+multiple job
+azure logon
+practical application
+single http request
+azure automation dsc configuration
+desribes
+azure automation overview
+troubleshooting azure virtual machine
+json format
+high level
+write-output
+oit
+set-automationvariable activity
+azure powershell
+following command
+verbose
+wmf
+date
+stop
+sequence
+nuget server
+script center
+draft
+vms
+devops world
+automation resource
+azure resource manager
+github account
+yes
+folder
+start-azurevm activity
+complete
+cchoco
+navigate
+block
+parallel
+library pane
+branch
+pipeline link
+job pane
+following sample code
+on-premises machine
+brace
+window azure pack
+published
+right-clicking
+download
+start request
+built-in dsc resource
+please
+database
+export file
+current runbook
+visual studio online
+hybrid worker
+converted version
+role
+system
+component
+failure
+item
+unique certificate
+turn
+parallel execution
+webhookdata
+click parameter
+template
+position
+next time
+export
+verbose message
+multiple parameter set
+it’s
+cursor
+effect
+something
+hash table
+http request
+alert rule
+location
+notification
+others
+local environment
+help
+activity2
+current state
+token
+library
+topic
+button
+parallel keyword
+worker computer
+configuration blade
+installation
+separate job
+get-automationvariable activity
+declarative powershell syntax
+local installation
+verbosepreference
+window machine
+click add setting
+pscustomobject
+access local resource
+microsoft azure automation
+add-azureaccount cmdlet
+runbook converter convert orchestrator
+capability
+verbosepreference variable
+technet script center
+hybrid runbook worker feature
+performance
+get-azureautomationrunbookdefinition cmdlet
+port
+target node
+pfx file
+daily schedule
+threshold
+microsoft azure
+appropriate value
+building block
+integration
+manage resource
+physical host
+corresponding cmdlet
+last job
+start-azurevm cmdlet
+automation connection asset
+sequence link
+post request
+write-output cmdlet
+manage
+design time
+get-azureautomationjoboutput
+scalability
+subscription id
+walkthrough
+click add
+startazureclassicvm
+specified number
+refer
+new-azureautomationvariable cmdlet
+webhooks
+enterprise environment
+new graphical runbook
+single object
+development
+set-azureautomationrunbookdefinition cmdlet
+different parameter value
+click ok
+local computer
+letter
+use case
+technique
+detailed step
+context
+indication
+new automation account
+wait
+minimal knowledge
+get-automationconnection activity
+active directory
+servicename
+security token
+standard orchestrator activity
+custom code
+hourly
+import standard activity module
+welcome new addition
+customer
+different field
+azure automation dsc portal
+“publishing”
+significant change
+notification system
+getnetworkcredential method
+sma user
+statistic
+hybridregistration powershell module
+obtain integration module
+weekly schedule
+usage overview
+networkcredential object
+type code
+quick introduction
+graphical runbook connects
+production environment.|
+azure automation management layer
+import system center orchestrator integration module
+on-premise computer
+azure automation” button
+direction
+powershell script code
+automation environment
+main process
+azure.note hybrid runbook worker
+inbound firewall requirement
+following information
+appropriate command
+color coding
+beginning
+briefly explains
+bwren
+intellisense
+previous version
+“deploy
+convert orchestrator
+graphical runbook version
+single optional parameter
+cd
+on-premises datacenter
+comment
+shortcut
+authoring integration module
+bad request
+manual approach
+new user
+anytime
+full solution
+azure automation runbook environment
+exported graphical runbook
+following consideration
+multiple azure account
+.ps1 extension
+scenario
+runbook check-in
+script inline
+sma run
+complex parameter
+dsc pull/reporting server
+automation runbook
+github source control repository
+json serialization
+worker server
+runbook name
+software environment
+on-premises linux machine
+-verbose switch
+discrete function
+management agent
+non-production resource
+yrou
+view report
+processing
+powershell user
+powershell dsc v2 pull
+multiple setting
+webhook url
+azure.note schedule
+review information
+.graphrunbook
+easily
+microsoft operation management suite
+thousand
+many window computer
+different topic
+additional configuration
+following scenario
+hybrid runbook job
+configured threshold value
+source
+on-premises window machine
+pas configurationdata
+debug
+convert custom
+custom url
+http request detail
+one
+multiple variable
+multiple child runbook
+coordination
+declarative configuration
+last checkpoint
+many tool
+brief description
+create required orchestrator asset
+original integration pack
+multiple
+link condition
+window powershell syntax
+unsecured version
+access resource
+little tweaking
+schedule detail page
+connected step
+word
+configure page
+single job id
+code editor
+configure webhook
+following format
+custom resource
+significant difference
+certain workflow
+different function
+creating runbook
+related parameter
+multiple message stream
+useful
+activity1
+automation webhook
+parametersexample.sample node configuration
+test output
+custom application
+regular interval
+access system center
+likely differ
+specified time
+asset blade
+found
+single execution instance
+service account
+scope modifier
+third party integration pack
+ispresent
+wap
+asset part
+manner
+silentlycontinue
+automation account support
+configured event
+warning message
+automation solution push
+display name
+essential panel
+set-azureaccount cmdlet
+third party system
+click asset
+disabled
+different scenario
+configuration management service
+traditional powershell script
+webhook response
+azure automation dsc management layer
+choice
+required activity
+respond
+administrator mode
+azure.note source control
+sma configuration
+azure automation certificate store
+verbose logging
+asset reference
+secure variable
+long-running task
+secondary access key
+internal server error
+complete detail
+required manual task
+different branch
+different kind
+account region
+available resource
+runbook multiple time
+git equivalent command line instruction
+enabled
+azure.note operational insight
+machine’s compliance
+credential object
+brief overview
+multiple powershell workflow
+powershell scripting
+listallvms parameter set
+runbook synchronization blade
+powershell cmdlet
+azure automation worker
+secure password
+pipeline
+team
+required asset
+continuous integration pipeline
+following return code
+automated way
+completion status
+azure resource manager powershell module
+getvmbyserviceand vmname
+runbook folder path
+orchestrator integration toolkit
+draft workflow
+new management platform
+original cmdlet
+single date
+amazon web service
+azure automation runbook job
+certain parameter value
+security reason
+current running state
+modular runbook
+pane
+permanently
+“myconfiguration.webserver”
+structure
+client application
+different job status
+manipulate schedule
+additional special feature
+repository synchronization blade
+typical feature
+use output
+azure api
+usage
+described
+get-automationconnection cmdlet
+window azure pack management portal
+window powershell command line
+server post-registration
+particular cmdlet
+subsequent section
+source control repository
+parent job
+certain data type
+different automation account
+community runbook
+communication
+databus
+delivery
+following detail
+service admin
+different operation
+parameter declaration
+normal script
+multiple stream
+text format
+category
+full detail
+potential future enhancement
+co-admins
+appropriate code
+web site
+starting point
+availability
+single node configuration
+modified one
+particular application
+following criterion
+unique address
+get-azureautomationvariable cmdlet
+similar appearance
+progress logging
+activityoutput
+recent status
+instance
+element panel
+parameter type
+mean
+track change
+get-azureautomationvariable cmdlets
+node register
+specific requirement
+various point
+window powershell language extension
+devops team
+cer
+new window powershell cmdlets
+sync button
+special functionality
+distinct difference
+pscredential parameter
+range
+additional role
+compile configuration
+get-azureautomationcertificate cmdlet
+following additional consideration
+flexible method
+particular scenario
+simple data type
+automatically
+public cloud
+featurename
+expression
+authors=
+graphical format
+development environment
+example scenario
+last change
+particular automation account
+body
+workflow construct
+future use
+vm extension
+convert
+left side
+reliability
+automation library
+regular administrative task
+detailed view
+extreme caution
+existing configuration
+dsc configuration fails
+connection information
+author tab
+encrypted value
+azurecredential
+available subscription
+git pull
+ok
+window powershell command
+following example command
+desired state
+xnetworking
+stream pane
+stop-azurevms
+future node registration
+unique value
+particular service name
+certificate expiration time
+particular vm
+upload
+new
+vmservicename
+azuresubscriptionid
+choose
+connection object
+question
+powershell dsc metaconfigurations
+myrunbooks.ois_export
+checkbox
+previous key
+start-azureautomationrunbook
+added security
+following sample runbook
+related azure resource
+rest
+complex logic
+right arrow button
+start-azurevms
+powershell dsc local configuration manager default
+secure registration section
+powershell code
+stopazureclassicvm
+included example performs
+special handling
+compliance
+ca
+core process
+common parameter
+account option
+corresponding activity
+–name parameter
+system setting
+add-hybridrunbookworker
+point
+parameter name
+myfirstrunbook pane
+short step
+.pfx file
+update
+default value
+data protection manager integration pack
+azure resource manager account
+azure classic portal
+tutorial runbook
+about_inlinescript
+following code
+window management framework
+different resource group
+node configuration block
+default resource group
+runbook input parameter
+runbook button
+click test pane
+dependency
+new job
+congratulation
+dash
+simple type
+automation credential
+right
+header
+output folder
+check mark
+activityoutput variable
+workflow script activity
+vmname
+installation package
+azure vm
+json
+scroll
+following text
+standard activity
+build
+azure service
+activity parameter
+video
+circle
+.powerstate -eq
+start-azurermautomationdsccompilationjob
+dsc pull server
+here’s
+automation solution
+sync job
+stored configuration
+azure automation dsc cmdlets
+object output
+powershell ise
+cpu percentage
+user parameter
+twilio
+test-runbook
+erroractionpreference
+automation asset
+enter
+workflow keyword
+nuspec
+check button
+plain text
+user account
+text message
+stop-azurevm
+lcm
+job tab
+null value
+certificate file
+null
+comma
+azure cmdlets
+year
+thing
+user voice
+configure tab
+runbook blade
+configuration keyword
+click insert
+first time
+click job
+policy
+azure automation credential asset
+stopped
+servicename input parameter
+free trial
+following output
+current activity
+problem
+image
+complex type
+following test runbook
+complex value
+multiple tag
+msdn
+right arrow
+underscore
+current date
+configuration file
+asset name
+workspace
+select-azuresubscription
+required information
+contains credential
+account sid
+value1
+copying
+dsc node configuration
+click browse
+job blade
+expiration
+get azure credential
+new node configuration
+authoring status
+select export
+need
+outgoing link
+automation account page
+show
+multiple activity
+webhookdata object
+get-azureautomationjob
+use parallel processing
+‘unresponsive.’ reregistration
+following condition check
+start button
+tweak
+automation forum
+write hello world
+primary region
+edit runbook
+following expression
+additional information
+declaration
+placeholder
+name box
+new certificate asset
+azure account
+year’s time
+date source
+script block
+default setting
+placeholder activity
+powershell console
+child runbook parameter
+check
+save
+integer
+install window management framework
+cloud service
+new account
+asset type
+script workflow
+rtm
+click stream
+main folder
+outbound access
+chocolatey dsc resource
+specific capability
+west europe
+cmdlets node
+data source dropdown
+inputobject parameter
+appropriate control
+webhook request
+configuration block
+deploy
+additional complexity
+valid activity
+incoming post request
+validation
+possible output string
+multiple object
+guidance
+graphical interface
+following json format
+mof configuration document
+valid value
+runbook worker
+previous activity
+connection parameter
+azuresubscriptionidassetname
+package repository
+strategy
+workstation
+vm registration
+worfklow
+azure automation dsc pricing
+azure environment
+applies
+/opt/microsoft/dsc/scripts/register.py automation account registration key automation account registration url
+different resource
+activity3
+authorization
+p dsc
+compile
+runbook pane
+feature request
+pscustomobjects
+queued
+implement
+helper runbook
+asset tab
+select vmservicename
+runbook detail
+incoming link
+environment variable
+reregistering
+entire mof file
+app service
+get-automationpscredential
+high availability
+portion
+configuration pane
+publish button
+automation worker
+set-azurevmextension
+start time
+member
+may
+-resourcegroupname myresourcegroup -automationaccountname myautomationaccount -computername myserver1
+condition expression
+alignment
+webhookdata parameter
+next activity
+following link
+azure automation team
+complexity
+extension
+timestamp
+following image show sample activity
+.cer
+constant value
+select vmname
+job completes
+maintenance cost
+azure automation library
+azure active directory
+onboarding machine
+link type
+make
+azure vm dsc extension
+myserver2 -outputfolder
+next checkpoint
+new commit
+south central u
+format
+sql database
+first activity
+use checkpoint
+quick view
+credential type dropdown
+high level workflow
+network
+boolean
+purpose
+zip file
+get subscription id
+administration
+subfolder
+metaconfigurations
+requestbody property
+last conversion
+microsoft.powershell.utility
+particular type
+cpu utilization
+register-azureautomationscheduledrunbook
+new-azureautomationschedule cmdlet
+node’s authentication certificate
+rootfolder
+minute
+send-twiliosms activity
+click output
+includes
+runbook status show
+resource block
+activityoutput 'startazureclassicvm
+value3
+monitor
+sent
+service name myvmservice
+system center
+powershell dsc local configuration manager field
+multiple action
+shape
+powershell dsc local configuration manager value
+script request
+completion option
+dashboard tab
+enabled option
+computer name
+azure active directory user
+mof document
+true
+verbose record
+useconnectionobject parameter set
+runon parameter
+use register.py
+login-azurermaccount
+stop method
+test button
+azure automation blog
+workflow start
+change apply condition
+powershell syntax
+click add credential
+operationstatus
+required parameter
+top allow
+get-process
+arm
+fiddler trace
+azurecredentialassetname
+powershell dsc registration protocol
+powershell dsc metaconfiguration
+on-premise machine
+thanks
+verification message
+use constant value
+input variable
+related runbook
+japan east
+primary access key
+requestheader
+add input
+automation certificate asset
+logic
+single property
+new automation credential
+node configuration name
+counter
+type string
+register-azureautomationdscnode
+runbook job completes
+azure automation dsc vm extension
+url field
+output type
+following asset
+maximum size
+importance
+permission
+different type
+request body
+local machine
+registry setting
+identifier
+reference
+install-module –modulename modulename
+future
+text box
+powershell dsc agent
+service object
+previous step
+notify
+http
+network location
+value2
+checkpoint-workflow activity
+v5
+execution
+add-azureaccount activity
+confirmation message
+specific string
+automation connection
+click author
+get-azurermautomationdsccompilationjob
+automation community
+click add schedule
+default name
+cloud resource
+special activity
+linux
+authority
+side
+authorization token
+center column
+start runbook blade
+format modulename_version.zip”
+credential blade
+runbook part
+click set source control
+connection blade
+subscribe
+send platform event
+retrieve
+previous example copying file
+twice
+azure preview portal navigate
+verbose common parameter
+starting runbook message
+servicename input variable
+recipient e-mail
+samplemessage
+dsc configuration script
+required module
+data type object
+subscriptionid
+add add-azureaccount
+different region
+hover
+first conditional link
+schedule part
+“configuration document”
+specific value
+entire workflow
+east asia
+simple process
+activity parameter configuration pane
+connect computer
+required workflow keyword
+configuration status
+new automation certificate
+click buy
+active directory user
+running state
+edit blade
+underneath add-azureaccount
+difficulty
+modulename.zip
+get-automationcerticiate
+label default
+import dsc resource
+starting activity
+publish-azureautomationrunbook
+runbook control
+configured security policy
+subfolders
+parameter parameter
+new azure automation credential asset
+view detailed help
+click credential
+firstname
+workflow script control activity
+single .ps1
+click add variable
+addition credential activity
+git add git commit git push
+solution gallery
+system center integration pack
+external resource
+submission
+configurationdatasample.myvm3
+azure.video
+following log file
+alpha numeric character
+particular parameter
+scene
+target state
+unique name
+param keyword
+set- azureautomationcertificate
+completion message
+click new management automation account
+compute
+last operation
+type integer
+notify vm
+new empty runbook
+different parameter set
+window server
+machine check
+external condition
+scott hanselman’s blog
+get-azureautomationcertificate
+-verbose parameter
+deny request
+sql server name
+error link
+redundancy
+database server
+known issue
+entire set
+failed
+started
+automation task
+complete workflow
+azure automation cmdlets
+importing
+side use
+deploymenttemplate.json
+stop azure classic vm graphical runbook
+log verbose record
+level
+custom parameter
+removal process
+first report
+branch name
+private package
+on-premises vm physical host
+authorized application
+source control integration/repository synchronization blade
+security policy
+different role
+additional parameter
+january
+release
+read
+sample code
+right click
+graphical workflow
+powershell dsc tool
+automation account dashboard
+comment section
+completes
+ii
+core resource provider
+share resource
+store
+error action
+configurationdatasample.myvm1
+local directory
+child runbook job
+body part
+name field
+particular event
+xwebadministration module
+psdscallowplaintextpassword
+following code performs date calculation
+azure.note automation account
+configuring azure automation
+deployment
+dialog box
+quick create
+set variable
+rule
+generated node configuration mofs
+multiple cloud
+build task
+single value
+specific dsc resource
+sensitive function
+click configuration
+window world
+runbook node
+unselect
+valid line
+select resource group
+workflow activity share
+job detail blade
+connection type dropdown
+requestheaders property
+resourcetype
+activity output data source
+full list
+placeholder cmdlet
+multiple input
+multiple computer
+multiple node
+empty powershell workflow runbook
+credentialsample.myvm1
+target machine
+get-automationcertificate
+entry
+code walk
+single line
+built-in functionality
+available branch
+module parameter
+powershell common parameter
+complete documentation
+progress message
+subscription charge
+subsequent import/compiles
+large object
+new repository
+get- automationconnection
+special automaton
+use brace
+routing
+custom deployment pane
+servicename parameter
+new software
+orchestrator runbook author
+authorize
+built-in window powershell desired state configuration resource
+30000-30199
+calculated date time
+node configuration mapping change
+installing window powershell module
+new active directory user
+data loss
+dsc push
+resourceid
+connection part
+network destination
+add parameter
+additional value
+select graphical
+click disconnect
+backup
+key performance
+set source control blade
+mirror
+single window powershell workflow
+compile dsc configuration
+set-azureautomationschedule
+check mark button
+reindex
+standard header
+node configuration mof file
+debug information
+iteration
+select view job
+webhookname property
+azure.video get-started-with-azure-automation
+setdsclocalconfigurationmanager.py
+start azure classic vm graphical runbook
+remove
+chocolatey’s native capability
+runbook list
+corresponding resource
+expected output
+on-premises resource
+object sent
+-name module-name –contentlink
+u east
+import option
+connected source tab
+getvmbyserviceandvmname parameter set
+import button
+cloud environment
+set-azureautomationvariable cmdlet
+powershell workflow child runbook
+get-azureautomationjoboutput cmdlet
+add write-output
+azure automation equivalent
+view detailed status
+select new user
+full user name
+look
+deploy resource
+current size
+alert context parameter
+encrypted automation variable
+workflow name
+new vm
+sql server
+-resourcegroupname my-automation-rg -automationaccountname my-automation-account
+new automation account page
+make sure
+source control job
+orchestrator standard activity
+there’s nothing
+typical method
+southeast asia
+multiple resource
+azure load balancer
+secure
+github source project
+qa
+request sent
+switch
+designate multiple hybrid worker
+“isvboxconfig.isvbox”
+alert rule becomes
+complex runbook
+unreliable result
+many runbook
+string array value type
+existing
+field
+webhook call
+legal term
+following image show similar functionality
+new textual runbook
+remove-azureautomationschedule
+select name
+report status
+check-in job history
+zip
+webhookname
+select certificate
+mulitple activity
+management platform
+credential secure
+window powershell desired state configuration
+azureautomationfiles
+false alarm
+lengthy operation
+actual configuration state
+replace
+get-process select processname
+type add-azureaccount -credential
+click sync
+new-azureautomationconnection
+first step
+certificate blade
+nuget.org you’ll
+delete sample
+“configurationname.nodename”
+standard
+traditional powershell dsc pull server
+secondary data
+connection type defines property
+summary.log
+stop-service cmdlet
+workflow end
+nuspec’s
+converted graphical runbook
+script code
+add get-azurevm
+following region
+field path
+generic window
+technet gallery
+underlying window powershell workflow code
+second link
+detail blade
+visual studio project
+click yes
+leverage json serialization
+display
+virtual machine’s dashboard blade
+.docx file
+build custom window powershell desired state configuration resource
+delete key
+on-premises
+next step section
+required functionality
+github username
+accessing resource
+matching tag
+output button
+represent management process
+\program files\microsoft monitoring agent\agent
+premise environment
+daily
+select start-azurevm
+system center orchestrator runbook server
+new configuration
+individual parameter
+source control runbook
+get-azureautomationdscnode cmdlet
+twilio connection type
+dropdown
+typical script
+use credential
+open myfirstrunbook
+tag parameter
+limit
+azure.note method
+write-verbose cmdlet
+runbook format
+package metadata
+webserver
+resourcename
+new- azureautomationcertificate
+integration module column
+corresponding azure automation runbook
+update environment setting
+copy icon
+write-output line
+second mandatory input parameter
+directory name
+clear
+variable blade
+type start-azurevm -name 'vmname
+runbook applies
+user’s full name
+reporting service
+name/value pair
+weekday
+central dsc pull server
+source control sync job history
+\users\joe\desktop_
+send- twiliosms activity
+azure automation community
+-and
+custom date
+publish-azureautomationrunbook cmdlet
+you’re
+free download
+job’s output
+great intro
+description column
+unregister-azurermautomationdscnode
+vm that’s
+automation account detail
+source activity result
+click dsc node
+history
+available primary
+setting subscription edit directory
+click import
+separate write-output activity
+select setting administrator add
+addition add-azureaccount activity
+example template
+new concept
+.powerstate -ne
+-servicename 'vmservicename
+follow step
+minor version
+orchestrator variable
+nics
+different subscription
+load balancer
+msi
+additional resource
+alternate mean
+click parameter set
+old node configuration
+that’s
+module zip
+restart-computer cmdlet
+node server-side
+merge vms activity
+target group
+select get-azurevm
+myserver2
+picture
+available asset
+checkmark button
+multiple webhooks
+id
+complex expression
+single string
+server role
+notify already
+method invocation
+job created column
+select write-output
+different window
+name3
+geo-failover
+name2
+specifies
+primary data
+checkpoint-workflow cmdlet
+dev test environment
+empty automation account
+forum
+north europe
+schedule blade
+alert make sure
+authenticating
+runbook designer
+master
+delivers
+favorite source control system
+private cloud
+powershell script runbook
+different azure subscription
+identical state
+unlimited number
+following code snippet
+overwrite parameter
+specific task
+entire object
+conditional pipeline link
+fundamental
+managed service
+small thing
+specifyconnectionfields parameter set
+specific region
+integrating runbook source control
+data type pscredential
+unencrypted asset
+oauthtoken
+following parameter
+character
+azure.note check-in
+click select
+it’s status
+cchoco dsc resource
+directory
+sample procedure
+structural configuration
+firewall requirement
+xml
+path parameter
+allnodes keywords
+“mof
+click link
+input parameter refer
+string name
+azure automation button
+extensive ui
+stop azure classic vms
+initialize data activity
+write-output activity
+complex process
+liveids
+global variable
+configure registration data
+unencrypted variable asset
+formatting
+following example dsc configuration
+current computer
+select active directory
+attempt
+dsc pull method
+start-childrunbook
+operator
+client post request
+dsc linux agent
+//storage-uri/public/module-name.zip
+following sample
+blank line
+full source
+string object
+performance reason
+runbook input parameter pane
+tomorrow
+setting action column
+confirmation
+different source
+arm deployment model
+hour limit
+following powershell
+getautomationcertificate
+language
+test child runbook
+system center component
+available module
+equivalent
+change control
+azure service management
+read activity
+azure automation access
+detailed syntax
+following resource
+node status
+jsmith
+outputtype attribute
+name1
+commit message
+central repository
+current one
+optional description
+rotation
+azure automation store
+automation-dsc-onboarding.md
+custom probe
+remediation
+filename
+click webhook
+runbook gallery section
+vote
+subsequent activity
+source control blade open
+schedule file copy
+automation source control
+single process
+graphical runbook file
+simple example runbook
+empty string value
+following property
+subcategory
+type write-output
+rtm version
+anti-virus software
+.pfx
+physical machine
+following input parameter
+starter sku that’s
+local system account
+user’s password
+infrastructure
+remove-azureautomationconnection
+operational insight workspace
+myhybridgroup
+updated version
+node block’s name
+privacy
+type dropdown
+run
+key feature
+premise infrastructure
+compilation job blade
+separate logical environment
+sample graphical runbook
+repeatcount
+user parameter set
+write-error cmdlet
+automation capability
+commit
+azure.note source control runbook
+new-azureautomationrunbook cmdlet
+“version
+following powershell code
+different runbook format
+agent computer
+dropdown list
+various type
+inputobject
+.doc
+automation-dsc-overview.md
+node keyword
+consecutive time
+connection’s field
+organizational account
+azure blob storage account
+set- azureautomationcredential
+telephony service
+connection string
+asm
+“role”
+–configurationmof path
+use get-azureautomationjob output
+numberofrunnings
+deleted
+sampleconfig
+integration module format
+service administrator
+worker component
+virtual machine object
+myfirstrunbook-workflow pane
+choose repository
+patch
+credential part
+job object
+download package
+notify vm stopped
+someplace reachable
+write-progress cmdlet
+parallel child runbook
+internet search
+configuration directory
+management layer
+vm lifecycle management
+choose branch
+different status
+github information
+click write-helloworld
+draft runbook
+pscredentials
+job list
+south east asia
+click compile
+continues
+production use
+safe place
+unknown
+preference variable value
+powershell tool
+deployment model
+node block
+third link
+contains reference
+providertype
+nuget
+node configurations/mof file
+node report
+object data type
+management technology
+particular field
+linux world
+following automation resource
+dsc extension
+runbook author
+summary page
+new version number
+long running operation
+dashed line
+equivalent asset
+large sql database
+complete test
+runbook input variable
+many dsc resource
+powerstate
+specified pattern
+inlinescriptblock
+sensitive information
+particular condition
+following data type
+fair share limit
+blog
+runbook operation
+package manager
+specify vmname
+github repo detail
+runbook’s parameter
+runbook job’s status
+mof
+myserver1
+mof file
+info
+support
+automation account location
+phrase
+great overview
+notify already stopped
+initial value
+apt-get
+progress.log
+left pane
+retrieves
+use comparison operator
+hashtable parameter
+window powershell credential
+encrypted variable
+primary
+manage continuous deployment
+large amount
+graph icalrunbook
+different runbook type
+powershell dsc doesn’t
+log entry
+attribute
+transition
+noon
+multiple azure subscription
+scripting
+azure.note microsoft account
+“compiled”
+aka location
+start azure classic vms
+powershell experience
+azure automation dsc ship
+manual technique
+automation azure operation
+secondary region
+schedule asset
+full power
+name myfirstrunbook-graphical
+different name
+pscredential type
+current value
+lot
+myfirstrunbook-workflow
+detail page
+sample integration module
+encrypted oauthtoken
+numberofiterations
+authtoken parameter
+add automation account blade
+many type
+r2 image
+operational insight
+capacity management
+weekend
+iaa vms using azure automation dsc
+success link
+new-configurationscript.ps1
+encrypted
+pm
+required field
+get-azureautomationschedule
+azure storage account
+dummy variable
+dsc resource side
+automation certificate
+set-dsclocalconfigurationmanager -path
+webhook.requestbody property
+import module
+main reason
+secondary region pairing
+single element array
+run runbook
+right click write-output
+get-azureautomationrunbook
+correct url
+ensure machine
+automation page
+first link
+write-helloworld runbook
+remove- azureautomationcredential
+tutorial category
+logical operator
+different output stream
+single azure virtual machine
+overdue payment
+github user name
+set-dsclocalconfigurationmanager
+onboarding
+following example copy
+azure blob storage container
+runon option
+single array
+add azure vm
+password field
+help purpose
+get-credential cmdlet
+resourcegroupname
+administration task
+multiple line
+microsoft azure powershell
+additional blade
+access azure resource
+simple function
+boolean parameter
+select virtual machine
+organization
+various available build task
+test blade
+management task
+running service
+powershell command line
+cpu
+push change
+click runbook
+probe endpoint
+temp folder
+azure window vms
+operation management suite setting pane
+window powershell script block
+reachable http location
+set-azureautomationrunbook cmdlet
+following string
+criterion
+lastname
+schedule tab
+twilio connection
+generation
+sampleconfig configuration
+new-azureautomationschedule
+inbound port
+nutshell
+long period
+sample window powershell
+credential type
+public preview
+local server
+select servicename
+click browse gallery button
+restriction
+twilio service
+configuration management experience
+multiple condition
+declarative way
+write-helloworld.ps1 script
+blob storage
+foreach -parallel construct
+int32
+current day
+retention policy applies
+dictionary
+pscredential common parameter
+cd management
+change run setting
+isvboxconfig.ps1
+composite dsc configuration
+install package
+unlikely event
+powershell gallery button
+particular tag
+\users\joe\desktop\dscmetaconfigs
+network security
+window vm
+choose source
+specify
+someone
+single operation
+azure subscriptionor
+source control integration tab
+profile setting application
+subnets
+default azure
+deserialized object
+contribution
+runbook parameter value
+access automation variable
+different worker
+summary.log file
+db
+azure website
+credential activity
+multiple property
+gallery item
+specify simple
+today
+multiple agent
+test pane button
+empty runbook
+single agent
+runbook gallery result
+variable set
+cchoco.zip
+data format
+important event
+library provide complete documentation
+job start column
+actual installation
+installing module
+automation variable asset
+module folder
+compile configuration blade
+alert context contains detail
+runbookfolderpath
+export-azurermautomationdscconfiguration cmdlet
+select powershell workflow
+verbose message stream
+certificate part
+msu
+runtime
+press ctrl+c
+automation account name
+p dsc term
+access data
+entire length
+automation account blade
+first pull
+\users\joe\desktop
+configuring azure
+public folder
+service name myservicename
+available option
+following recommendation
+secondary
+many metric
+name myfirstrunbook-workflow
+following sample window powershell
+module tile
+exclamation point
+available repository
+different node configuration server-side
+remove-hybridrunbookworker cmdlet
+last version
+reindex operation
+runbookpath
+drag
+name parameter
+anyone
+automation account’s registration key
+automate security function
+click runbook file
+listallvms parameter
+firewall
+get-azureautomationconnection
+empty string
+register-azurermautomationdscnode cmdlet
+datetime
+role name
+graphrunbook extension
+central u
+add webhook blade
+runningstate
+particular value
+select credential asset
+“configuration name.nodeconfigurationblockname”
+node enact node configuration
+basic parameter section
+environment specific configuration
+access credential
+non-default resource
+single variable
+course
+“node configuration”
+enforce configuration
+help text
+accountsid
+retention policy
+keyword
+product
+particular job
+-or
+final step
+desired configuration
+running
+select add-azureaccount
+management blog
+advanced capability
+orchestrator start
+particular worker
+last checkpoint set
+variable part
+int64
+repeat
+final completion message
+configuration look
+check-in runbook
+myget.org
+multiple command
+correct
+temporary password
+metaconfiguration file
+/foldername/subfoldername
+copy multiple file
+azure module
+multiple azure virtual machine
+window powershell session
+networking
+job detail
+github account detail
+browser window
+primary region data
+getvmbyserviceandvmname
+authorization property
+workflow script
+last checkpoint meaning
+lab environment
+node’s status
+activity pane
+additional capability
+north central u
+powershell dsc vm extension
+connectionfieldvalues
+database name
+api
+certain activity
+multi-factor authentication
+orchestrator activity
+japan west
+metaconfiguration
+log part
+azure.important
+“role
+prone
+primary purpose
+meaning
+asset tile
+myfirstrunbook
+last virtual machine
+endpoint
+space
+click input
+complex variable type
+specific version
+custom script
+following workflow
+certain type
+particular information
+remove- azureautomationcertificate
+multiple virtual machine
+toolset
+\program
+requestbody
+on-premises hybrid runbook worker
+startazurevms
+runbook input data source
+byname parameter set
+automated process
+vmname.name
+new report
+powershell stream
+first
+multiple number
+node configuration mof generation
+server feature
+application code
+scratch
+click create new webhook
+hashtable match
+powershell dsc resource
+view source project
+set-azureautomationschedule cmdlet
+corresponding stream
+azure gallery
+following condition
+following exception
+github home page
+folder” format
+expand cmdlets
+resulting response
+multiple worker
+browse
+guide
+detailed log
+.\
+various task
+different stream
+select delete
+outputfolder
+disaster recovery
+variable value
+multiple value
+powershellscripts
+webhook field
+successful registration
+certain amount
+expression box
+isenabled parameter
+configuration compliance
+workflow common parameter
+job data
+cmdlet equivalent
+change data source
+window azure
+distinct word
+get variable
+get-azureautomationscheduledrunbook
+\programdata\microsoft\system center\orchestrator\7.2\sma\sandboxes
+runbook toolbar
+add start-azurevm
+snapshot
+previous example request
+numberofdays
+reporting server
+storage
+browser
+“i
+modified runbook
+stored image
+first checkpoint
+dsc local configuration manager
+virtual machine name
+powershell child runbook
+next line step
+local runbook worker
+underlying code
+converted integration pack
+workflow script parameter
+different geographical region
+azure resource manager module
+existing automation account
+header information
+credentialsample.myvm2
+fire
+east u
+front
+offline editor
+window system
+get-automationconnection
+module menu
+azure quickstart template
+entire list
+blog post
+azure operation
+converted standard activity module
+current tag
+new-azureautomationconnection cmdlet
+control activity
+future reference
+monitor runbook
+nupkg’s
+affected customer
+vms don’t
+single azure region
+access connection
+target activity
+click new runbook gallery
+.ps1
+service attack
+manual process
+get twitter connection
+denial
+about_workflowcommonparameters
+account data
+runbook server
+create webhook blade
+couple
+artifact that’s
+click add connection
+warningpreference

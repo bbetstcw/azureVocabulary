@@ -1,0 +1,3080 @@
+notification
+notification hub
+app
+push notification
+azure notification hub
+device
+user
+overview
+get
+next step
+io
+application
+tutorial
+prerequisite
+android
+window phone
+category
+tag
+registration
+section
+
+news
+send notification
+use notification hub
+azure.note
+mobile service
+backend
+topic
+azure.selector
+chrome app
+azure
+code
+message
+back-end
+register
+following code
+webapi backend
+connection string
+set
+io app
+java
+window store
+project
+example
+optional
+baidu
+client
+runtime
+php
+code sample
+note
+backend system
+following
+gcm
+webapi project
+information
+template
+phone silverlight
+detail
+visual studio
+news notification
+azure mobile service
+console app
+python
+azure notification hub secure push
+azure notification hub notify user
+.net backend
+asp.net
+platform
+time
+order
+.net console app
+request
+namespace
+pns
+apns
+notification message
+app backend
+account
+node.js
+standard tier
+method
+local storage
+android device
+hub
+chrome
+emulator
+new notification hub
+window store app
+case
+solution
+kindle
+client app
+sample
+powershell
+class
+.net api
+connection
+step
+send method
+apple
+notification hub tutorial
+screen
+generate notification
+secure push notification
+add category selection
+create
+implementation
+click
+file
+statement
+wns
+android app
+notification hub rest interface
+hub name
+selected category
+log
+client device
+push
+way
+access
+notify user
+authenticationtesthandler
+name
+property
+minute
+new controller
+rest interface
+rest api
+language
+reference
+new webapi backend
+google cloud messaging
+day
+top
+java/php
+value
+window
+store
+mobile platform
+service bus
+solution explorer
+id
+mobile backend
+following method
+cross-platform notification
+instance
+controller
+use
+debug tab
+api key
+library
+compatible library
+list
+current user
+backend service
+app back-end
+authentication token
+faq
+complete
+azure service bus notification hub
+objective-c
+silverlight
+payload
+credential
+selection
+script
+send
+kindle fire
+couple
+active azure account
+certificate
+azure management portal
+toast notification
+new project
+free trial account
+token
+high level
+httpcontext
+azure free trial
+event
+username
+console application
+mpns
+baidu account
+push notification registration
+first step
+mobile app
+back-end service
+enable google cloud messaging
+easy-to-use
+multiplatform
+node.js application
+part
+placeholder
+username tag
+component
+e.g
+registeration
+scaled-out push infrastructure
+notification hub name
+rest apis
+label
+azure portal
+basic
+url
+image
+create security token
+app user interface
+template concept
+android project
+debug property
+client interface
+make sure
+template notification
+mobile application
+nh
+io project
+tutorial build
+following line
+message handler
+provisioning profile
+deploy
+notification hub breaking news tutorial
+following parameter
+notification hub localized breaking news tutorial
+developer
+manage notification hub
+end
+csr
+azure notification hub rich push
+xcode
+ui element
+asp.net backend
+device registration
+following tutorial
+question
+number
+challenge
+certificate signing request file
+diagnosis guideline
+use azure notification hub
+device token
+button
+package
+capability
+namespaces
+call
+getting
+interest group
+java php
+user tag
+apple push notification service
+customer
+mainactivity class
+push notification support
+enterprise application
+consumer
+msdn
+asp.net webapi backend
+password
+scenario
+io device
+million
+bottom
+subscription
+dashboard
+get started
+.net sdk
+new asp.net webapi backend
+baidu cloud push project
+instruction
+product name
+app id
+badge
+template registration
+appbackend project
+.net backend javascript backend
+view
+notification failure
+portal
+dr
+universal
+bandwidth
+microsoft azure
+something
+native registration
+http rest api
+device local storage
+google account
+click add
+specific user
+previous registration
+notificationhubservice
+.net console application
+example register
+pricing
+article
+nuget package manager
+new app
+skip step
+push background component
+startup
+following approach
+php back-end
+add
+client library
+notification hub client
+sensitive information
+concept
+folder
+eclipse
+flow
+azure service bus
+single request
+new backend
+main purpose
+experience
+standard push notification infrastructure
+step register
+python back-end
+development
+delegatinghandler
+namespace namespace
+native payload
+string format
+mobile service please
+specific device
+feature
+android app microsoft azure
+secure
+notification hub build
+authentication
+new message handler class
+push tutorial
+azure powershell
+version
+security constraint
+secure push tutorial
+azure notification hub service management library
+advanced notification hub scenario
+platform-agnostic notification
+actual username
+msdn topic notification hub rest apis
+azure.important
+string
+interest
+text field
+notification class
+debug
+make
+module
+channel uri
+add credential
+window phone app
+tile
+iphone
+sensitive payload
+localized breaking news
+click create
+notification hub guidance
+microsoft.servicebus.dll assembly
+sla
+group
+goal
+following step
+navigate
+option
+viewcontroller.m
+click continue
+preceding flow
+broadcast
+type
+error
+localized version
+adm
+new android project
+window store application
+push notification programming guide
+template feature
+expression
+latency guarantee
+notification payload
+defaultlistensharedaccesssignature
+seamless experience
+notification’s secure payload
+sign
+developer portal
+window universal
+import
+security model
+employee
+window phone project
+multiple tag
+android application
+user log
+category notification
+segment
+namespacemanager class
+device store
+namespace name
+authorization token
+service
+device app
+main page
+broadcast toast notification
+baidu portal
+certificate signing request
+support
+common interface
+appdelegate.m
+new registration
+generic notification
+process
+namespacemanager
+io application
+import/export
+many device
+azure notification hub sdk
+service bus entity
+namespacemanager object
+relation
+kindle application
+sdk
+listen access
+logic
+review notification outcome
+general
+installation api usage
+telemetry feature
+event hub
+different platform
+window notification service
+basic authentication
+search
+adm message handler
+troubleshooting
+silverlight application
+back-end code
+location
+defaultfullsharedaccesssignature
+device platform
+etc
+guidance
+schedule notification
+configure tab
+pns issue
+many push notification
+feedback
+guideline
+service tier
+right-click
+detailed logging
+following command
+compile
+consideration
+architecture
+application issue
+service side platform
+asp.net web api
+toast
+microsoft.azure.notification hub nuget package
+audit log capability
+notification hub crud
+notification hub tab
+sms/email/web notification
+benefit
+platform notification service
+signed push certificate
+back-end portion
+window phone microsoft azure
+sends message
+xamarin io application
+secure message
+rich push notification
+sends notification
+mpnsservice object
+baidu microsoft azure
+platform notification system
+android virtual device
+xamarin io app microsoft azure
+window device
+java sdk
+manage service bus
+click ok
+crud
+complexity
+access notification hub rest endpoint
+mobile
+last section
+wnsservice object
+baidu developer
+multiple payload
+universal window app
+multiple backend system
+node script
+new chrome app
+registrationid
+window store app microsoft azure
+push certificate
+azure notification hub mis-configuration
+receives
+verify registration
+correct
+necessary push certificate
+push notification work
+rest client
+io app microsoft azure
+single template notification
+new google account
+chrome app microsoft azure
+piece
+specific tag
+add code
+response
+simple example
+display notification
+setup
+simple java rest client
+additional resource
+android application notification
+creates service subscription
+registration id
+java back-end
+disaster recovery
+procedure
+receives message
+npm
+kindle app microsoft azure
+irrespective
+enterprise environment
+database
+send code
+.net assembly
+target mobile platform
+client project
+enterprise push architecture
+window phone notification
+window store application notification
+notification hub feature
+main step
+xamarin android application
+sdk usage
+previous section
+different way
+design
+mobile service microsoft azure
+kindle app
+creates service bus topic
+enterprise push architectural guidance
+enterprise
+notificationhubservice object
+header
+window store client app
+.net app
+manage notification hub using powershell
+end user
+azure account
+xamarin.android app microsoft azure
+required component
+web api microsoft azure
+automation
+register current user
+official apple push notification service documentation
+correct native payload
+java/php/python/ruby back-end
+common issue
+simple broadcast scenario
+use node package manager
+io application notification
+registration crud
+add google play service
+sample code
+story
+current news
+simple call
+operation
+choice
+back-end app
+context
+apnsservice object
+azure notification hub connection
+gcmservice object
+get started tutorial
+self-diagnose tip
+verify message notification
+full rest wrapper
+verified email address
+monitoring
+.p12 push certificate
+review telemetry
+window phone application
+verify credential
+sendnotificationasync method
+key feature
+package manager console
+path
+multiple notification
+system
+xcode project
+save
+enter
+background task
+secret key
+microsoft.servicebus.dll
+pnss
+click save
+dialog
+work
+respective pns
+ok
+main method
+channel
+new visual
+new class
+program class
+new notification
+simplicity
+service bus nuget package
+content
+io simulator
+shared preference
+cmdlets
+notification type
+next section
+see
+console window
+storyboard
+problem
+free
+organization identifier
+full access
+recommendation
+registercontroller
+target
+secondary nh
+toast catalog
+bundle identifier
+click class
+apple local
+source
+controller folder
+service bus namespace
+following import statement
+ipad
+service bus topic
+upload
+wnspackagesid
+io capable device
+body
+configuration requirement
+enable push notification
+payload format
+post method
+possible payload
+toast alert
+select publish
+different notification
+included code broadcast
+link
+field
+subscribe method
+download
+infrastructure
+wnssecretkey
+place
+http
+install
+target device
+notification hub how-to
+phone
+backend endpoint
+individual user
+supported device
+replace
+main activity
+click manage nuget package
+destination url property
+android development
+package name
+quick create
+azure website
+azure notification hub java sdk
+libs folder
+page
+secure push
+xamarin.android
+http header
+purpose
+installation
+notifications.cs
+hub name -ns
+backend platform
+comment
+app developer
+provision
+template expression language
+take note
+placeholder text
+internet
+service bus subscription
+simulator
+connection tab
+click publish
+powershell script
+sends
+chance
+microsoft azure notification hub .net sdk
+notificationscontroller.cs
+assembly
+incoming message
+desired region
+google apis
+handler
+f5 key
+personalization
+install-package microsoft.azure.notificationhubs
+oncreate method
+click log
+reason
+receiver
+view controller
+i.e
+hubname
+chrome browser
++new
+guide
+click tool
+detailed information
+nuget package
+api key value
+left
+publish target
+one
+change
+single api call
+notificationhub
+visual
+cloud service
+permission
+android notification
+notify user tutorial
+complete implementation
+secure information
+app/script
+registered template
+server.js file
+required step
+setting
+pattern
+many app
+next page
+azure.note notification design
+multiple mobile app
+topics/subscriptions
+amazon kindle fire
+following figure
+app service
+api level
+chrome notification window
+news category
+default namespace name
+localized message
+notify user scenario
+namespace page
+open source project
+handle
+authenticated mobile service
+registration management
+significant departure
+sla guarantee
+form
+tutorial notify user
+eclipse project
+google
+production
+region
+ability
+adm library
+raw notification
+on-premises
+microsoft push notification service
+configuration
+usage
+back-end database
+entire sdk code
+sendnotificationrestapi method
+client secret
+secure payload
+response dump
+tablet
+notification hub pricing
+google chrome browser
+authenticationtesthandler.cs
+service bus pub/sub
+visual studio project
+ui
+registered category
+right margin
+uitextfield
+memory
+project name
+login
+beneath
+common scenario
+new console application project
+app service plan
+new hub click view connection string
+difference
+android studio
+kind
+utility method
+android version
+provision notification hub
+advantage
+multiple visual notification
+cloud
+integration
+implementation section
+back-end endpoint
+interface section
+registration data
+previous version
+term
+azure.note make sure
+true authentication
+file program.cs
+different secure notification
+chrome user
+mybroadcastreceiver.cs
+lob/legacy system
+common creation
+sample reference implementation
+intermediate abstraction layer
+java/php/python
+php implementation
+step manner
+single push system
+multiple request
+many namespaces
+specific example
+server
+notification hub implement
+window etc
+callback function
+async operation
+scope
+send_apple_notification
+current request
+node.js azure package
+login flow
+local variable
+correct payload
+actual notification
+didfinishlaunchingwithoptions
+target user experience
+create template registration
+notificationhubservice.wns
+notificationhubservice.apns
+nofication hub
+broadcasting
+sa token
+platform-specific infrastructure
+telemetry access
+vital component
+send notification button
+consumer scenario
+intranet scenario
+java php python
+multiple template
+skip
+user credential
+powershell cmdlets
+localized notification
+update registration
+tag expression
+project number
+level method
+send_windows_notification
+pns handle
+batch
+point
+images/coupons
+notificationhubservice.gcm
+architectural diagram
+notification hub issue
+java/php/ruby back-end
+manage azure notification hub
+notification hub use
+lob application
+on-demand push infrastructure
+dwrede
+different platform notification system
+notification hub eliminate complexity
+approval processing
+apache cordova
+common push notification scenario
+attribute inspector
+key
+second device
+getting started tutorial
+configuration step
+up-to-date information increase employee responsiveness
+client platform
+chrome app notification hub sample
+key benefit
+supported notification hub python sdk
+many form
+generic in-browser push notification
+create registrationid upsert pattern
+general architecture
+tutorial section
+official azure notification hub java sdk
+default project
+respective platform
+regular sends
+debug flag
+debugging/educational purpose
+google cloud messaging client
+query registration
+normally notification
+app.xaml.cs
+press f5
+secure content
+viewcontroller.h
+notificationhubservice.mpns
+mainpage.xaml.cs
+multiple mobile application
+result list
+authentication scheme
+main business logic
+azure notification hub help
+push semantics/technology
+avd
+authentication header property
+next subsection
+webapi back-end project
+subscription level
+scroll
+development purpose
+right
+finance department
+platform-independent message
+notificationclass
+click add account
+key piece
+github
+chrome app gcm sample
+notice
+consumer app
+display
+notification hub configuration section
+metadata disaster recovery
+full multiplatform
+business event
+entire audience segment
+installation management
+various avenue
+click send push
+user interaction
+basic step
+native
+left-hand side
+production usage
+possible solution
+action
+dialog box
+correct credential
+certain amount
+currentnamespace.region
+create registration
+push infrastructure
+registercontroller.cs file
+name field
+requested feature
+consolidated view
+budget approval app
+fresh information
+several backend
+free tier
+manager=
+google service
+following common automation task
+io notification
+xamarin.android app
+apple push notification
+modeless window
+remove duplicate
+.net client
+http rest request/response
+thin wrapper
+currentnamespace
+azure.selector window store
+simpler
+chrome instance
+enterprise today
+smartphones
+notificationoutcome
+xamarin component store
+instant rich content
+tier
+common mis-configurations
+editor=
+namespacemanager= microsoft.servicebus.namespacemanager
+mobile service version
+activity
+file name
+approval request
+export/import registration
+nuget package manager window
+http call
+mobile engagement scenario
+authentication header value
+preferred word editor
+chrome apps—see chrome app overview
+appdelegate.cs
+analogous mechanism
+badge notification
+bank account
+user name
+sendnotification method
+azure.note notification hub
+cause
+interest occurs
+previous tutorial notify user
+mobile service tutorial
+azure module
+delete registration
+apple io device
+press
+app engagement
+ready-to-use push notification infrastructure
+browser
+key component
+new hub
+cross-platform
+much work
+php rest wrapper sample
+tutorial walk
+plain text
+dump
+simple python rest client
+click next
+need
+switch content
+following advantage
+convenience library
+notification hub sample
+barebones function
+create io registration
+specific handling
+pagetitle=
+oauth token
+specific
+python implementation
+notification controller
+common solution
+tag value
+notable one
+active device
+application backend
+azure notification hub overview
+build error
+rich message
+platform e.g
+click online
+python interface
+mobile application architecture
+configure
+notification object
+io notification see
+platform-specific method
+import statement
+chrome app notification
+send notification code
+block
+towards
+see installable web app
+debit
+notificationhubservice object let
+finance
+mobile push notification
+rest service
+new category
+search box
+detailed notification hub result e.g
+full sample code
+scaled-out push notification infrastructure
+authorization header
+http response
+detailed http request
+job
+casestudy
+bank customer
+services=
+platform specific developer account
+package manager console window
+developer account
+bank
+template notification object
+generic prompt
+import/export registration
+java nio
+app.xaml.cs file
+tag result
+hr
+create window registration
+topic/subscription model
+notification hub rest apis
+push notification service
+javascript
+recommended way
+frequent requirement
+rejection
+functionality
+present content
+push-specific code
+solution scalable
+package sid
+sound
+documentationcenter=
+following object instance
+notify user topic
+:createfromconnectionstring
+second time
+model
+update
+intranet mobile app
+banking app
+header option
+downside
+restriction
+mainpage.xaml.cs project file
+scriptpath split-path
+webjob
+apnsservice instance
+broadcast scenario
+profile
+notificationhub class
+packagesfolder
+registration export/import functionality
+catch system.exception
+app service section
+rich payload
+local
+\packages
+io app ui
+azure messaging component
+tile catalog
+viewdidload method
+time value
+xamarin.ios app
+continuation token
+time period
+push notification option
+world
+supported payload
+add-type -path
+required connection string
+developer service
+file menu
+subscribe
+bitcode
+sender
+line
+enable bitcode
+xcode7
+appmanifest
+mode
+switch
+click generate
+csr file
+forbidden
+default
+object library
+app distribution guide
+getstarted
+azure command-line interface
+please refer
+tile catalog topic
+unauthenticated mode
+post request
+successfully
+possible notification payload
+click run
+alert message
+scale
+development certificate
+descriptive name
+form organization identifier
+full access key
+v server explorer blog
+correct publishing profile
+send result label
+common pattern
+notification id
+-include
+registration export/import
+click done
+advance
+new
+organization idenitifier
+notification content
+registerclient
+get-azuresbnamespace cmdlet
+exception message
+computer
+notification hub sdk
+gcm label
+microsoft.servicebus.dll write-output
+format
+mainactivity.java
+secured backend service
+provisioning script
+uri
+endpoint
+world news
+new class file
+explicit app id section
+reader
+bitcode support
+pns credential
+tag identifier
+select azure website
+username text field
+kindle emulator
+click package manager console
+response header
+valid type
+learn
+toggle
+ready-made script
+checkbox
+approach
+breaking news notification
+wnsservice instance
+android sdk platform-tools directory
+disqus section
+payload section
+build setting
+notification payload section
+web api
+project option dialog
+test notification
+following view
+unauthenticated notification
+azure.note several telemetry
+valid targetname
+new device registration
+screeshot
+io provisioning portal
+split-path
+callback
+implementing gcm server
+pushhandlerservice
+notificationscontroller
+apis etc
+google cloud console
+get-variable myinvocation -scope
+application element
+namespace show command
+corresponding tag
+new website
+effect
+listen access placeholder
+locale
+wnscredential new-object -typename -argumentlist
+music fan
+保存成功！
+service bus powershell script
+tenant
+enable_bitcode
+user name string
+gcmservice instance
+assembly.fullname
+dashboard tab
+mpnsservice instance
+get-childitem
+php developer center
+authenticated user
+please
+push notification service request
+tool menu
+write-error
+normal notification
+mpns unauthenticated mode
+warning
+azure cli
+alert
+scriptpath -parent
+difficulty
+new service bus namespace
+java code
+r reader
+notificationhubs
+collection query
+request header
+app id description section
+whole notification class
+pns error
+asp.net web application
+authorization approach
+configure microsoft azure web app dialog
+outlet delegate
+tool
+click subscribe
+to_tag
+full access placeholder
+mandarin
+google etc
+top-right corner
+request message
+category toggle
+ensure
+app name
+turn
+click extension
+initnotificationsasync method
+click server explorer
+keyboard
+package.appxmanifest
+send call
+notification registration
+continue
+new provisioning profile
+.net
+onlaunched
+security
+status
+new app service plan
+home view controller
+supported notification
+fly
+android sdk
+new class notifications.cs
+behavior
+mainstoryboard_iphone.storyboard
+mac
+basic concept
+good solution
+app ui
+shared project
+tutorial use notification hub
+box
+insight
+interface implementation
+separate hub
+app.xaml.cs project file
+web
+silverlight app
+register method
+select microsoft azure web app
+secondary notification hub
+authenticationtesthandler class definition
+insert
+client notification registration
+specific app user
+window dev center
+click web api
+accuracy
+website deployment
+press enter
+metric
+android site
+registercontroller.cs
+http post request
+secure authentication mechanism
+model folder
+guidance topic
+submit
+visual studio azure sdk
+android client
+new certificate
+microsoft.azure.notificationhubs
+relevant link
+register.html
+start visual studio
+following snippet
+notificationhubclient class
+message filter
+app_start/webapiconfig.cs class
+backend code
+pushbackgroundcomponent
+view connection string
+basic authentication user
+google account credential
+password string
+sa
+actual message
+onlaunched method
+app class
+test
+new class registercontroller
+create project
+declaration
+click file
+qsappdelegate.m file
+web site resource
+notification instance
+new web app
+installationid
+production application
+notification registration request
+click controller
+mynotificationhub2
+click nuget package manager
+visual studio express
+left-navigation
+particular client platform
+string value
+sensitive content
+click microsoft azure notification hub
+control
+tile notification
+click window
+optional check
+sport
+desktop
+notification class definition
+asp.net home page
+politics
+appropriate send api
+name appbackend
+condition
+error response
+azure.note security note
+creation
+appdelegate
+empty item
+following property
+multi-tenant scenario
+authenticationtesthandler class
+string array
+active notification hub registration
+registercontroller class definition
+web browser
+nature
+new class authenticationtesthandler.cs
+project page
+tutorial store
+general information
+apis
+client request
+visual studio main menu
+specific authenticated user
+different format
+defaultlistensharedaccesssignature connection
+pns parameter
+processing
+window push notification service
+notificationscontroller class definition
+notifyuserwindowsphone
+following implementation
+physical io device
+azure.note important
+send operation
+program.cs file
+new asp.net project dialog
+auth
+notificationscontroller class
+click apis
+left pane
+expand template
+rest
+target pns
+mobile app backend
+user information
+failure
+androidmanifest.xml file
+following way
+breaking news app
+simple broadcast scenario example
+library package manager
+mainactivity.java file
+template feautres
+tags/tag expression
+user notification
+mural.ly
+certificate authority
+usual development certificate
+mobile service android sdk
+finished code
+top bar
+anchor
+bottom bar
+next window click create
+google cloud messaging client component
+click handler
+date
+successful notification
+community
+telemetry data
+apple expiration property
+onrecoverableerror
+wait
+class definition
+google developer portal
+sendpush method
+second
+appdelegate.h file
+subscribe button
+associate app
+geo-distribution
+application_launching method
+following element
+outcome
+consequent database access
+async modifier
+onregistered
+email
+registered developer
+seattle time
+following member
+next page click enable api
+main client interface
+apple notification setting
+public modifier
+io developer program membership
+initnotificationsasync
+site
+pns specific error
+站长与开发者服务
+certificate assistant
+add io provisiong profile wizard
+segmentation
+news tutorial
+apple developer center
+wizard
+location chosen
+solution view
+yourprojectname
+locale combobox
+total time
+default location
+private field
+share
+rich notification
+line property
+cloud push
+sa key
+keychain access tool
+enabled option
+new scheduled job
+res/layout/activity_main.xml file
+development environment
+scratch
+different tag
+edit button
+skanska
+look
+enter notification message
+console application project
+double-click
+project number value
+application name
+enter password
+ctrl+drag
+following constant
+menu
+demand
+following component
+following delegate method
+class declaration
+wns credential
+policy
+select certificate screen
+security token
+major mobile platform
+alertdialog
+app detail
+scheduler function
+user email address
+type json.net
+new notification class
+hub field
+android app ui
+control-drag
+double-click package.appxmanifest
+ca email address field blank
+platform-independent format
+responsibility
+connection information
+certain customer account
+baidu push android sdk
+edittext control
+new york
+scheduler tab
+aps_development.cer
+parameter
+project_id variable
+azure messaging library
+hubinfo.h
+click microsoft http client library
+v server explorer overview
+specific notification platform
+.p12 certificate
+locale-agnostic message
+constants.cs class
+native notification body
+add io certificate
+test environment
+main.storyboard
+new push certificate
+json
+following example
+imageviewcontroller
+apple id
+microsoft account
+verification number
+availability
+click 百度开放云平台
+device grows
+row
+certificate category
+script tab
+click 开发者服务
+yankee
+last device
+mainpage class
+science
+installation object
+different locale
+data retrieval
+apple io
+many case
+click keychain access
+mobile service io sdk
+select io app development
+click submit
+multiple market
+registerclient.h
+platform-specific property
+french
+xamarin studio
+notificationhubname
+navigation controller
+business
+expand api project
+app notification
+constructor
+pushtouserappdelegate.m
+click library package manager
+powerful feature
+new security profile
+platform-specific protocol
+correct body
+click register
+registernativewithdevicetoken method
+notificationhubs app sample
+main class
+downloads folder
+android getting started tutorial
+custom api
+sends id
+bad registration
+different hub
+keychain
+proliferation
+run continuously
+storecategoriesandsubscribe
+registerwithnotificationhubs method
+local notification
+installs
+nuget search box
+world_fr
+new button
+actual backend endpoint
+click identifier
+launch pad
+get registration
+enterprisepushmobileapp
+click 更多
+grid section
+notification hub guidance article
+separate form factor
+android studio project view
+broadcast notification
+click send notification
+main app target
+standard notification hub tier
+xamarin.ios
+azure nh
+handle registry
+sandbox mode
+management
+user interface
+following import directive
+menu bar
+click cloud messaging
+download button
+new key
+requirement
+azure mobile service component
+app receives notification
+profile name
+window phone store app project
+backend registration guidance
+apple platform notification service
+mainactivity.cs
+recipient username tag
+basic tier
+category text
+identifier
+onmessage
+http request
+class name
+webmaster
+notifyuserwindowsphone app ui
+signing certificate
+windowsazure.messaging.managed nuget package
+correct device
+optional request header
+done
+tab
+asp.net web page
+main re
+function
+invalid registration
+new io project
+pushtouserviewcontroller.m file
+//mybackend.azurewebsites.net
+delegate
+select provisioning profile
+world_ch
+app register
+successful completion
+main_activity.xml graphical layout
+edit
+defaultfullsharedaccesssignature connection string
+registration complete screen
+mobile service script
+contact
+baidu console
+.net notification hub sdk
+grid element
+registerclient.m
+developer center
+baidu open cloud platform
+dr event
+startup project
+client id
+multiple version
+project section
+label text
+browse
+pns developer portal
+res/values/strings.xml file
+container
+downloaded push certificate aps_development.cer
+locate
+environment
+separate solution
+different type
+send notification method
+windowsazure.messaging.managed
+following script
+new cocoa touch class
+click create project
+googleprojectnumber
+technology
+certificate thumbprint
+onerror
+backend database/local storage
+sm verification
+registrationids
+section development push ssl certificate
+device type
+registerclient class
+remote notification checkbox
+bulk insert
+mobile service scheduler
+following handler method
+click view connection string
+capable device
+window phone device
+unicast/multicast
+/messages endpoint
+exact payload format
+exported .p12 certificate
+target section
+interface
+type http client
+myhub
+registerclient instance
+left column
+allows
+first letter
+notification window notification service
+listen connection string
+expand app
+limit
+click service bus
+blob container
+window universal version
+enter backend endpoint
+production certificate
+silent notification
+device result
+click credential
+manage nuget package dialog box
+initialization
+toast banner
+beginning
+viewcontroller.h file
+click choose file
+per pns guideline
+notification singleton
+secure text entry option
+size
+world_en
+keychain access
+image view controller
+cost
+assistant editor
+create certificate
+xcode development machine
+margin
+new profile
+outlet
+different news category
+market
+telemetry
+device handle
+english
+utility folder
+password text field
+rest call
+native platform
+placeholder text set
+registry
+background
+near-simultaneous broadcast
+.p12 format
+whose sa credential
+first task
+central pane
+multiple message
+switch state
+breaking news
+chrome app instance
+correct set
+code signing
+amazon developer portal
+common name
+azure mobile service backend
+service bus pub/sub programming
+window getting started tutorial
+maintenance cost
+traffic
+breaking news tutorial
+window phone version
+remember
+app id drop-down list
+notification hub overview
+quickstart.p12 file
+select add
+push channel
+total latency
+previous step
+new code file
+androidmanifest.xml
+element
+locale parameter
+delete
+text
+express
+upload button
+enter username
+large amount
+wns header
+localization
+job name
+json.net package
+mainpage.xaml project file
+click server key
+topic use notification hub
+uibutton
+secure notification
+correct property
+behalf
+send push button
+horizontal center
+assistant
+apple development io push service
+click export
+top menu
+listen-access string
+rest api reference
+certificate type
+rich telemetry
+appbackend web api application
+servicebus explorer
+return key
+recipent username
+anything
+windowsazure.servicebus nuget package
+onnavigatedto method
+web job
+provisiong profile type
+notification hub rest apis documentation
+minimum android version
+listen notification permission
+window.onload
+registering
+code compiles
+pns authentication error
+set credential
+common concept rest api reference
+cloud project
+sample xamarin.android project
+service bus explorer
+pushtouserappdelegate.h
+notification.h
+azure web site
+icon file
+unified api single view application template
+login action
+entire batch
+eclipse top toolbar
+library tab
+api reference
+requested operation
+monitor
+gradle file icon
+email address
+authentication_failed exception
+.zip file
+analysis
+click 开发者服务管理
+importexporte2e test class
+http header element section
+notification hub testsend property
+sports/finance/games application
+upper-left corner
+*const getnotificationendpoint
+common question
+microsoft azure mobile service
+work item
+logical message
+template expression language reference
+moment
+attempt
+factor
+configurationsettings.java
+github location
+device identifier
+io version
+following page
+available metric
+md5 fingerprint
+following createnotification
+secure app backend api
+verification text message
+enter backend endpoint placeholder
+tutorial azure notification hub notify user
+push setting
+验证码
+bunch
+decoupling
+myhandler
+successful registration
+new outlet
+interface definition
+full url
+limited number
+device register multiple template
+code-signing identity
+swipe
+.net sdk sendnotificationasync
+storyboard look
+access resource
+audience
+notification hub window phone sdk
+repeat
+update method
+image view
+blank kindle app
+specific messaging channel
+full java sdk
+baidu push server
+multiple platform
+common concept
+maximum
+non cross-tenant overlap
+registration management operation
+nsxmlparser
+ease
+appdelegate.m file
+initial view controller
+subsequent sdk release
+bindtoshelltile
+currentnamespace get-azuresbnamespace -name
+china android
+registernativeasync method
+technologyswitch
+quick glance section
+sendnotification
+particular property
+hand-formed registration
+notification hub getting started tutorial
+window native toast notification
+wns etc
+various push notification service
+secure push pattern
+notifications.m
+failedtoregisterforremotenotifications
+notification hub power bing application
+deeper application
+project view window
+sandbox environment
+include
+project view
+major component
+defaultlistenaccesssignature connection
+namespacemanager variable
+wi-fi
+toolbar
+storyboard id
+build action
+mybroadcastreceiver class
+pns feedback
+notification hub template feature
+final leg
+following notification
+following content definition
+route message
+separate backing script
+following information
+login button
+house
+click 立即注册
+imageviewcontroller.m
+outlier
+service name
+different template
+onpause
+enable remote notification
+active directory
+respective pns developer portal
+alert dialog
+emulator image
+rich capability
+access connection information window
+click security profile
+pushtouserviewcontroller.m
+multi-tenancy
+nsuserdefaults
+suppose
+testadm security profile
+notification delivery
+authenticated client user
+window phone emulator
+following ui component
+management cost
+following property singleton
+querystring parameter
+unix
+next tutorial
+dev/test
+onunregistered method
+top toolbar
+multiple tenant
+getauthorizationheader
+hard-to-maintain back-end code
+universal tutorial
+external platform provider
+class notification
+result
+layout
+get/update flow
+server key
+minimum required sdk version
+notification sent
+various reason
+installation id
+l
+universal app project
+xcode-generated subscribe method
+pushbackgroundcomponent namespace definition
+view controller register
+pns use http
+onreceive
+target version
+mobile phone number
+registration xml payload
+segmented control
+dev/test environment
+webjob log
+python rest
+choosing option
+change minsdkversion
+command window
+new azure website
+pushtouserappdelegate.m file
+azure service
+press ok
+confirmation code
+pns string
+app identifier
+split
+incoming push notification
+download cryto-js library
+gcm sender id
+third party platform
+click credential create new key server key create
+xamarin project
+following initnotificationsasync method definition
+advanced scenario
+vast majority
+notification center
+uialert
+secondary tile
+issue
+strategy
+successful return
+execution
+servicebus explorer code
+different namespaces
+china
+php rest
+/resources
+open mainpage.xaml
+root
+sbr get-azuresbauthorizationrule -namespace
+sdk path
+many platform specific metric
+deployment grouping
+mainactivity
+sdks
+view load
+select copy item
+wmappmanifest.xml file
+install azure
+presentation
+signalr
+login handler
+later version
+deviceinfo singleton
+apns guidance
+singleton instance
+subscribetocateories method
+apply
+respect
+right-click reference
+chrome web store
+listen access string
+azure.note replace
+platform pns
+copy
+following template
+shared access secret
+text message
+onregistered method
+bundle id
+normal use scenario
+microsoft dynamic crm
+incoming load
+successful send
+click service
+presence
+build.gradle file
+web site
+notification hub level
+cryptojs v3.1.2
+gcmservice.cs
+click configure
+sm
+device messaging tab
+script src path
+message detail
+member offer
+native push notification
+external platform specific push notification service
+applies
+physical android device
+ctrl drag
+tcp stream protocol
+enterprise event
+deviceinfo
+typical send notification flow
+azure.note note
+web api method
+select finish
+api version
+different authorization rule
+actual phone
+namespacemanager instance
+click app service service bus notification hub quick create
+notification hub sla
+directory
+microsoft.servicebus.notifications
+click load unpacked extension
+appropriate project name
+rich image content
+home button
+following notification hub registration code
+limited set
+chrome app platform
+sender_id
+detailed logging information
+terminal
+actual defaultfullsharedaccesssignature connection string
+store app project
+json payload
+login handler method
+window phone notification setting section
+baidu activation mail
+section configure
+cause push
+project directory
+contentpanel
+chrome.gcm.register call
+valid amazon account
+.net framework
+next step section
+send_button
+notification hub registration rest api call
+myhandler class change
+click new
+defaultconfig
+server side
+select notification hub
+send flow
+textboxes
+click 创建
+required details—phone/email address
+android sdk folder
+attached phone
+others
+azure.warning
+simple way
+quick alternative
+sendnotificationbuttononclick method
+md5 value
+expiration date
+nsobject
+several template
+new android application
+build section
+deviceinfo.m file
+hub name placeholder
+quick overview
+click 注册开发者
+several hub
+worldswitch
+amazon device messaging
+nh provisioning
+simple toast message
+low-level detail
+microsoft.web.webjobs.publish nuget package
+following devicetoken property
+add file
+thing
+category selection
+imageviewcontroller.h
+function viewdidload
+retry
+service bus queue
+loginandregisterclick method
+sportsswitch
+messaging tab
+mainactivity class remove
+c. createtopic
+lob/backend system
+view controller icon
+click notification hub
+second line
+type myhandler
+handle type
+send verification code
+audience size
+following getdevicetokeninhex method
+data
+string literal placeholder
+click set
+background mode
+baidu push notification service
+live service site
+delay
+storyboard image view
+implement
+message delivery model
+json.net nuget package
+registered device
+import/export capability
+long time
+registerclient.cs file
+bulk operation
+google android
+international phone number
+following processnotification
+e.
+crypto-js library
+configuration procedure
+android sdk manager
+developer service management
+tool bar
+registrationpayload
+stored locale
+new android studio project
+taskbar
+location-based coupon
+secret key see
+g. configure
+included push
+registerwithnotificationhubs
+window phone silverlight application
+/application tag
+leg
+invalid etc
+united state number
+click store
+select new
+original gcm sample
+notification.m
+amazon sdk
+download version
+installation api
+client side
+oauth
+next time
+recipient username tag field
+build
+app\libs directory
+azure service bus sdk
+com.sample.notificationhubtest
+xml payload
+dir command
+primary notification hub
+min
+particular installation
+project id
+click google play service
+additional time
+file notifications.m
+different environment
+project resource
+sa authorization token
+scheduledtime
+notifciations
+regular dump
+method application
+simple uialert
+onreceive method
+qstodolistviewcontroller.m file
+prerequisite tutorial get
+app setting
+double-click mainpage.xaml
+base charge
+declare
+organization name
+registerwithgcm
+compact implementation
+multiple batch
+select java build path
+click add external jar
+step2
+new file
+onresume
+additional backend system
+production push endpoint
+installationid label
+notification hub registration code
+library folder
+view detail button
+apple production certificate
+namespace declaration
+page user
+enabletestsend feature
+click reserve app name
+account tab
+send message permission
+section register
+active window store account
+burden
+azure notification hub registration id
+backup
+api
+click show file
+supported platform
+dialognotify method
+obtain
+sdk tool tab
+rarer kind
+duration
+image file name
+receivedremotenotification
+subclass
+say tag
+sample scenario
+single call
+required window store registration information
+valid target
+gcm guidance
+everything
+notification-hubs-x.y.jar file
+first element
+推送设置
+template issue
+window store app project
+webjob running
+politicsswitch
+bash
+sample output
+finance system
+embedded resource
+tag http header
+registration message
+aspect
+service bus notification hub
+rule
+usb cable
+picture
+single installation object
+identity
+external push notification service
+later step
+subfolders
+d. receivemessageandsendnotification
+window native notification
+background.js
+system queue
+expiration time
+sendnhregistrationrequest
+subset
+left panel
+website
+get single registration
+management capability
+send event notification
+full php rest wrapper sample
+recent notification
+click new solution
+single view application template
+comfort
+scalable infrastructure
+notificationhubdescription
+azure notification hub uri
+addition
+current value
+delivery pattern
+project pushbackgroundcomponent
+push notification message
+new initnotificationsasync method
+blank android app
+possibility
+incoming notification
+operation log
+subscription-based platform
+payload body
+entry point field
+apis sample
+notification hub android sdk
+iboutlet
+category tag
+azure notification hub overview overview topic
+use azure portal
+limited period
+amazon namespace
+qstodoservice.m file
+in-browser push notification
+receiveandsendnotification
+sender id
+build setting tab
+additional parameter
+activation link
+application package
+android china
+event occurs
+pas
+software access signature
+tags/ tag expression
+re-register
+step1
+one-time-passwords
+send button
+enterprisepushbackendsystem console application
+troubleshooting purpose
+following permission request
+baidu sdk
+target plaforms
+mainpage.xaml
+partial update capability
+name property
+prior notification
+permission element
+available declaration dropdown
+package folder
+mobile app/service
+sid
+open androidmanifest.xml
+submit export job
+solution securepush
+sdk manager
+chrome app development
+viewcontroller class
+expand app src main java
+webmatrix
+保存设置
+client app store
+visual studio notification hub azure explorer functionality
+registration key
+namespacemanager class createnotificationhub method
+de-duplication
+navigation
+service_not_available exception
+node.js cloud service
+click 云推送
+actual device
+partial update
+api_key
+json template
+azure sdk
+java class
+new uisegmentcontrol
+update hubfullaccess
+variable
+appid
+select view connection
+create project button
+targetname
+initial silent rich notification id
+good indication
+enterprisepushbackendsystem
+network connection
+click push notification
+event handler
+second button-click handler
+message registration
+gcm etc
+override abstract member onunregistered
+configure notification hub page
+workflow-based enterprise app
+storage account
+default startup project
+yes
+http request body
+nsurlsession
+google play service
+.mainactivity activity element
+onstop
+sla page
+myhandler class
+app back-end contact
+android app project
+chinese cloud service
+storyboard ui
+blob file
+rich set
+following definition
+sbnotificationhub
+blank io app
+respective client device
+valid one
+apple sandbox certificate
+hr system
+template guidance
+add permission
+notification manager
+great place
+notifications/day
+uris
+io native notification
+andpassword
+platform notification service pns parameter
+free trial
+export/import registration functionality
+password textbox
+hasn’t
+following output
+gcmservice.cs file
+notification message send outcome
+send push
+hex
+debug sends
+special character
+get-azuresbauthorizationrule cmdlet
+businessswitch
+rate
+app instance
+specific notification format
+管理控制台
+onmessage method
+interface declaration
+first child
+description
+in-app alert
+create button
+enable unauthenticated push notification
+input username
+enable developer mode
+current sale
+security profile
+asp.net back-end
+read
+pushservice-x.y.z jar file
+important step
+tag http header change
+recipient user name
+app setting tab
+create activity window
+complex case
+http rest call
+update notification hub
+valid value
+intentfilter
+viewdidload
+load
+create notification hub
+notificationhubs folder
+app directory
+new edittext
+recommended course
+programmatic access
+registered tags/tag expression
+notifications.h
+sync project
+onunregistered
+sample application
+api_key.txt
+following takeaway
+breakingnewsviewcontroller.h file
+node
+current financial information
+scale tab
+package security identifier
+open main.storyboard
+custom api method
+send notification button click
+notification hub send request http url
+following permission
+authorization rule
+root namespace level
+visual studio client
+numerical entity
+granular notification hub level
+notification scenario
+python code
+new window phone
+much difference
+nsmutablearray
+learning
+latter
+platform dependency
+blank window phone
+button click handler
+click xcode
+mypushmessagereceiver.java
+full shared access connection
+click android app
+blank activity
+new class pushbackgroundtask.cs
+img folder
+blank xamarin.android app
+inherent nature
+test message
+mobile service pricing
+build rebuild project
+overall percentage
+onlaunched event handler
+bulk
+play
+'sports
+correct sa configuration string
+eclipse adt
+registerfornotificationswithbackend method
+constant
+click setting
+text tab
+simple logging function
+offline viewing
+app logic
+random message
+authentication setting
+inline execution
+azure notification hub customer
+receive notification
+armeabi
+gcmservicebase
+mybroadcastreceiver
+subscribewithcategories
+notification channel
+individual hub
+xamarin.android application
+destination url
+登录
+different app store
+notification hub service
+security key
+multiple registration
+aggregated view
+new header file
+msdn reference
+delete installation
+patch
+signing identity
+device platform specific push notification service
+registercallback
+notificationhubs sample
+directory asset
+typo
+output
+c. ensure
+app-specific identifier
+registernativewithdevicetoken
+baidu cloud project
+use maven
+click open android emulator manager
+delivery
+multi-factor authentication
+different azure region
+former happens
+low latency
+primary hub
+matching username tag
+registeredforremotenotifications
+request body
+add outlet
+purchase option
+blank node.js application
+alternative mechanism
+full python rest wrapper sample
+different dc
+mobile app/environment
+microsoft visual studio express
+simple
+send call e.g
+publishing profile
+common namespace
+project property
+identity inspector
+class registerclient.cs
+action method
+click window runtime component
+country code
+property authorizationheader
+generatesastoken
+viewcontroller
+thumb
+uitextfielddelegate
+email account
+window phone emulator run
+payload size
+createorupdateinstallation
+expand store app
+azure storage java sdk
+important security credential
+toggle button
+entire content
+sendnotificationmessage
+set sender_id
+googlecloudmessaging
+active google account
+pns attempt
+find
+updatelog
+app project
+select google apis
+choose blank activity
+registration success
+bottom left
+specific client app instance
+nh security model
+notificationhubs android sdk
+registerwithnh
+strings.xml file
+azure.note visual studio functionality
+root view
+titlepanel
+应用包名
+make sure appbackend
+open mainactivity.java
+click android/kindle
+self-diagnose tip section
+account registration process
+push service
+failed batch
+new view controller class
+retrievelocale method
+instance variable
+method registertemplatewithdevicetoken
+error e.g
+notifyuserwindowsphone project
+keystore password
+user name tag
+client-side retrieval
+touch
+'toast
+position
+azure portal enables
+/api/notifications
+enabletestsend boolean property
+secure authentication scheme
+sale lead
+baidu cloud push
+root cause
+id_cap_push_notification capability
+retrieval
+提交
+expand code signing identity
+password field
+reference manager dialog
+common cause
+云推送
+registration batch
+apple developer portal
+com.example.testnotificationhubs
+chrome app window html
+google cloud console website
+regular send
+week
+mainactivity method
+broadcastreceiver
+administrator privilege
+per-device localization
+mainpage.xaml.cs file
+visual studio editor
+generic sendnotification api
+nsxmlparserdelegate
+server explorer
+schedule
+finish
+pushclick method
+user default
+云服务
+property declaration
+button click event
+toggle level
+follow get
+c. createsubscription
+window powershell
+command prompt
+azure subscription
+key data
+bindtoshelltile method
+click 创建工程
+signature
+extension developer tool
+送验证码
+pop-up dialog
+top-level node
+custom class
+separate credential
+press send notification
+substitute package name
+minimum sdk
+gcm registration call return
+json content
+target android version
+level
+qstodoservice.h file
+push background task
+configure azure powershell
+matching
+notificationhubclient
+text content
+toast message
+invalid credential
+click preference
+generate api key
+sa authentication token
+top notification area
+desired-id
+storecategoriesandsubscribe method
+recipient username tag text field
+component folder
+client sdk
+expand property
+project build target
+group id
+run button
+management console
+create registration nh rest api
+dropped notification
+send_button definition
+window app
+notification hub management operation
+pushbackgroundtask.cs file
+user default setting
+splitconnectionstring
+universal project
+algorithm
+click app service
+appdelegate.h
+blank app template
+chrome app tutorial
+delete notification hub
+client sdks
+send notification action
+new registerfornotificationswithbackend method
+many customer
+app metadata
+didfinishlaunchingwithoptions method
+button handler
+azure webjob
+format http header change
+file app.xaml.cs
+majority
+'userid
+open hubinfo.h
+to_tag parameter
+first
+general understanding
+rollups
+bottom-right corner
+f. select
+pns identifier
+registration response
+notification hub service tier
+previous example
+scienceswitch
+news option
+azure.note make
+sync
+bindtoshelltoast
+verification code—and click signup
+native toast notification
+refresh button
+next
+devicetoken property
+gcm_128.png
+manifest.json file
+mainactivity file
+situation
+notification hub credential
+log link
+azure package
+android application item
+application key
+image controller
+business scenario
+project_name
+activity_main.xml layout file
+open chrome extension
+new messages/emails
+get notification hub
+several feature
+maintenance
+priority
+access notification hub
+entire registerwithnotificationhubs method
+file deviceinfo.h
+json patch operation
+first button-click handler
+main runtime scenario
+fast process
+following constant value
+interface designer
+coalescing key
+php code
+new window store registration
+//you_backend.azurewebsites.net
+setting account
+guidance article
+service bus topics/subscriptions
+developer registration
+declaration menu
+phone silverlight tutorial
+lob backend
+configuration page
+submit import job
+single page view app
+state
+window client
+javascript implementation
+mips folder
+blank window store app
+minimal change
+windowsazure.servicebus
+d. sendmessage
+window store wizard
+empty organization name
+configuration issue
+enabletestsend property
+gcmservicebase implement method onregistered
+defaultfullsharedaccesssignature connection
+multiple interface
+property store
+script snippet
+authentication header
+programmatic telemetry access
+parenthesis
+associate
+button-click event
+update finishedlaunching
+sdk zip file
+chromepushapp
+baidu notification setting section
+old device token
+odd batch
+massive fix
+xml message payload
+detailed status
+particular app
+register.js
+pattern issue
+first line
+file notifications.h
+add reference
+pop-up informing
+window toast notification
+message identifier
+phone app
+debug notification
+maintains
+myadmmessagehandler
+window dev center page
+guid
+baidu agreement
+successful creation
+client authentication
+android notification manager
+icon
+application tag
+space
+google cloud
+relevant .net
+connectionstring
+message notification hub registration
+mainpage.xaml xml code
+namespace level
+publish
+respective push notification service
+thousand
+dependency
+command-line interface
+production environment
+sastoken
+node_modules folder
+xamarin
+specific authentication mechanism
+select service bus
+createorupdate
+platform tab
+text editor
+sandbox
+private method declaration
+platform push notification service
+node repository
+retrievenotification
+manifest file
+lob system
+subsitute
+file new android application project
+crm app
+register client class
+demoapplication.java
+viewdidappear method
+french news
+pushhandlerservice implementation class
+windowsazuremessaging.framework folder
+broadcastreceiver class
+google api level
+select
+sochi
+type android
+result.state
+send template notification
+server api key
+notification hub apis
+registerclient class definition
+anyone
+following variable
+myhandler.java
+provider
+following configuration
+authorization request header
+following private member
+service attribute
+success
+capability tab
+push registration
+initial test/staging phase
+shared access signature
+localizing news tutorial
+sa signature
+blank xamarin.ios app
+notifiication
+registration operation
+click sign

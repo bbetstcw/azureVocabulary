@@ -1,0 +1,1752 @@
+cdn
+content
+cdn endpoint
+cloud service
+azure cdn
+azure content delivery network
+step
+blob
+custom domain
+http
+azure
+storage account
+country
+request
+example
+access
+object
+topic
+user
+web application
+information
+static content
+see
+script
+country code
+content delivery network
+file
+endpoint
+
+performance
+url
+expiration
+azure cdn endpoint
+report
+container
+high-bandwidth content
+minification
+cache status
+cname record
+serve content
+query string
+client
+origin
+azure.note
+consideration
+status code
+pop location
+subdomain
+time
+new cdn endpoint
+case
+azure cloud service
+azure management portal
+media service extension
+controller action
+register
+service
+ttl
+default
+website
+stylesheets
+domain
+data
+hit
+detail
+compression
+restrict access
+asset
+bandwidth
+cache hit ratio
+domain name
+application
+asp.net application
+origin server
+image
+tutorial
+cache hit
+overview
+blob content
+access cdn content
+cdn content
+cache
+day
+following
+configuration
+cdn domain name
+cdn access
+property
+order
+value
+minute
+cloud service content
+blob service
+europe
+analyze cdn usage pattern
+distribution
+cdn pop
+cdn microsoft azure
+header
+azure storage
+cdn caching policy
+cache miss
+public container
+location
+cdn url
+improve performance
+hour
+cdn cache
+azure account
+page
+visual studio
+azure media service
+traffic
+map content delivery network
+edge server
+azure cdn integration
+fallback mechanism
+name
+management portal
+azure website
+country filtering feature
+set
+max-age
+action
+cache-control header
+benefit
+credit
+link
+australia
+following format
+united state
+integrate asp.net bundling
+global solution
+// .vo.msecnd.net/
+custom subdomain reference
+deploy
+page load performance
+ipv4/ipv6 data transferred
+file transfer speed
+usage pattern
+configure
+asia
+azure storage service
+httpresponse.cache property
+following report
+user experience
+intermediary cdnverify subdomain
+static file
+section
+serve fresh content
+option
+continuous delivery
+web page
+cache header
+subscription
+number
+desired content update
+automate content upload
+asp.net bundling
+cache-control
+block
+cache value
+directory path
+azure origin
+note
+secured directory
+cdn node location
+domain registrar
+second
+cdn origin
+status
+web server
+configure caching option
+serve static content
+gb
+www.mydomain.com
+specific content
+result
+azure cdn caching
+subfolder
+azure storage account
+default caching header
+response
+content file
+azure subscription
+cdn-served content
+cloud service web role
+cdn configuration
+way
+following advantage
+pop
+full list
+graph
+following constraint
+http status code
+**country filtering** feature
+following prerequisite
+particular pop
+integrated azure cdn endpoint
+cdn customer
+ipv4/ipv6 data
+cache configuration precedence order
+definition
+data transferred
+pagetitle=
+dwrede
+better performance
+content source
+scale
+traffic spike
+bundle
+account
+azure managed library
+editor=
+separate billing plan
+destination domain
+source domain
+cdn edge caching
+cache validator
+azure data include
+user request
+http cache header
+azure cdn overview
+instantaneous high load
+intermediate registration step
+particular time period
+ttl period
+physical node
+bandwidth usage
+bundling
+process repeat
+end user
+type
+data table
+period
+traffic usage
+anonymous access
+different subdomains
+cdm caching policy
+meme
+available object
+current list
+downtime
+developer
+main cache status
+cachecontrolmaxage attribute
+azure blob
+services=
+asp.net
+manager=
+start
+folder
+additional resource
+documentationcenter=
+end
+integrate
+web app
+month
+ip address
+version
+edge pop
+free azure service
+azure service
+code
+host name
+paid azure service
+format
+setting
+registration
+storage
+time-to-live period
+msdn subscriber benefit
+msdn subscription
+blob container
+e.g
+cdnfallbackexpression
+azure cdn url
+public access
+new content
+azure app service
+origin web server
+process
+affinity group
+html code
+deployment workflow
+following code
+cache setting
+enter custom date
+concurrent client connection
+namespace
+visual studio interface
+action result
+operation
+dialog box
+approach
+cs
+suppose
+advantage
+cached object
+azure portal
+azure app service web app
+custom origin
+superlative
+jquery
+event
+browser
+bad request
+reason
+selection
+cdn network
+place
+new storage account
+javascript
+customer
+manage custom
+script bundle
+tutorial section
+compression method
+procedure
+today/this week/this month
+azure powershell
+request header
+bootstrap version
+cdn folder
+list
+server
+azure cdn cache
+test
+select date range
+.cshtml file
+myaccount
+origin domain
+cost
+port
+web
+access blob
+third-party storage management tool
+fun memegenerator controller
+crucial page functionality
+~/cdn path
+percentage
+add-on feature
+brief period
+http application
+subfolders
+expired cache hit
+storage account endpoint
+query-string caching
+following code example
+semi-dynamic content
+default asp.net mvc application template
+alan light
+consideration section
+everything
+south america
+maximum bandwidth
+cdn edge server
+azure customer
+fundamental building block
+actual file
+simple index action
+bundle class
+project directory
+cdn failure
+service-level agreement
+permission
+cdn-specific url
+desired develper experience
+adaptive streaming
+public
+client cache
+size
+maximum caching period
+origin url
+maarten balliauw
+azure.warning caching
+asp.net web page
+azure service management api
+fiddler
+azure cdn node location
+bandwidth report
+queue service
+set blob property request
+default cache heuristic
+clientcache setting
+global edge pop
+appropriate value
+myblog.mydomain.com
+azure.important
+table service
+way cdn
+mydomain.com
+default ttl
+anonymous read access
+compute instance
+max-age= header
+cs stylesheets
+create storage account reference topic
+properties\assemblyinfo.cs
+mbps
+truly dynamic content
+cache expiration
+maximum age
+cause content problem
+access control
+following procedure
+young chuck norris image
+setetag
+object stay
+music.aspx
+nuget package
+non-cacheable response code
+client side caching
+cached request
+traffic usage distribution
+cdn endpoint closest
+chuck norris
+different way
+application content
+etag value
+web.config setting
+cdn syntax
+product launch event
+setexpires
+log
+powershell script
+prime candidate
+microsoft azure management portal
+response header
+httpcacheability
+compressed file
+azure storage service component
+associated subscription
+azure cloud service url
+desired refresh interval
+cdn unavailability
+upload content file
+azure cdnverify subdomain
+clientcache
+semi-static content
+azure managed library reference
+tool
+co-administrator
+fallback option
+console application
+w3.org
+restriction
+timespan
+endpoint set http cache-control
+web role project
+data delivery speed
+cache expiration time
+blob service concept
+deployment
+myhostedservice
+asp.net web application
+put block list
+container data public
+update image
+entire web role
+use cdn edge
+x-ms-blob-cache-control property
+client request
+azure media service streaming endpoint
+variable content
+bootstrap
+clientcache node
+setlastmodified
+synchronization
+single time
+major step
+music.png
+great discussion
+production deployment
+/cdn folder
+\content
+api
+progressive download
+different service endpoint
+product launch
+account credential
+trip
+cdn layer
+warning
+web.config
+root domain
+streaming
+presence
+following xml show
+web content
+http/1.1 specification
+change
+azure cdn endpoint fails
+azure endpoint
+dns feature
+reach
+azure storage service rest api
+accessible blob
+many link
+content time-to-live period
+put blob
+current microsoft azure cdn point
+upload content
+following step
+perceived load/refresh time
+instruction
+mixed security content type
+ipv4 v ipv6
+service administrator
+cloud service endpoint
+music
+azure blob service
+last modified timestamp
+internet trip
+style sheet
+delivers
+cache header value
+region
+root
+azure cdnverify
+sla
+current available origin type
+azure.note azure cdn
+error
+year
+http call
+revalidation
+usemaxage
+request status code
+blobproperties.cachecontrol property
+dns mapping
+image file
+// identifier .vo.msecnd.net/music.aspx
+update frequency
+good example
+latency
+.aspx page
+access key
+level
+world
+performed cdn edge pop
+httpcachepolicy class
+document
+x-ms-blob-cache-control
+capability
+secure web page
+azure media service apis
+wget
+specific subdomains
+proxy
+worldwide
+address
+click cdn
+desired caching option
+dialog
+sense
+anything
+relative path
+\scripts
+regular debug experience
+// yourcdnname .vo.msecnd.net/ containername
+ribbon
+form
+ability
+.js
+new cname record
+excel sheet icon
+please contact azure support
+uploading
+local debugger
+url rewrite rule
+.vo.msecnd.net
+identifiable container
+object expires
+\scripts folder
+generate method
+pop closest
+outputcacheattribute attribute
+life
+navigate
+right-click
+continuous delivery configuration
+something
+access individual content file
+restrictive url rewrite rule
+container name
+cdn node
+click ok
+navigation pane
+respective input identifier
+visual studio project name
+index_post action method
+uncompressed content
+local redirect
+node
+next section
+rewrite rule
+razor view
+-storagecontainer parameter
+uncompressed format
+case-by-case basis
+specific controller action
+alternative
+show action method
+following url
+feature
+part
+new version
+click
+requester
+tcp_expired _hit
+m
+path
+item=1
+http client
+return
+portal
+web role
+server explorer
+text
+wildcard character
+view
+cnames
+version number
+ap
+publish setting file
+entire cloud service
+new dialog
+playlist
+click create
+edge
+rule
+sign
+asia/pacific region
+webrole1 project
+republic
+home page
+look
+quick create
+unique version
+list view
+script file
+cdn tab
+web site
+project
+congo
+access content
+azure sdk
+dns
+advanced setting page
+separate entry
+area=2
+html
+new .cs file
+tcp_miss
+cached version
+ghana
+multiple country filter
+word cname
+great feature
+awhile
+subdomains
+originate
+// cdnnamespace .vo.msecnd.net/ mypubliccontainer blobname
+expires header
+// cdnname .vo.msecnd.net/content/bootstrap.css
+app_start\bundleconfig.cs
+click new
+point
+cdnverify
+singapore
+different query string
+alias
+click manage
+cloud service project
+uri
+check
+non-query-string-enabled content
+rendered url
+online
+assembly version
+ip
+purpose
+requested version
+e.g.
+cached blob
+razor code
+active microsoft azure account
+cdn constructor
+select publish
+virgin island
+cdn script tag
+web.config file
+expires
+www
+recursive path
+jquery.validate.js
+assembly number
+requested compression method
+cdn.mydomain.com
+dropdown list
+\content folder
+add
+cdn cache content
+open web.config
+edge server compression
+criterion
+tcp_expired _miss
+korea
+unique version string
+s-maxage
+window.jquery
+open app_start\bundleconfig.cs
+node location
+default bundle
+specific region/node
+definition/requirement section
+good idea
+click new app service cdn quick create
+bootstrap.js
+dynamic content
+cdnverify subdomain
+v= w.x.y.z
+cs update
+democratic republic
+subset
+//www.mydomain.com/cdn/mycloudservice
+format www.mydomain.com
+method
+virtual directory
+ping
+webrole1
+cached asset
+blob storage
+// yourcloudservice .cloudapp.net/bundles/jquery
+identifier
+server management
+first image
+query string v= pull
+select edge node
+custom domain name
+new endpoint
+visual studio project
+button
+different compression method
+use azure cdn
+origin shield server
+detail page
+.validator
+create button
+f5
+window.modernizr
+compressed content
+cache object
+actual media fragments/chunks
+click create storage account
+initial request
+country filter
+generated version string
+learn
+click enable query string
+line
+bundles.add
+requested content
+strategy
+unique string
+script tag
+url rewrite
+// servicename .cloudapp.net/
+asia/pacific
+app service
+host name address
+fact
+accept-encoding request header
+nigeria
+hong kong
+valid ttl
+cs bundle
+tcp_hit
+dns record
+day cache header
+azure powershell window
+select http
+pay attention
+vienna
+endpoint section
+expiration time
+croatia
+certificate
+gibraltar
+tag
+rw
+ga
+iran
+hn
+td
+afghanistan
+internet explorer
+new york
+publishing status
+tk
+angola
+tc
+~/content/css
+saint vincent
+madagascar
+highlighted code
+several minute
+bahrain
+origin type
+default azure account
+az
+er
+azure powershell session
+azure media
+manage storage account
+storage service
+hostname
+grenadine
+notice
+tokyo
+subdomain name
+default compression
+cape verde
+isle
+following code snippet
+th
+different bundle constructor
+/script path
+germany
+christmas island
+cdnverify domain name
+maldives
+azure.note note
+cf
+thailand
+san marino
+stackoverflow
+turk
+bahamas
+seattle
+ke
+sa
+respond
+microsoft azure
+network
+sy
+next publish cycle
+origin url dropdown list
+region/affinity group drop-down list
+batam
+cache content freshness check
+jo
+microsoft azure powershell
+satellite isps
+samoa
+dom
+denmark
+japan
+internet service
+tuvalu
+situation
+honduras
+cy
+md
+egress
+serbia
+excel sheet
+default javascript
+origin list
+management portal please
+non-200 status code
+monaco
+qa
+venezuela
+ly
+ec
+byte range request result
+bouvet island
+io
+moldova
+cn
+fallback cs
+specific query string
+gt
+last bundles.add statement
+sweden
+frequent update
+lb
+assembly version number
+project folder
+mcdonald island
+following content type
+lr
+turkey
+text file
+malaysia
+miami
+assemblyversion
+uy
+warsaw
+syrian arab republic
+bulgaria
+microsoft azure service management api
+mx
+pm
+request timing
+na
+chicago
+specified cdn address
+matching class name
+direct blob access
+idea
+blob management gui
+application/f4m+xml
+new link
+martinique
+script bundle tag
+previous section
+cu
+nc
+virtual directory ~/bundles/jquery
+pragma
+*100
+italy
+allow
+comoros
+haiti
+cloud service much quicker
+get-azurepublishsettingsfile
+select
+custom origin url
+km
+cdn endpoint determines
+expired time
+sg
+stylebundleextensions.cs
+ethiopia
+default value applies
+coco
+ki
+ph
+create storage account dialog
+lk
+on-demand streaming data
+miquelon
+media service
+bh
+jm
+sv
+word
+text/html
+sydney
+south africa
+togo
+kyrgyzstan
+cs url
+lithuania
+gw
+armenia
+ye
+bj
+rest
+right-click blob
+app_start folder
+subsequent call
+atlanta
+integrated azure cdn
+el salvador
+french guiana
+india
+aw
+text/plain
+man
+mc
+switzerland
+container resource
+stockholm
+different version number
+chad
+cambodia
+tr
+dominican republic
+py
+austria
+following xml
+eh
+nepal
+first part
+cdnfallbackexpression property
+niger
+dz
+albania
+jquery version
+saint helena
+burundi
+macao
+html.raw
+unique version number
+parameter
+new response
+microsoft account
+ru
+bootstrap.css
+lebanon
+macedonia
+sb
+oman
+convenience
+app_start\stylefundleextensions.cs
+belgium
+luxembourg
+cyprus
+‘*’
+ma
+// yourcdnname .vo.msecnd.net
+bundled script
+b
+qatar
+yourstorageaccountname
+latvia
+tz
+blob container name
+london
+second cache header applies
+/content path
+accept-encoding
+l
+kaohsiung
+lt
+gn
+gambia
+select new
+mk
+http address
+configure cache setting
+custom certificate
+ee
+.js file
+supported method
+tonga
+-storagecontainer
+important
+antigua
+new caledonia
+continuous deployment process
+mo
+// identifier .vo.msecnd.net/chart.aspx
+british indian ocean territory
+pr
+faroe island
+copy
+tv
+ng
+trinidad
+dns registrar
+string
+cached cdn content
+za
+caching policy
+separate blob container
+washington d.c
+custom cache-control setting
+ir
+island
+important characteristic
+expression
+file version
+fo
+boston
+barbuda
+microsoft azure button
+byte range
+zw
+consistent debug experience
+message
+netherlands
+respective cdn bundle
+whenever
+azure.note currently
+registerbundles
+tt
+streamingendpoint
+fk
+third party certificate
+cameroon
+anonymous proxy
+upload blob button
+azure web app
+javascript code
+a2
+first response
+ad
+jamaica
+serve
+github
+sri lanka
+query string caching
+file new project cloud azure cloud service
+egypt
+poland
+philadelphia
+minimize code modification
+cache-control setting
+vatican city state
+cs file
+memegeneratorcontroller.cs
+sh
+sign-in page
+caicos island
+democratic people
+microsoft azure storage
+account dialog
+overriding
+pf
+bundles.usecdn
+fm
+cx
+bo
+origin url http
+write code
+china
+ne
+e
+papua new guinea
+click unblock
+norfolk island
+montserrat
+integration
+paris
+vc
+corner
+click affinity group
+ba
+ml
+cd projectfolder .\uploadcontenttoazureblobs.ps1 -storageaccount
+p
+specific chart
+milan
+table
+simple page
+denied access
+north america
+azure website url
+nicaragua
+andorra
+hk
+mayotte
+af
+western sahara
+zambia
+si
+uruguay
+bhutan
+bf
+copenhagen
+following caveat
+live archive
+certain content update
+default heuristic
+mw
+controller action result
+tn
+staticcontent element
+new azure cloud service
+application/vnd.ms-sstr+xml
+incoming link
+ae
+hr
+iq
+yourcontainername
+micronesia
+satellite provider
+select create blob container
+string literal
+plug
+update
+cz
+jersey
+setup
+//az632148.vo.msecnd.net/
+argentina
+tm
+/photos/strasbourg/
+solomon island
+caching
+new request
+mg
+tw
+rendered script/css tag
+highly-dynamic content
+first time
+malawi
+first bundles.add
+sierra leone
+falkland island
+r
+u.s
+azerbaijan
+imagine
+colombia
+available origin url
+rule name
+spain
+// servicename .cloudapp.net/memegenerator/index
+ht
+gh
+truth
+azure blob service url
+pw
+nu
+vg
+cdn fetch content
+nr
+central african republic
+path cdn/
+match
+mt
+integrated cdn
+om
+cr
+first byte
+cd
+map cdn content
+holy see
+.insert
+mauritius
+byte
+table resource
+indonesia
+va
+portugal
+rwanda
+subscription drop-down list
+microsoft azure service
+eu
+gq
+anguilla
+bt
+custom
+gg
+mm
+new bootstrap.css
+content update
+client side
+herzegovina
+select add view
+yemen
+aq
+reunion
+format cdnverify.az
+no-cache
+kp
+hu
+futuna
+clientcache element
+cdn endpoint fails
+peru
+intermediary step
+cayman
+saudi arabia
+individual script file
+new cache-control header
+development environment
+georgia
+co
+integrate content deployment
+u
+sudan
+fj
+lu
+fast
+turkmenistan
+good candidate
+small value
+prompt
+cg
+iraq
+experience
+vi
+et
+pa
+pl
+sn
+subdomain alias
+puerto rico
+il
+mr
+botswana
+taiwan
+eritrea
+melbourne
+plain word
+de
+gu
+good style bundle fallback
+show
+mauritania
+bi
+upcoming world cup game
+chile
+mechanism
+caveat
+je
+internet
+seoul
+url label
+\controllers
+mq
+nauru
+blob property
+kw
+live streaming
+file download performance
+myanmar
+queue
+saint pierre
+belize
+click property
+found
+equatorial guinea
+azure activity log
+customer-specific configuration
+tanzania
+convenience sake
+antarctica
+cv
+palestinian territory
+screenshot
+file structure
+create cloud service
+amsterdam
+panama
+manifest
+publish setting page
+ember consulting group
+uganda
+// cdnname .vo.msecnd.net/
+guam
+cdn address
+islamic republic
+gp
+default value
+cname
+kg
+im
+f12 developer tool
+bosnia
+programmatic solution
+http support
+united arab emirate
+jakarta
+kn
+fiji
+gf
+dk
+jan mayen
+tobago
+stale asset
+storageaccountlabel refers
+mv
+cdnverify intermediary subdomain
+li
+first constructor
+injected script
+south sandwich island
+azure tool
+ci
+desired service name
+djibouti
+// identifier .vo.msecnd.net/cdn/music.png
+following response header
+uzbekistan
+pt
+maintenance
+sk
+connect
+download
+wallis
+home/index
+granular control
+// servicename .cloudapp.net/cdn/
+header field definition
+site
+vn
+management interface
+azure app
+french southern territory
+russian federation
+select asp.net web role
+cdnverify.cdn
+functionality
+controller/action
+highlighted portion
+default index
+gy
+malta
+download page
+available storage account
+br
+greece
+senegal
+performance gain
+ag
+federated state
+bb
+svalbard
+|| expression
+click storage
+east asia region
+sm
+desktop computer
+helsinki
+wait
+azure storage configuration
+mn
+caching network
+requested asset
+regardless
+3-24 lowercase letter
+blob url access
+sz
+gl
+sr
+cdn http endpoint
+cook island
+hungary
+bolivia
+center pane
+guyana
+american samoa
+expected
+20-fold gain
+life time
+vanuatu
+heard island
+select mvc
+paraguay
+tokelau
+ca
+algeria
+nz
+ip geolocation restriction
+lesotho
+none
+bz
+~/cointent/css bundle
+entry
+long time
+netherlands antilles
+expired request
+media service cdn
+cuba
+byte range request
+streamingendpointcachecontrol property
+slovakia
+pg
+chosen subdomain
+system.webserver tag
+mozambique
+mali
+latter route
+kz
+mz
+select data service
+rule value
+vietnam
+bn
+default home page
+washington dc
+// identifier .vo.msecnd.net/music/
+ge
+application/dash+xml
+bug
+northern mariana island
+mh
+delivery cache header
+la
+recursive nature
+gabon
+tj
+bangladesh
+um
+open views\shared_layout.cshtml
+default 7-day caching rule
+following image tag
+following line
+bundle differs
+use
+statement
+chart
+israel
+script/css version upgrade
+click next
+tcp_ partial_hit
+default streaming-endpoints
+mentioned type
+cached bootstrap.css
+guatemala
+gm
+south georgia
+click publish
+short cache expiration
+manual configuration
+xml
+fi
+ai
+cdn-served nuget package
+production
+storage content
+seychelles
+cdn domain
+additional information
+new zealand
+new views\memegenerator\index.cshtml
+saint lucia
+lv
+nuget
+nl
+workaround
+pakistan
+g
+cache-control header applies
+tcp_ client_refresh _miss
+bw
+ve
+second cache header
+eg
+mongolia
+np
+kr
+file size
+czech republic
+upload image
+cl
+guernsey
+role option
+matter
+frankfurt
+azure media service .net sdk
+gd
+greenland
+malvinas
+libyan arab jamahiriya
+dj
+bundle constructor
+data center
+ky
+ro
+suriname
+origin type dropdown
+morocco
+united kingdom
+entire site
+sd
+rendered bundle
+related tutorial
+example directory path filter
+entire pacific ocean
+accessible url
+dallas
+osaka
+al
+dm
+formula
+iceland
+upload progress
+tcp_ hit+tcp_miss
+belarus
+grenada
+yourcdnname
+uz
+sj
+ecuador
+vpn service
+se
+tajikistan
+sao tome
+yt
+ch
+ar
+guinea-bissau
+namibia
+powershell window
+zm
+client experience
+client cache clientcache
+united republic
+liberia
+anonymizers
+guinea
+content type need
+a1
+select property
+function
+effect
+re
+benin
+good news
+// storageacountlabel .blob.core.windows.net/ mycontainer
+bv
+cdn name
+trick
+url field
+zimbabwe
+issue
+question
+new data service storage quick create
+different version
+cote d'ivoire
+uploaded list
+simple html
+live program
+kiribati
+san jose
+streaming endpoint
+storage account uri
+user agent support
+hm
+publishing process
+content type
+east asia
+principe
+united state minor outlying island
+publish cycle
+au
+brunei darussalam
+enter
+finland
+application/vnd.apple.mpegurl
+microsoft azure activity log
+saint kitts
+nevis
+browser window
+ie
+vu
+click add
+cm
+kh
+estonia
+charge
+jp
+gi
+different country filter
+version string
+lc
+start menu
+constructor
+lao people
+public content
+enough global traffic
+los angeles
+trial account
+web app build
+fr
+romania
+kenya
+revalidation request
+w
+ck
+user error
+menu bar
+client browser
+sl
+setting area
+republish change
+bg
+palau
+styles.render
+tg
+ireland
+public read access property
+tunisia
+ni
+marshall island
+downloaded script
+blob management interface
+errant remnant
+no-cache header
+jordan
+kuwait
+pe
+bermuda
+wf
+streaming-endpoints
+somalia
+bm
+ua
+integrated azure origin
+requirement
+france
+course
+montenegro
+enable web deploy
+azure media service rest api
+azure web role
+tcp_ hit/
+custom cache-control header value
+canada
+costa rica
+ao
+system.web.optimization
+sc
+private content
+nf
+immediate update
+tf
+burkina faso
+hosted service
+//myaccount.blob.core.windows.net/music/
+// yourstorageaccountname .blob.core.windows.net
+pk
+forbidden
+liechtenstein
+config_nocache
+madrid
+dominica
+document.write
+default asp.net mvc template
+guadeloupe
+bd
+container view
+cc
+javascript expression
+swaziland
+id
+format cdnverify.www
+available origin type
+ukraine
+st
+french polynesia
+kazakhstan
+mp
+cdn url access
+ug
+public blob container
+aruba
+.tostring
+barbados
+mu
+niue
+great debug mode experience
+new extension method
+brazil
+gr
+philippine
+mexico
+origin domain dropdown
+slovenia
+item
+multiple web application
+small cache value

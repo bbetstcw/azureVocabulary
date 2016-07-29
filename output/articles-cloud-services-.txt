@@ -1,0 +1,5860 @@
+cloud service
+azure
+application
+step
+role
+
+next step
+virtual machine
+role instance
+service
+certificate
+information
+azure cloud service
+deployment
+example
+instance
+worker role
+web role
+gb
+article
+visual studio
+azure.note
+startup task
+microsoft azure
+storage account
+file
+project
+record
+update
+access
+metric
+remote desktop
+diagnostics
+solution
+problem
+create
+data
+local storage resource
+configure
+azure preview portal
+mb
+change
+local resource
+http
+azure sdk
+continuous delivery
+guest o family
+resource
+code
+error
+management portal
+version
+custom domain name
+app approx
+o guest o size
+cloud service microsoft azure
+performance counter
+package
+azure application
+task
+production
+service definition
+set
+value
+.net framework
+time
+powershell
+azure portal
+guest o
+app
+ssl certificate
+cloud service role
+process
+release
+.net
+jan
+method
+visual studio online
+custom domain
+size
+web
+azure diagnostics
+cloud
+remote desktop connection
+deploy
+environment
+name
+azure storage account
+configuration
+cluster
+default
+service configuration file
+node.js
+tutorial
+azure management portal
+script
+number
+window server
+note
+family
+web app
+list
+ssl
+additional resource
+following step
+click
+portal
+azure.selector
+vms
+october
+use
+tool
+tfs
+management certificate
+vulnerability
+table
+window
+subscription
+build
+yes
+guest o version
+app service
+prerequisite
+website
+contosoadsweb
+service definition file
+build server
+concept
+tbd
+microsoft
+june
+scenario
+azure storage
+way
+may
+url
+cname record
+communication
+custom performance counter
+system
+configuration file
+azure node
+production deployment
+cname
+ii
+operating system
+ip address
+case
+run method
+option
+add
+azure virtual machine
+dashboard
+july
+python
+store
+user
+contact azure customer support
+end
+performance
+page
+connect
+endpoint
+build definition
+upgrade domain
+setting
+august
+preview portal
+services=
+documentationcenter=
+cloud-services
+internal endpoint
+pagetitle=
+editor=
+self-signed certificate
+march
+manager=
+learn
+http endpoint
+cloud service project
+download
+appcmd.exe
+customer
+operation
+application code
+microsoft hpc pack
+emulator
+git
+overview
+management
+registrar
+blob
+minute
+head node
+storage
+azure subscription
+section
+new sequence
+upload
+connection string
+traffic
+environment variable
+space
+node.js application
+model
+compute emulator
+onstart method
+diagnostic data
+assembly
+nov
+staging environment
+request
+queue
+vm
+production environment
+azure automation
+enable remote desktop connection
+cloud service deployment
+core
+vip
+upgrade
+optional
+april
+socket.io
+allocation failure
+database
+publishscriptfilepath
+rollback
+subscriptiondatafilepath
+retirement
+diagnose issue
+type string
+azure powershell
+event
+view
+location
+november
+message
+powershell script
+.cscfg
+n/a
+hour
+storage service
+instruction
+sdk
+look
+desktop
+telemetry data
+aug
+diagnostics data
+startup task work
+following
+azure app service
+azure sql database
+subscriptionname
+.cspkg
+cloud service application
+directory
+topic
+tcp
+worker role instance
+staged deployment
+password
+availability
+common issue
+node.js web application
+part
+configuration change
+quick create
+protocol=
+vip swap
+cloud service configuration file
+detail
+remote desktop extension
+asp.net
+paas
+visual studio online team project
+port
+following command
+content
+month
+log
+o
+control
+azure guest o
+cloud service model
+order
+delete
+modify
+event id=
+technology
+get
+eventdestination=
+a8
+expiration date
+new release
+servicedefinition.csdef
+staging deployment
+common startup task
+publish script
+property
+express
+path
+following procedure
+packagelocation
+downtime
+domain name
+quick create method
+private key
+extension
+privilege
+dlls
+repository
+oct
+workflow
+result
+virtual network
+parameter
+scale
+trace listener
+account
+scale page
+monitoring
+team project
+internet
+framework
+dec
+platform
+command
+metric table
+cloud service package
+azure service
+site
+dns setting
+o family
+timestampformat
+retirement policy
+diagnostics configuration file
+a10
+service management
+r2
+webrole1
+rdp file
+iaa
+publish
+folder
+swap
+servicedefinition.csdef file
+connection
+service certificate
+get-date -f
+sdk compatibility matrix
+check box
+component
+view diagnostic data
+service package
+azure guest o release
+virtual machine size
+configuration setting
+servicename
+state
+msbuild command
+trace
+empty cloud service container
+roleentrypoint class
+ca
+type
+verbose monitoring
+web.config
+default temp folder size
+addition
+suggestion
+a9
+compute hosting option provided
+beginning
+cloud service web
+description
+trigger
+azure diagnostics microsoft azure
+node
+guest o release
+issue
+azure website
+startup
+hybrid compute cluster
+timlt
+support
+click ok
+dependency
+use performance counter
+affinity group
+traffic analysis
+in-place update
+tfs team build
+link
+redeploy
+image
+pt1m
+swap deployment
+contoso.com
+disable date
+workerrole.cs
+schedule
+ad domain extension
+configure cloud service
+new cloud service
+help
+-servicename
+service level agreement
+contosoadscommon
+visual studio online account
+walkthrough
+september
+listener
+operating system image
+hpc pack
+configure local storage resource
+cspack
+procedure
+.csdef
+workerrole1
+delete deployment
+openssl
+deployment package
+virtual ip address
+onstop method
+activity
+subdomains
+new entry
+worker role project
+compute cost
+www.contoso.com
+alias record
+choice
+contosoadsworker
+virtual ip
+unhandled exception
+point
+practice
+azure package
+computer
+question
+common cause
+configure powershell
+pre-requisites
+developer
+msrc patch
+thing
+azure.warning
+sql database
+automatic update
+release date
+domain
+initializing
+contoso.cloudapp.net
+filename
+consideration
+visual studio profiler
+xmlns=
+compute option
+configure remote desktop
+flow
+storageaccountname
+cloudconfiglocation
+service config
+installation
+monitor cloud service
+a11 compute intensive instance
+cloud service container
+contoso ad application
+servicepackage.cspkg
+rebuild
+custom ad domain controller
+cloud service locally
+run startup task
+configure ssl
+azure portal keyboard shortcut
+invokeprocess
+understand cname
+argument string.format
+new azure
+install .net
+-packagelocation
+quote
+web app feature
+azure guest o microsoft azure
+azure powershell command
+-selectedsubscription
+publishscriptlocation
+outputencoding= system.text.encoding.getencoding
+/endpoints
+azure cloud service role
+subdomain
+custom create
+enable remote
+getlocalpath activity
+top-support-issue
+workflow designer
+publishdir
+azure guest
+provides information
+configure remote access
+dns table
+workspace='workspace
+server time
+intellitrace
+convertworkspaceitem activity
+textbox value
+local storage
+different method
+-environment
+screenshot
+azure app service web app
+snap
+day
+input=
+cloud service configuration
+express tutorial
+azure compute hosting option
+january
+combination
+others
+chat example
+stage
+message='data
+feb
+direction=servertolocal
+following list
+-cloudconfiglocation
+input endpoint
+tags=
+server explorer
+msmets
+subscriptiondatafilelocation
+single role
+displayname execute publish script
+xml servicedefinition name=
+azure cloud service application
+monitoring option
+branch
+navigate
+azure guest o family
+progress
+web application
+service model
+benefit
+new version
+application package
+azure tool
+certificate information
+hpc cluster manager
+diagnostics file
+region
+work
+minimum
+check
+enter
+git repository
+monitoring data
+httpin
+trace statement
+service role
+test
+service management api
+security update
+command line
+approach
+october release
+queue message
+samplerate=
+error message
+thumbprint
+browser
+linked resource
+availability set
+errorlevel
+apr
+reference
+performancecounterconfiguration counterspecifier=
+byte
+definition
+run
+online
+development
+msrc update
+output
+ensure
+hpc
+azure account
+nuget package
+logging
+development environment
+maximum amount
+machine
+unit=
+device
+cloud service page
+following example
+serviceconfiguration.cscfg
+upgrade proceeds
+write operation
+webrole name=
+msbuild
+variety
+technique
+september release
+drive
+module
+thumbprint algorithm
+performance counter data
+serviceconfiguration.cloud.cscfg
+azure diagnostics version
+deployed application
+msdn
+top
+configure connection string
+asp.net mvc
+metric chart
+click cloud service
+guide
+azure support
+network traffic rule
+separate line item
+complete error
+azure guest o supportability
+table storage
+compute resource
+azure cloud app
+cloud service environment
+azure cloud service microsoft azure
+troubleshoot
+feature
+action
+cloud service proceeds
+cloudapp.net
+role microsoft azure
+msbuild command-line statement
+set project reference
+common service management task
+express module
+disable remote desktop access
+azure.note get
+provides
+test job
+azure automation service
+disk space
+purpose
+custom metric
+msrc
+sept
+property pane
+argument
+role communication
+hover
+ud
+fail
+sql database instance
+monitor page
+hybrid high performance computing
+process tab
+cloud service visual studio solution
+language
+add code file
+azure sdks
+storage credential
+display
+troubleshoot cloud service deployment problem
+date
+limit
+verbose monitoring data
+permission
+ad
+best practice
+attribute
+need
+start
+microsoft visual studio
+subject name
+global.asax.cs
+subscription id
+myservice
+sep
+service configuration
+figure
+instance input endpoint
+azure compute emulator
+medium
+class
+projected dec
+internet explorer
+period
+solution explorer
+certificate authority
+alternative
+checkmark
+webjobs
+.net installer
+java
+cn
+ongoing deployment
+api app
+.pfx
+adcontroller.cs
+domain controller
+mar
+busy
+runtime
+exception
+cloud service vms
+client request
+chart
+install
+asp.net lifecycle method
+common name
+level
+automatic scaling
+new deployment
+workerrole2
+service bus
+_layout.cshtml
+table service
+scaling
+edit
+bottom
+configuration update
+server.js file
+hosted service
+condition
+exit
+root domain
+secure socket layer
+cloudapp.net domain
+remote desktop access
+bar
+makecert.exe
+storage emulator
+bulletin id
+collection
+complete control
+scratch
+powershell cmdlets
+azure fabric controller
+variable
+config file
+team explorer
+registry key
+.net sdk
+azure downloads page
+trace switch
+january guest o
+free trial
+check-in
+azure environment
+profiler
+success
+arrow
+parent kb article
+monitoring level
+program
+linux
+percent service availability
+date first
+staging
+package file
+job
+port=
+udp
+guest o supportability
+distribution
+ad.cs
+new guest o version
+www
+december guest o
+custom domain controller
+following diagram
+statement
+internalendpoint name=
+vulnerability description
+click next
+following information
+enable remote desktop
+limitation
+started
+guest o version retirement
+service config example
+elevated permission
+first upgrade domain
+text file
+always
+package build
+custom ad domain
+walk
+make change
+end batch file
+vso
+makecert
+highly
+block
+node.js chat application
+role return
+open hub
+august guest o
+details.cshtml
+cloud service web role
+scalable web app
+publishing
+cloud service area
+define environment variable
+set executioncontext
+serviceconfig.cscfg file
+source control
+cloud service metric
+following section
+logic app
+query performance counter data
+appropriate tasktype
+september guest o
+publishsettings
+edit.cshtml
+role instance start timeout
+customized window
+template
+publishcloudservice.ps1 script template
+remove remote desktop extension
+azure subscription id
+view performance counter data
+sense
+receive alert
+instrument
+temp folder
+configuration string
+specific ip address
+.net eventsource class
+automation help manage azure cloud service
+azure cmdlets
+target wrong platform
+use local storage
+outside
+cspack tool
+telemetry
+average cpu usage
+xxx
+add firewall rule
+enable performance counter
+controller
+compare performance
+debugging
+views\home\index.cshtml
+create file
+october guest o
+may guest o
+stepwise guide
+cpu usage
+run unit test
+configuration file schema
+use powershell
+expect startup task
+remote
+differentiate
+powershell startup task
+average percentage
+attach
+serviceruntime.roleenvironmentexception
+audience
+requirement
+azure.tip
+guest o system update process
+value=
+wizard
+lifecycle
+azure web/worker
+startup task log
+background allocation work
+azure module
+contosoadscontext.cs
+encryption
+extended support
+service management rest api
+linux vms
+maximum size
+views\ad\create.cshtml
+web/worker role
+internet information service
+windows/mac/linux
+application architecture
+protocol http
+navigation
+view performance report
+programmatic access
+alternative architecture
+lifecycle method
+march guest o
+report
+mobile app
+.cscfg file
+status
+release explanation
+transfer diagnostic data
+november guest o
+sdk support
+azure cloud service project
+scalable n-tier cloud app
+provision
+\node\chatapp\workerrole1 directory
+february guest o
+dll issue
+configure diagnostics
+july guest o
+new service package
+health
+startup activity
+use trace statement
+views\ad\index.cshtml
+cloud service dashboard
+captured virtual machine image
+june guest o
+new port
+functionality
+vmsize=
+policy
+allowed service change
+configure visual studio
+add performance counter
+window powershell script
+april guest o
+notification
+entity framework
+server
+azure support site
+//contoso.cloudapp.net
+add azure
+use visual studio
+respond
+different vm hosting option
+following code example
+tracing
+localstorage element
+getlocalpath
+new variable
+statement activity
+service healing
+asp.net microsoft azure
+socket.io microsoft azure
+azure microsoft azure
+powershell.exe
+compute
+available convenient link
+regard
+main driver
+web/worker
+individual service
+retirement notice microsoft azure
+incorrect diagnosticsconnectionstring
+environment setting
+cloudconfiglocation ='c
+slot
+up-to-date listing
+displayname='convert publish script filename
+blue exclamation mark
+processing
+cscfg file
+transition
+autoscale rule
+wa-guest-os-2.45_201511-01
+writebuilderror activity
+use azure powershell
+hardware failure
+azure guest o release microsoft azure
+behavior
+pane
+result= 'subscriptiondatafilepath
+install diagnostics
+roleentrypoint
+metric list
+new installation
+clear error
+azure cloud service web
+standard output data
+mvc
+new guest o family
+importance
+result='publishscriptfilepath
+endpointname=
+exclamation mark
+list available location
+continuous delivery microsoft azure
+display name
+appropriate cloud service name
+custom error
+news update
+remote-desktop access
+define startup task
+modify server.js
+service definition example
+azure storage queue
+global layout
+handle standard output section
+trusted third-party
+standard error
+cause
+use swap
+news archive
+stopped state
+new resource management api
+log data
+supported guest o family
+different set
+install module
+www.visualstudio.com
+simple node.js
+specific consideration
+button
+configure page
+remote desktop extension approach
+storageaccountname 'mystorageaccountname
+azure cloud service guest o
+azure publishing setting
+install additional module
+upgradedomaincount attribute
+enable performance counter monitoring
+sdk compatibility
+cloud service worker
+different size
+index view
+azure node.js application
+writebuildmessage activity
+new project
+modify app.js
+deployment file
+used setting
+xaml
+wildcard entry
+cloud service web/worker role
+resource dependency
+november msrc
+ease
+administrator
+handle error output section
+final result
+hybrid cluster
+sudden recycles
+write progress
+*.contoso.com
+role startup order
+install express
+store data
+package microsoft azure
+keyboard
+additional control option
+official retirement date
+data management service
+service runtime event
+valid script file
+ms14-046
+task attribute
+deploymenturl
+uds
+separate account
+store diagnostic data
+limited amount
+azure storage microsoft azure
+publish activity
+site url
+collect
+development computer
+build error output
+activity log
+new self-signed certificate
+standard error data
+visual studio server explorer
+cloud service deployment problem
+servicename 'mycloudservicename
+configuration information
+contoso
+scope=start publish
+following requirement
+create custom performance counter
+cloud service allocation failure microsoft azure
+variable type =string
+standard output
+integer
+discretion
+role recycles
+retirement policy guide
+configure monitoring
+property incomingpath
+bottleneck
+core usage
+xml certificate
+small
+configure autoscale
+additional in-depth guidance
+future
+cloud serivce container
+guest o family retirement
+role definition
+management operation
+special configuration
+delete metric
+long running process
+multi-tier app
+cmdlet
+release news
+appropriate storage account name
+azure support incident
+communicate
+specific server
+following cmdlet
+cumulative security update
+enable communication
+com component
+runtime dependency
+keyboard shortcut
+'publishscriptlocation
+variant
+on-premises head node
+depends
+platform-as-a-service
+continuous integration
+significant downtime
+hint
+result='subscriptiondatafilepath
+tfs server location
+invokeprocess activity
+next section
+following table
+release archive
+free link
+choose cloud service
+new sequence activity
+get azure diagnostics data
+following product
+allowed maximum
+manage azure cloud service
+recommendation
+projectname
+handle error output section textbox
+node.js getting started guide microsoft azure
+endpoint internalendpoint name=
+publish workflow activity
+variable tab
+common step
+tune performance
+company
+azure.note startup task
+batch file
+configure ii startup
+guest o 201511-02 release
+username
+cloud service application relies
+common reason
+anything
+issue certificate
+install hpc pack
+commit
+strategy
+vso publishing
+alias
+common cloud service
+jump
+different vm option
+quick start page
+upgraded version
+cloud service feature
+process template
+diagnostics.wadcfgx file
+azure storage service
+code sample
+azure bill web role instance
+change directory
+guest o release information
+external connection
+standard local disk path
+related resource
+configure azure powershell
+retirement notice
+subtasks
+diagnostics configuration
+.net installation
+displayname='convert subscription filename
+node application
+supportability
+available location
+update proceeds
+common task
+investigate performance issue
+default management certificate
+window server variant
+search
+october window rollups
+start publish sequence
+wa-guest-os-2.45_201511-02
+software
+entry
+build system
+azure drive
+deployment update
+correct
+config
+convertworkspaceitem
+current release
+handle standard output section textbox
+cloud service tutorial
+link resource
+start menu
+build output
+\scripts\windowsazure\subscription.xml
+explaination
+feature guide
+/workerrole /servicedefinition
+symptom
+msdn azure
+stack overflow forum
+processor time
+upgrade deployment
+src=
+internaltcp2
+blob data
+property page
+container
+offline
+select
+xml version=
+thumbnail
+azure queue
+executioncontext=
+minimal monitoring
+installer
+scheduledtransferperiod=
+maximum number
+anyone
+app.js file
+foreground task
+hello world
+place
+.pfx file
+charge
+dll
+visual studio solution
+ii log
+encoding=
+analysis
+transition period
+azure.important
+website url
+us
+port number
+azure expert
+ok
+item
+guid-based url
+wadperformancecounterstable table
+/performancecounters
+following code
+click save
+get support
+performancecounters
+host name/subdomain
+visitor
+canonical domain
+manual mode
+etwproviders etweventsourceproviderconfiguration provider=
+.csdef file
+roleenvironment class
+window event
+blob storage
+one
+end user
+alias/host name/subdomain
+wadcfg diagnosticmonitorconfiguration overallquotainmb=
+range
+authentication
+last scaling action
+make sure
+single instance
+wildcards
+contrast
+new azure cloud service project
+appropriate value
+copy
+credential
+following cname record forward
+/generateconfigurationfile flag
+true host
+first time
+web.config file
+percent
+right-click
+/configurationsettings
+complex application
+user access
+cloudapp.net address
+single application run
+serviceconfiguration.cscfg file
+pt5m
+click yes
+url forward entry
+new patched version
+\processor
+internaltcp3
+/etweventsourceproviderconfiguration /etwproviders
+domain/subdomain
+forwarding process
+single point
+login
+execution
+world
+csdef
+shutdown sequence
+test purpose
+binding binding name=
+simple application
+file system
+url redirect
+www subdomain
+configure ssl certificate
+new solution
+latency
+sampleeventsourcewriter
+general configuration
+dns
+publicconfig xmlns=
+foreach
+reserved ip address
+configurationsettings
+startup batch file
+sample
+remote desktop configuration
+azure.warning ip
+web role project
+quota
+internal error
+monitoring agent
+/diagnosticmonitorconfiguration /wadcfg /publicconfig
+individual role
+task element
+defaultevents eventdestination=
+total
+suggests
+node template
+profiling
+single public ip address
+rolename=
+new name
+form
+working branch
+key exchange
+thread
+local copy
+use browse
+migration
+data source
+click connect
+new sql database server
+log information
+verbose
+replace
+stopping event
+azure blob service
+simple
+opportunity
+right-click azure powershell
+comment
+privilege level
+everything
+certificate thumbprint
+azure emulator
+contosoadsweb project
+see set
+source code
+left pane
+allocation request
+get deployment
+right
+task.js file
+narrow display
+continuous build
+temp
+fromrole rolename=
+azure blob
+several minute
+/destinations
+memory
+2048-bit encryption
+reason
+table name
+high availability
+default value
+local data
+web project
+sign
+source file
+extension configuration
+icon
+shortcut menu
+vnet
+client
+symbol
+prefix
+dialog box
+master branch
+certificate section
+in-place upgrade
+new machine
+share
+rollback update upgrade operation
+implement
+servicemanagementservice class
+group
+minimum number
+anyrule
+response
+line
+reboots
+building application
+personal certificate store
+click create
+service name
+scheduledtransferperiod transfer interval
+default template
+local file system
+agent
+ii site
+easy way
+cloud project
+real-world coding practice
+task list
+msbuild command line reference
+delete button
+tasktype=
+mind
+text editor
+retirement information
+subset
+express command
+storage account information
+new task
+new database
+application-specific behavior
+workerrole element
+get cloud service property operation
+wad-control-container
+layout.jade file
+couple
+week
+color
+interface
+demonstration purpose
+quick glance section
+force
+wa-guest-os-3.33_201511-02
+unit test
+run method return
+x.509 v3 certificate
+azure account information
+operating system version
+cloud service blade
+new cloud service project
+data center
+new application
+endpoint inputendpoint name=
+worker
+wa-guest-os-3.33_201511-01
+crash dump
+click stop
+build process
+blade
+tmp
+infrastructure
+disabled date
+second upgrade domain
+site site name=
+azure service definition schema
+manage
+local repository
+later version
+build script
+system.diagnostics.debug
+burst
+occurs
+following option
+dashboard tab
+system.diagnostics.trace
+errorlevels
+view directory
+publish command
+clone button
+serviceconfiguration.cloud.cscfg file
+unit
+wa-guest-os-4.26_201511-01
+subscriptionid
+i.e
+reserved directory
+instance page
+project file
+twitter bootstrap
+new node
+internaltcp4
+hot path
+custom error log
+/bindings /site
+tip
+new build
+non-zero exit code
+virtual machine comparison
+following change
+www.customdomain.com
+call
+mysslcert
+cloud service size
+on-premises computer
+mean
+cost
+mywokerrole
+guest o update r feed
+fill
+second
+click open
+diagnostics plugin
+require
+bool onstart
+cloud service role instance
+geographic region
+command prompt
+hpc cluster option
+import
+failure
+etw
+recent version
+correct port
+wa-guest-os-4.12_201409-02
+request log
+wadexamplevm
+certificate name=
+text
+element
+restriction
+quick start
+redeployment
+simple task
+a9 instance
+o version
+vhds
+build step
+azure powershell window
+released version
+new
+.cer file
+apis
+storage account credential
+custom performance counter data
+rate
+document
+following format
+wa-guest-os-4.26_201511-02
+build controller
+deploymentlabel
+socket.io github repository
+left
+build environment
+queue storage service
+wa-guest-os-2.42_201508-02
+azure storage account connection string
+emits telemetry data
+on-demand compute resource
+azure system
+.cmd file
+deployment instruction
+following table list
+re-deploy
+limited ability
+following effect
+capacity planning
+.net installer package
+process template workflow activity
+common error
+different meaning
+key performance metric
+selected process template
+metric header
+guest o 201601-01 release
+logical grouping
+default server.js file
+left side
+python v0.8.0
+several type
+visual studio tfs team build
+diagnosticmonitortracelistener class
+smooth upgrade
+microsoft.windowsazure.serviceruntime
+firewall rule
+diagnostic telemetry data
+site url entry
+wa-guest-os-2.27_201405-01
+sign-in dialog
+system.diagnostics.tracesource
+appropriate format
+administrator privilege
+secure connection
+ip
+problematic node
+activity project
+raw performance counter data
+hybrid hpc pack cluster
+different name
+simple custom performance counter
+linked resource page
+xml editor
+o release
+build process template workflow
+internaltcp1
+compute intensive application
+staged cloud service
+durable data
+new package
+word
+next
+sql connection string
+following task
+valid management certificate
+explanation
+diagnostics agent
+full install problem
+switch
+particular update applies
+second set
+guest o manual update
+gradual retirement process
+unhandledexception event
+role instance topology change
+memory\available mbytes performance counter
+cloud service application package
+logical set
+current upgrade domain
+azure role instance
+specialized purpose
+particular family
+creator
+return
+guarantee
+web app grows
+wa-guest-os-2.41_201507-02
+flexibility
+application data versus logging data
+new web
+system center operation manager
+local computer
+impact
+following name
+tends
+pink
+ip configuration
+parallel computation
+azure.tip get
+satisfactory terminal state
+\node\tasklist\webrole1
+jwhit
+following block
+startup task commandline=
+default diagnostics agent configuration
+team build definition
+guest o 201512-01 release
+previous guest os
+role’s root drive
+worker role visual studio
+webrole element
+upcoming november guest o release
+winerror.h file
+various tool
+attempt
+allowalltraffic/ whensource matches=
+application package file
+free trial time period
+separation
+global template
+dashboard metric chart
+key part
+namespace workerrole1
+new azure capability
+downside
+minor modification
+service web
+ad domain controller
+choose metric
+wa-guest-os-2.28_201406-01
+default implementation
+test validation
+data model change
+a. click add metric
+upper-right corner
+continuous deploy
+diagnostics connection string
+/webrole workerrole name=
+new argument
+prior experience
+machine size
+azure diagnostic monitor
+local disk space
+default port
+storelocation=
+powershell cmdlet
+many program
+team foundation
+slider
+writing
+//socket.io/
+tfs build machine
+required cluster configuration step
+previous guide
+message area
+customers’ feedback
+.wadcfg file
+free trial account
+non-preview portal
+mutating operation
+wa-guest-os-4.11_201408-01
+standard build output
+initial update request
+virtual machine instance
+menu bar
+click configure
+socket.io application
+code check-in
+general overview
+cpu sampling method
+get-azureservicediagnosticsextension
+web-based task-list application
+remote desktop module
+custom error mode
+processing model
+wa-guest-os-2.37_201503-01
+browse
+small node
+deploy new code yes yes yes
+external bandwidth cost
+instrumenting application
+guest os
+role initialization
+available build process template
+.jade file
+upgrading
+serviceconfig.cscfg
+get-azuresubscription
+up-to-date list
+dozen
+application development
+scrollbar
+next diagram
+microsoft azure powershell
+minimal set
+azure.note storage credential
+temporary directory
+wa-guest-os-2.39_201505-02
+way azure
+case something
+show detail
+dark grey
+enter text
+clipboard
+default microsoft hpc azure management certificate
+webrole schema
+cluster node
+destroyed portal reimage
+public key
+progress state
+illustration
+responsibility
+amount
+database node
+iaa virtual machine
+install problem
+rollbackallowed flag
+pre-defined performance counter
+specifies
+unambiguous way
+azure.tip subscribe
+twenty core
+azure diagnostics agent
+public class workerrole
+test data versus production data
+sixteen core
+convenient
+azure worker role
+basic concept
+execution thread
+designer
+deployment problem
+regular monthly update
+custom build automation
+affinity group field
+app.js
+diagnosis
+microsoft framework
+.net install problem
+close notepad
+*requires azure sdk
+cluster resource
+tracing output
+accessing data
+direction=in
+larger role instance
+entity framework code first
+replaces
+on-premises team foundation server
+account key
+simplicity
+allowed change
+high throughput application network
+command line access
+eventsource class
+mywebrole
+microsoft support
+diagnosticsconnectionstring configuration setting
+following instruction
+azure diagnostic infrastructure log
+move role instance
+instance offline
+elevation
+later date
+auto update
+parameter property value
+makecert.exe utility
+visual studio collect
+use hpc cluster manager
+extra cost
+azure target environment
+additional question
+simulate
+certain hpc application
+automatic guest o
+client-side certificate
+web.config setting
+command-line parameter
+following consideration
+header
+integrate
+designated sampling interval
+corresponding total storage allocation
+health evaluation
+diagnostics version
+slot -servicename
+workerrole name=
+work load
+get-azurevmdiagnosticsextension
+absolute value
+msbuild target
+downloaded project
+management api
+cloud environment setting
+application performance
+back-end component
+diagnostic monitor
+parametric sweep
+staging server
+assigned port
+mark task
+sample application
+use link
+free preview
+several available tool
+considers
+sensitive data
+microsoft azure storage emulator
+metric table display
+disk space error message
+update occurs
+realtime communication
+dependency injection
+proof-of-concept deployment
+wa-guest-os-2.40_201506-01
+constraint
+azure subscription limit
+access azure storage
+cloud service forum
+azure management pack
+november o version
+simple example
+argument tab
+table store role-level aggregation
+new official version
+directory structure
+term
+microsoft security response center
+code file
+application relies
+workerrole schema
+startuptasklog
+use clusrun
+building block
+.net trust level
+rolename
+following event
+total request
+wa-guest-os-2.35_201501-01
+compute job
+visit microsoft .net framework support lifecycle policy
+preserved portal reboot
+simple website
+azure.note service management api
+ef connection resiliency
+snapshot
+etw event
+tfs build definition
+detailed guidance
+diagnostics information
+insert
+right side
+finished state
+debug
+azure update
+tracesource
+team foundation build service documentation
+ad data
+ii setting
+wa-guest-os-2.29_201407-01
+store file
+permissionlevel=
+top option display
+independent management
+required binary-based dependency
+new configuration file
+low latency
+hpc pack cluster
+choose view
+basic node.js scaffolding
+tune system
+select relative
+remote code execution
+common issue cause role
+configure size
+default temporary directory
+list_locations
+deployment id
+rest apis
+add-azurenodeworkerrole cmdlet
+next ud
+new sql database instance
+virtual machine technology
+foundation server
+minimum amount
+list_locations method
+msrc patch ms14-046 causing failure
+message threshold
+newer
+vip swap upgrade
+reboot
+scale-out
+various azure service
+o upgrade
+wa-guest-os-4.12_201409-01
+contosoadscloudservice project
+add new certificate
+hpc pack clusrun command
+team foundation build service
+cloud-based database
+lightweight web app
+different port
+service project
+web.config application setting
+wa-guest-os-2.38_201504-01
+available metric
+quality gate
+work pattern
+new template
+destroyed note
+publishing setting
+downloaded solution
+click scale
+cloud service sample application
+following parameter
+azure resource management documentation
+servicedefinition element
+usage increase
+updating
+single instance check box
+support policy
+servicedefinitionfilename .cspkg
+total space
+topology change
+powershell command passing
+aggregated monitoring data
+scalable cloud application
+search box
+local storage setting
+azure runtime library
+cpu sampling
+automated build
+service offline
+up-to-date information
+call stack
+command bar
+microsoft azure support faq
+web.config error
+x.509 certificate
+azurebuildprocesstemplate
+basic application
+account name
+next domain
+deployment get-azuredeployment -slot
+default verbose metric
+route tracing message
+new service
+zip file
+azure diagnostics agent try
+zero
+azure quickstart
+'expressapp
+context azure
+wa-guest-os-2.36_201502-01
+startup.cmd
+past
+`xml
+r2 sp1
+click create button
+service definition file approach
+service management endpoint
+several data structure
+obfuscated url
+remote debugging
+service management-related functionality
+set /a command
+previous diagram
+required software
+application host
+configuration setting change
+network interface
+performance counter configuration
+cpu work
+tutorial explain
+/out option
+people
+web.config transform
+absolute
+errorlevel response
+microsoft visual studio ultimate
+storage access key
+azure.note restriction
+node.js server
+available size
+on-line
+environment element
+xml endpoint
+service yes* yes
+destroyed node migration
+find bottleneck
+misc section
+optional parameter
+wa-guest-os-2.31_201409-02
+create cloud service dialog
+guest o change
+asp.net v4.0.30319
+remove-azurevmdiagnosticsextension
+update service definition
+click add
+package command
+common scenario
+storename=
+unresponsive role
+includes msrc patch
+common allocation scenario
+service’s definition file
+common allocation failure
+publishing step
+transient network error
+drop-down list contains metric header
+azure web role
+scale-up action
+possible impact
+.pfx certificate
+light grey
+cscfg
+new storage account
+default o
+several tool
+single-instance service
+wa-guest-os-2.44_201510-01
+disk space error
+additional operation
+azure configuration file
+preferred approach
+compute cluster
+compute emulator ui
+different workload
+common problem
+integration
+verbose monitoring level
+tutorial instruction
+partial rollout
+azure guest o update setting
+choose create cloud service…
+real-world application
+access data
+deployment consideration
+service availability
+separate set
+usage
+vm reboot
+wa-guest-os-2.33_201411-01
+commandline
+simple website front-end
+wa-guest-os-2.43_201509-01
+search icon
+new tasklist.js file
+clean installation
+deployment slot
+web form project
+valid location
+/workerrole workerrole name=
+new multi-instance service
+azure extension
+getting-started tutorial
+resource usage
+running service
+database connection string
+role level
+sql database edition
+tysonn
+feed
+unnecessary charge
+localresources element
+microsoft azure client library
+following item
+high performance
+increase
+scale-down action
+specific performance counter
+microsoft.windowsazure.serviceruntime namespace
+party module
+node.js app
+r2 x64
+cloud app package output
+role-level metric
+website setting
+child
+type=string
+service limit
+new support request
+highlighted item
+internal connection
+use add metric
+wa-guest-os-2.32_201410-01
+application execution
+choose ok
+per-role basis
+let
+monitoring tool
+tutorial assumes
+structure
+related azure limit
+cluster store
+geo-location
+trusted certificate
+different time
+wa-guest-os-2.34_201412-01
+timely notification
+azure table service
+deploy azure node
+azure.note azure
+additional functionality
+in-place
+core runtime
+requirement change
+possible remediation
+official guest o support information
+roleroot environment variable
+default number
+azure service definition
+long-running thread
+role startup procedure
+staged
+role shutdown sequence
+capacity
+wa-guest-os-2.30_201408-02
+zip button
+package build process
+corresponding xaml
+new button
+final value
+technical support
+http connection
+role relies
+sql server express localdb database
+simple node.js application
+cluster contribute
+host o
+additional aggregate
+information see azure guest o family
+standard set
+web browser
+local administrator account
+load
+deployment.url
+appcmd.exe command line tool
+cspack command-line tool
+powershell command-line tool
+cpu
+bar right
+customers’ requirement
+application file
+single cluster
+networktrafficrules element
+notable difference
+simple web application
+certificate type
+worker role terminology
+remove-azureservicediagnosticsextension
+windowsazureproject4
+troubleshoot problem
+appcmd.exe action
+preview release
+development phase
+ef code first migration
+transition time
+intensive application
+upgrade path
+service topology
+web installer
+different number
+azure sql database instance
+localmachine
+unstructured data storage
+task item
+visual studio team foundation server
+table store aggregation
+public source code repository
+build process template
+publication process
+toolkit
+appropriate target
+contoso.net
+deploy system
+default metric
+mvc framework
+particular role yes yes yes
+in-progress update
+monitoring display
+following applies
+website url link
+storage account scale
+file data
+following behavior
+azure microsoft azure compute emulator
+enable intellitrace
+indication
+primary key
+manual deployment
+role restarts
+relative value
+performance monitor tool
+azure management certificate
+format
+multiple role instance
+/whensource /onlyallowtrafficto /networktrafficrules /servicedefinition
+following definition
+azure diagnostics monitor
+localdb database
+deployment to-do list
+new hardware
+// // // //
+nodejs.org website
+dns tool
+property window
+startup.cmd batch file
+vm fails
+parallel
+double-click
+automatic
+extrasmall
+ad database
+executioncontext attribute
+azure storage explorer
+virtual machine pricing
+certificate change
+pay-as-you-go
+partial hour
+package.json file
+a5
+cloud service name
+trace.writeline
+cloud storage
+webrole.cs
+vm’s size
+standard_d5_v2
+target directory
+schema property
+service bus queue
+trace.traceinformation
+// service definition file
+binary file
+inputendpoint name=
+extralarge
+onstart
+wadexample
+role project
+standard_d4
+physical server
+visual
+consistent location
+cloud environment
+iaa infrastructure
+standard_d13_v2
+setting tab
+domain account
+webrole1 directory
+previous step
+pscredential object
+azure diagnostics manager
+application database
+a7
+free resource
+web application architecture
+standard_d11_v2
+save
+service deployment
+physical hardware
+different client
+select vip
+sufficient system resource
+workerrole.cs file
+endpoint element
+click upload
+standard_d4_v2
+basic
+standard_d2_v2
+get-azuredeployment -servicename yourservicename select url
+detailed comparison
+disk size
+networktrafficrules onlyallowtrafficto destination roleendpoint endpointname=
+stop-azureemulator cmdlet
+rollback instance
+following type
+standard_d12_v2
+recycle
+script output
+azure cloud resource
+vms include
+application crash
+test result
+select dashboard
+life
+standard_d12
+make
+deployment section
+canonical domain name
+site url field
+role configuration
+area
+standard_d14
+alert
+a11
+dns registrar
+node.js github repository
+extensibility mechanism
+action pane
+address elevation
+original problem
+index.jade file
+file server.js
+capability
+subscription.subscriptionname
+id
+advanced setting page
+net eventsource
+standard_d3
+endpoint1
+roleenvironment.changing
+rollout
+.contoso.com
+hence
+tcp object
+views\shared folder
+last day
+topic usage sample
+guest o upgrade
+database resource
+additional detail
+difference
+resiliency
+someone
+deployment history
+role content folder
+local resource declaration
+testing
+deployment label
+deployment state
+manifest
+publish-azureserviceproject cmdlet
+server management
+warning
+similar procedure
+matter
+setting name=
+guest agent plugin launcher
+following line
+startup1.cmd
+blog post role instance restarts due
+back-end
+background
+a6
+hourly price
+1-hour interval
+start screen
+box
+socket.io store state
+.pem file
+node.js developer center
+rdp
+lifecycle event
+default hpc azure management
+role offline
+enable azure diagnostics
+background task
+standard_d3_v2
+previous service package
+standard_d1
+contosoadsworker project
+resolution
+redundant copy
+continuous deployment
+new certificate
+tcpv4
+standard_d13
+standard_d2
+following service definition file
+azure sla
+ndp46
+unique name
+rollbackallowed element
+dashboard page
+essential section
+simple startup task
+subnetmask=
+troubleshooting article
+cloud service app
+sampleeventsourcewriter class
+standard_d11
+osfamily column
+major in-place upgrade
+repeat
+drop
+worker role code
+application store
+confirmation prompt
+diagram
+certificate overview
+ipaddress=
+record type
+get-azurevm -servicename yourservicename get-azureendpoint -vm
+next step section
+documentation
+virtual machine resource
+recommended method
+standard_d14_v2
+cloud service instance
+ii web site
+storage emulator store
+standard_d1_v2
+upgrade deployment operation
+localport=
+host
+invalid configuration file
+publishing profile
+value attribute
+remote tool
+previous section
+configurationsettings setting name=
+asp.net mvc web role
+web role instance
+packagedir=
+password.txt
+rolebinariesdirectory
+root folder
+please
+target cloud service
+elevated privilege
+deployed service
+remoteaccess module
+mycustomcountercategory
+wait
+base.onstart
+window powershell window
+back-end process
+console application
+azure log
+convertto-securestring
+/t
+xml file
+new password
+usedevelopmentstorage=true
+performance data
+different value
+relevant section
+remote access
+new setting
+wadperformancecounterstable
+previous code example
+custom counter category
+network traffic
+user account
+storageaccountkey
+sql server
+automation
+diagnostics.wadcfg
+tasktype attribute
+geo-replication
+diagnostics monitor
+azure managed library
+microsoft window could allow elevation
+web.release.config transform file
+temp \startuplog.txt
+click start
+window powershell
+processor
+kind
+night
+following file
+wadexample storage account
+browser window
+site section
+.cshtml file
+address remote code execution
+home button
+window telnet service could cause remote code execution
+shortcut
+counter
+edition
+netfx variable
+cloud service instance blade
+name=
+memory performance counter
+unsigned script
+runtime element
+infinite loop
+active
+serviceconfiguration.local.cscfg
+provider=”prov1”
+microsoft virtual machine bus network adapter _2
+new production deployment
+essentials/all setting
+azure project
+webjobs feature
+ndp452
+ms15-002
+variable element
+selectedsubscription
+msbuild parameter
+rem
+something
+/startup /webrole /servicedefinition
+standardweb
+rel3
+referencename
+click instance
+linux virtual machine
+expiration
+email
+system.diagnostics
+datacenter
+tab
+rest api
+environment variable name=
+edit build definition
+schema
+node management
+-activity
+setting blade
+launch visual studio
+log file
+secure
+setting icon
+-location
+dns name
+blue
+write-progress -id
+full emulator
+serviceconfiguration
+full-size image
+-and
+slider represent
+/whensource /onlyallowtrafficto /networktrafficrules networktrafficrules onlyallowtrafficto destination roleendpoint endpointname=
+asp.net application
+string
+microsoft security advisory
+certificate page
+situation
+subtask
+trigger tab
+available core
+upload button
+xml
+task object
+locked element
+myversionnumber
+object
+new process
+alwaysdeleteexistingdeployments
+implication
+source control system
+install azure sdk
+-launch
+click update
+word cname
+controller folder
+entry point
+azure management endpoint
+click sql database
+import element
+wildcard
+certificate=
+sizeinmb=
+service_name=
+servicemanagementservice
+views\ad folder
+storage_name -storageaccountkey
+different region
+candidate cluster
+interval
+include
+network area
+alternate cloud service environment property
+active directory domain
+scale setting
+roleentrypoint method
+different datacenters
+fix
+remoteforwarder module
+accept
+swap button
+field
+window event log
+allow untrusted certificate
+multipleactiveresultsets=true
+affinity group page
+publish option
+//
+disable remote desktop
+regional virtual network
+main benefit
+important goal
+multiple cluster
+new message
+following resource
+localresource object
+public cloud
+setup.exe
+deployment environment
+notepad
+load balancer
+australia southeast
+add allowed=
+mybutton1counter
+true
+webrole section
+new browser tab
+uninstallconfiguration parameter
+timehour
+index.cshtml
+running process
+connection request pop-up dialog
+subdomain alias
+azure node template
+/ipsecurity /security /system.webserver
+pinned allocation fails
+mail.customdomain.com
+virtual machine data disk
+highfreq
+agent plugin
+event data
+specific change
+filter
+target number
+deployment setting
+demand
+account information
+targetprofile .cscfg
+cloud service vs_reconfigure
+extensionname
+xsd file
+project folder
+security
+update domain
+english
+writeevent method
+pending change area
+granted access
+implementation
+pattern
+build summary
+disk
+compare performance report
+multiple sub-domains
+detailed log
+two-step process
+r feed
+click new compute cloud service quick create
+microsoft partner
+entire cloud service
+set-azureserviceremotedesktopextension cmdlet
+memory utilization
+server error
+schedule time
+production slot
+associated deployment
+sha1
+webrole
+following method
+sync link
+management service
+exception data
+role service
+new vms
+source setting tab
+fabric controller
+message indicating
+“x-ms-version
+messagemethod
+several time
+cloud service project vs_deploy
+authorize
+transitioning state
+web site
+schema validation
+u east
+localdb
+azure queue service
+test cloud service role
+cname entry
+batch
+multiple computer
+wikipedia entry
+following confirmation prompt
+illustrates
+\node directory
+.cloudapp.net domain name
+visual studio online link
+simplified
+click create cloud service
+role host process
+required change
+connectionstring
+network interface object
+na
+allowable format
+home page
+myapp .cloudapp.net
+wadhighfreqtable
+provided field
+rollback operation
+public ip
+initial catalog=contosoads
+azure powershell deployment cmdlets
+mytestcloudservice
+current version
+certificate tab
+netfxregkey=
+additional network adapter
+reconfigure
+ms15-034
+tool menu
+asynchronous programming
+application instance
+live site
+window journal could allow remote code execution
+diagnostics connection
+click delete cloud service
+scroll
+tasklist.js
+myapp .cloudapp.net service
+service configuration update
+request execution time
+additional server role
+copy always
+user name
+views\home folder
+delete_deployment method
+web tab
+deployment swap
+ssl v3.0
+stagingorproduction environment variable
+rel2
+north central u
+azure section
+standard file read
+timing
+browse all/recent area
+large volume
+cloud template
+dv2-series
+myvariablevalue
+active deployment
+install.cmd file
+node transition
+mail.contoso.com
+startup process
+azure powershell cmdlets
+recent operating system version
+running application
+virtualpath
+http binding
+application processing
+allow upgrade
+provided subscription name
+schemaversion=
+verbose mode
+respective event
+running instance
+sampling
+try
+minimal
+following sample
+~-4,4 date
+next time
+modification
+failed vms
+authorization
+xml schema
+choose internet application
+reservedip
+step-by-step guide
+www.contso.com
+service management versioning
+select run
+retired guest o family
+personal information exchange
+sub-domains
+operating system family
+see
+processid
+plain text
+complex task
+empty slot
+netlogon could allow spoofing
+new cloud service vs_create
+domain-joined compute node
+couple performance counter
+patch
+click publish
+thumbprintalgorithm=
+whensource matches=
+sync button
+rel1
+~-7,2
+protocol
+old site
+textbox
+binding name=
+choose option
+quick explanation
+deployment tab
+add… button
+vacation
+new reservedip
+contosoadsdbconnectionstring
+wadexample.xml editor window
+enable remote desktop check box
+microsoft graphic component could allow remote code execution
+get-azureremotedesktopfile cmdlet
+mailsite
+following protocol
+nettcp
+physical directory
+brazil south
+address
+cleanonrolerecycle=
+msbuild.exe
+previous production environment
+dialog
+web role run window server
+wadmessagetable
+worker role run window server
+ad information
+secure password file
+contosoadscommon project
+cloud service change
+delete_hosted_service method
+compression entry
+percent availability
+click new
+asp.net web application project template
+getlocalresource method
+root name
+plugin process
+deploymentsettings.json
+conduct application compatibility validation
+servicemanagementservice object
+copy local property
+active window
+choose
+specification document
+azure storage emulator
+window kernel-mode driver could allow elevation
+corporation
+custom performance counter category
+publicconfiguration
+“prov1”
+public configuration file schema definition
+ftp
+publish process
+new asp.net mvc project
+cpu utilization
+storagecontext new-azurestoragecontext -storageaccountname
+checkmark button
+configure azure powershell version
+dbcontext class
+publishcloudservice.ps1 code sample
+multiple deployment
+different action
+applicationhost.config file
+-status
+worker role instance fails
+following ip address
+myapp .cloudapp.net domain name
+repeat step
+certificate error
+config_path=
+repo
+specific
+staging area
+blob container
+trusted certification authority
+csv file
+rerelease
+stderr
+table wadenumstable
+\v11.0
+network
+configuration blade
+local administrator permission
+specify value
+\users\ user \documents\visual studio
+domain entry
+different role
+microsoftazurecomputeemulator
+minimum time
+interaction profiling
+head node computer
+map cdn content
+workerrole1 project
+push link
+file _layout.cshtml
+recent build
+xml startup task commandline=
+startuplog.txt file
+paas nature
+browse button
+install node.js
+create cloud service
+please refer
+right-click contosoadsweb
+chart header area
+solution file
+sdk version
+httppost create method
+change deployment configuration
+imported publish profile
+nothing
+new file
+visual studio server explorer navigate
+japan west
+contosoadsworker role property
+role size
+vbscript
+loop
+editor
+cloud service definition file
+binding element
+character
+wildcard domain
+static ip address
+bin folder
+manager
+mytestvm1
+service update
+virtual path
+service_name -name
+azure publishing
+www.contoso.com**
+sample config
+blog post
+add certificate
+analyze menu
+factor
+msvsmon.exe
+wadexample.xml
+january security update
+application web.config file
+provides value
+scheduled interval
+next scale-up action
+endpoint3
+specific role
+disablement
+json
+name-of-cloud-service
+current instance
+tore
+.pubxml file
+review tab
+public virtual ip
+constructor
+azure role
+canonical host name
+service package file
+ipsecurity section
+roleinstancevalue child element
+locked flag
+chance
+run azure powershell
+run method implement
+following script
+integrated security=true
+startup project
+endpoint section
+data source=
+sharepoint deployment environment
+critical update
+unrelated deployment
+storage client library
+azure connect
+role change
+label
+storage account key
+service upgrade
+import modulename=
+stdout
+high-performance computing application
+select add existing item
+future deployment
+second batch file
+microsoftazureauthoringtools
+roleinstancevalue xpath=
+storage account name
+mvc web role
+meantime
+first parameter
+ietf domain name
+external storage
+local setting
+jscript
+.net framework could allow elevation
+server.js
+index page
+multiple time
+blog post azure paas compute diagnostics data
+build page
+class sampleeventsourcewriter
+installlogs
+japan east
+chart header
+new item…
+wide range
+wadsetothertable
+similar code
+wide variety
+open azure powershell
+role-specific data
+bandwidth
+wadconfig.xsd
+codeplex
+powershell command
+roleentrypoint-derived class
+following xml
+allow update
+thumbprint=
+remote desktop user
+xml system.webserver security
+login.contoso.com
+advantage
+request header
+azure vm
+chinese
+exit code
+mytest.txt
+user id
+profiling report
+default name
+login.customdomain.com
+startup2.cmd
+localresourcedirectory
+available property
+pt30m
+httppostedfilebase object
+initialization work
+old cloud service
+compression section
+application_start method
+organization
+foreground
+static environment variable
+project.cspkg
+sql database area
+entity framework data model
+next scale-down action
+create_virtual_machine_deployment method
+string.concat
+new ip address
+lifespan
+roleenvironment.getlocalresource method
+first line
+driver
+publish azure application wizard
+diagnostics storage account
+azure deployment environment
+root authority
+follow
+cerebrata
+prompt
+team explorer home page
+roleinstancelist
+bin\debug folder
+temp environment variable
+user image
+hosted service name
+tier
+window virtual machine
+setother
+build menu
+variable netfx
+associated unit test project
+diagnosticmonitortracelistener
+sample thumbprint value
+current role instance
+new vm
+url prefix
+advanced tab
+workload
+cloud service instance remotedesktop
+example scenario
+new container
+following startup task
+command file
+build name
+publisher
+introduction
+low-latency communication
+trusted certificate authority certificate store
+different storage account
+deployment information
+regardless
+min=
+api
+move focus
+remove cmdlet
+file wadconfig.xsd
+thumbprint value
+updated .cscfg file
+non-zero errorlevel
+australia east
+address entry
+previous release
+global
+manage certificate
+role section
+press f4
+click linked resource
+member
+binary
+wadexample.xml configuration file
+failed physical server
+exit /b
+~-10,2 date
+cmdlets
+.cmd
+tasklist.js file
+port range
+ability
+denied access
+apply configuration
+compute workload
+choose commit
+download button
+azure-specific file
+microsoft.windowsazure.diagnostics
+publicipendpoint property
+rcf file
+configuration item
+uploaded certificate
+azurecertificate
+specific domain
+sendenums
+key
+culture=neutral
+php
+data encryption
+inputendpoint element
+-name
+primary class
+window kernel
+xpath value
+asp.net web app
+visual studio link
+first inputendpoint
+virtualdirectory name=
+public url
+scaling increment
+static web page
+visual studio- integrated
+client certificate
+multiple hosting option
+unit test project
+azure powershell tool
+roleenvironment object
+not-deployed
+contosoadsweb role
+_layout.cshtml file
+option copy build output
+utf-8 byte order mark
+excessive cpu time
+ms15-005
+entity framework code
+app.config file
+deployment.name -ne
+access various roleenvironment value
+visual studio configuration option
+window explorer
+management service page
+model directory
+microsoftazuretools.vs120.exe
+new application instance
+self-signed management certificate
+select build solution
+\program files\microsoft hpc pack
+subdomain name
+catch block
+registry change
+list_vm_images
+/virtualapplication /site /webrole
+reference folder
+window appcompatcache
+e.g
+directoryname\
+new role
+roleinst.instanceendpoints.values
+party system
+stack overflow
+on-demand transfer
+numa node
+countercreationdatacollection countercollection new countercreationdatacollection
+bootstrap\dist\css folder
+visit install .net
+service configuration schema
+current azure portal
+select worker role
+ctrl+s
+service definition schema
+small scaling request
+enabledeploymentupgrade boolean variable
+threshold
+resource directory pas
+leave default value
+/configurationsettings endpoint inputendpoint name=
+local file system size
+non-web compute workload
+password file
+/target
+defaultendpointsprotocol=https
+storage transaction
+new performancecounter
+azure portal better
+monitoring agent diagnostics
+administrator task
+rollbackallowed
+certificate name
+azure project file
+buffer size
+high traffic load
+sio require
+currentdatetime
+windows-based computer
+framework setup\ndp\v4\full
+.net october
+placeholder
+reference manager dialog box
+unsafe command line parameter passing could allow information disclosure
+clone
+standard sql server
+allowed=
+azure start dashboard
+uploadandsaveblobasync method
+file /launchbrowser
+advanced section
+byte received/sec
+following response
+example purpose
+platform image
+test data
+logtimestamp rem setup logfile
+role-level aggregation
+hosting vm
+generic error
+instanceinputendpoint name=
+build view
+email address
+diagnosticmonitorconfiguration
+category enum
+ms15-060
+ms15-050
+open server.js
+regular expression “1
+popular web application
+vm3 update-azurevm -servicename
+not-deployed state
+window remote procedure call could allow elevation
+deploymentid
+xml webrole configurationsettings setting name=
+disk write throughput
+disaster recovery
+race condition
+intellitrace summary
+samplerate attribute
+management benefit
+provisioning state
+counter category
+downloaded profile
+eariler
+azure compute service level agreement
+waddest2
+click install
+click manage
+different operating system version
+status change
+roleassemblyname
+billing
+/environment /task /startup /webrole /servicedefinition
+/variable /environment /task /startup
+azure sdk command prompt
+api operation
+upload certificate
+monthly security update
+ole
+small .cmd script
+.net create
+http.sys
+compatibility requirement
+diagnostic information
+create.cshtml
+wa-guest-os-4.13_201410-01
+requested vm size
+d-series
+ready
+-providernamespace 'microsoft.azure.diagnostics
+async module
+parametric
+local storage location
+line-of-business app
+visual studio online build
+exception performance counter
+data model
+microsoft azure storage
+additional network
+countercollection
+disable ssl v3.0 support
+endpoint2
+wa-guest-os-4.22_201507-02
+countercollection.add
+size medium
+startuptasklog-
+new cloud service allocation request
+container field
+essential similarity
+expense report
+instanceinputendpoint element
+general purpose azure compute
+window media player could allow remote code execution
+new data block
+system.net
+expand
+wa-guest-os-3.25_201503-01
+downloaded .publishsettings file
+window apn database entry
+enum
+// initialize method-wide variable
+close
+vs2015 shortcut
+general error
+cloud service cs_1
+west europe
+handler
+using azure diagnostics
+index.cshtml file display
+external traffic
+web site project
+remoteforwarder
+subscriptiondatafile
+upgraded domain
+cloud service powershell
+/role /serviceconfiguration
+tasklist function
+service configure file
+get-date command tack
+release number
+mypublicep.port
+create node template wizard
+upgrading deployment
+azure authoring tool
+initial environment
+role instance attempt
+pt30s
+wait time
+file menu
+wa-guest-os-4.2_201311-01
+network configuration wizard
+current operating system version
+version=1.1.0.0
+xml role name=
+msdn blog post
+navigates
+right end
+computeemulatorrunning environment
+sufficient minimum number
+family o image
+provisioning log
+window photo decoder component could allow information disclosure
+profiler menu
+performance report
+subscription dialog
+administrative user account
+click add azure node
+serviceconfiguration.test.cscfg
+http protocol
+startup.cmd file
+multi-user functionality
+specific nickname
+base-64-encrypted-user-password
+programmatic approach
+open folder
+convert
+break
+-1
+line option
+role.|
+.net framework could allow information disclosure
+allocation
+azure blog
+set privilege
+session
+azure powershell cmdlet
+additional role instance
+use eventsource
+wa-guest-os-4.23_201508-02
+accountkey= key
+ef-related class
+file content
+vm image
+single option
+azure development
+minimal metric
+//referencesource.microsoft.com/symbols
+temporary test deployment
+service_name -slot staging -role workerrole1
+storage explorer
+percent access
+missing connection string
+workerrole1 property file
+computing resource
+registry
+servicename -slot
+failover
+wa-guest-os-3.29_201507-02
+roleentrypoint.onstart method
+specific configuration
+wpf
+sufficient compute quota
+download azure powershell
+publishdir= directory option
+wa-guest-os-4.17_201502-01
+gc
+new site
+connect icon
+resource directory
+wa-guest-os-2.19_201309-01
+wa-guest-os-4.18_201503-01
+peak demand
+exceps thrown sec
+microsoft azure management portal
+queue latency
+administrator login name
+entity framework context
+ms15-027
+system library
+big compute
+corresponding ip address
+multiple upgrade domain
+r2 setup screen
+specified ip address
+storageconnectionstring setting
+visual studio web application
+ms15-048
+project url setting
+wa-guest-os-4.7_201404-01
+follow step
+instance endpoint ip address
+role type supported
+.net eventsource event
+confirm
+create storage connection string dialog box
+event id
+get-azureserviceavailableextension -extensionname
+entire role
+january guest o deployment
+expected exception
+right-hand pane
+ipsec
+fail build
+add trace statement
+startup contains task
+debugger
+commit button
+press ctrl+shift+b
+role name
+test failure
+subsequent simple startup task
+u
+attribute specifies
+cloud service cscfg
+diagnostic data us
+virtual machine’s rdp certificate thumbprint
+ms15-096
+major disaster
+install script
+inputendpoint child element
+framework version
+startup script
+wadexamplevm project
+-4
+ms15-037
+today october
+following article
+multiple worker role
+ubuntu
+get cloud service property
+click delete production deployment
+product
+deletedeployment createnewdeployment
+this.button1.text
+story
+batch file process
+r2 datacenter
+ms15-006
+standard azure storage api method
+current message
+add existing item
+localresources
+linked resource page open
+// block
+\program files\azure sdk\ sdk-version \bin\
+performance optimization
+valuable information
+url contosoads.cloudapp.net
+following security
+high reliability
+wa-guest-os-2.20_201310-01
+201511-02 release
+automation scenario
+yourprofile .cscfg
+user interaction
+different service
+show code button
+asia
+close current blade
+cloud service project right click
+azure.important code
+hpcproxy instance
+choose installation file
+click new data service storage quick create
+ok button
+static date
+program sleep
+concurrency profiling
+maintenance
+verbose monitoring gather additional metric
+customer ad domain controller
+abort count
+build default tab
+count
+manage nuget package dialog box
+appropriate configuration file
+vip swap dialog
+ms15-109
+new azure cloud service dialog box
+a9/a11 virtual machine size
+entity framework dbcontext class
+window installer
+failed request
+working
+“–version “1
+asp.net stack
+click download
+ms15-068
+specify
+instance id
+cloud management task
+environment expansion
+connection failure
+powerful cpu
+relative
+unique url
+folder path
+ms15-051
+web-facing role
+.net assembly
+desired cloud service
+xml core service could allow information disclosure
+/environment /task /startup
+queue-centric work pattern
+refers
+service configuration drop-down box
+sites\storageproxy\packages
+contosoadsdbconnectionstring setting
+targetprofile property
+network location
+socket.remoteendpoint
+locate
+.pdb file
+cpu-intensive work
+compute hosting option
+cscfg configuration file
+select online
+later step
+server explorer right-click
+wa-guest-os-4.24_201509-01
+disk configuration
+set access permission
+powershell scripts- script
+performance reason
+right choice
+paas offering
+required library
+-105
+june guest o rollout
+appropriate xpath attribute value
+navigation bar
+many time
+jade view engine
+read-only blob
+necessary change
+ci deployment
+remark
+max local resource size
+example command
+msrc patch partway
+moment
+organization grows
+minimize
+allow network traffic
+congratulation
+desired condition
+windowsazure.storage package
+secondary datacenter
+built-in load balancing
+azure cloud storage
+cloud service instance vs_remote deploy
+ms15-072
+window store application
+visual studio ui
+relativepath=
+single directory
+sweep task job
+viewing
+tcp port
+recycling
+/environment /runtime /webrole /servicedefinition
+offline state
+matching name
+actual connection string
+response body
+microsoftazureauthoringtools-x64.msi
+clean machine
+v1
+mysql service
+following connectionstrings element
+great deal
+azure diagnostics infrastructure log
+line ensures
+ndis
+artifact
+source control folder column
+current directory
+manual install package
+tutorial us powershell
+maximum average cpu percentage
+explicit parameter
+different service configuration file
+rule
+window installer mac installer linux download
+localresource.rootpath property
+serviceconfiguration.local.cscfg file
+provisioning progress
+cloud service project vs_deploy setup
+permission value
+next role instance
+/p
+ms15-089
+click add node
+monitoring section
+vm2 set-azurevmdiagnosticsextension -diagnosticsconfigurationpath
+“mail.mysite.cloudapp.net”
+created
+backends
+yourprofile
+wa-guest-os-4.16_201501-01
+change azure service
+.csx folder
+showtasks
+task.js
+web server environment
+delete_os_image method
+de encryption
+authenticated user
+new parametric sweep job dialog box
+code return
+azurecn-0002
+configuration value
+specified sampling rate
+wa-guest-os-3.17_201407-01
+initial request
+rootpath property
+onstart method finish
+menu entry
+network resource
+storage transaction cost
+multiple copy
+diagnostic infrastructure
+click new compute
+nla could allow security feature bypass
+focus
+`csharp string localstoragepath
+new family
+wadexamplevm storage account
+different step
+variable value
+open-source app
+custom category
+virtual machine vms
+following figure
+path windir \microsoft.net\framework\ version
+external connectivity
+many page
+prf0025
+application wadexamplevm.exe
+environment element inside
+cipher change
+publickeytoken=31bf3856ad364e35
+well-known port
+add setting
+timestamp ***
+approximate window
+view folder
+verification
+following drop folder
+rem setup .net filename
+hpc pack installation wizard
+ipsecurity allowunlisted=
+severity
+azure.note code
+socket handler var handlerthread new thread
+manage azure virtual machine
+roleentrypoint.run method
+second constructor
+different option
+commitment
+vm_name -vm
+roleinstanceendpoint roleinstendpoint
+crash
+-102
+select certificate
+default default azurenode template
+click unlink
+second firewall control connection
+service control manager could allow elevation
+substitute microsoftazurelibsfornet-x86.msi
+linkid=166357
+calculated output
+remote desktop setting
+currentroleinstance
+wa-guest-os-3.10_201312-01
+.csfg
+new resource
+startup procedure
+production application
+phluffyfotos
+leave service configuration
+solution dialog box
+complexity requirement
+privilege important
+last open blade
+suse
+summary
+azure automation getting
+custom script
+cached performance counter data
+performance explorer
+service definition.| physicalpath\
+wa-guest-os-2.22_201312-01
+specific endpoint
+transfer
+bootstrap.min.css file
+announcement
+setting element
+performancecountercategory.exists
+original d-series
+install microsoft azure powershell cmdlet
+long logon time
+new cloud service vs_create reconfigure
+roleentrypoint.onstop method
+completion
+custom counter
+.cs file
+convertfrom-securestring set-content
+blob service
+perform registry change
+aspect
+static value
+multiple line
+wa-guest-os-4.6_201403-01
+string concatenation operation
+endpoint.name -protocol tcp -publicport
+received/sec network interface object
+localresources localstorage name=
+wsus server
+ms15-105
+physicalpath /out
+tfvc
+express generator
+custom web application
+select default hpc azure management
+single public-facing port
+azure issue
+type ipconfig
+commits
+engine property
+secure password
+service definition.| roleassemblyname\
+list_operating_system_families method
+-6
+ellipsis
+azure cloud service multi-tier application
+ad index page
+tenant
+privateport=31398
+wa-guest-os-4.4_201401-01
+primary datacenter
+b. click next
+compatibility purpose
+biztalk server
+onstart code
+unpublished branch
+cloud service entry
+wa-guest-os-3.22_201412-01
+desired size
+node.js create
+click dashboard
+ssl v3.0 support
+ms15-102
+emulated storage account
+ipv4 address value
+performance counter type
+visual studio command prompt
+several way
+ms15-044
+ms15-069
+correct location
+ii configuration change
+build node
+referencename -publisher
+access blob
+database store
+roleinstance
+initial update
+accept default selection
+azure portal page
+assembly ‘microsoft.windowsazure.storageclient
+favorite editor
+portal message
+mini crash dump
+npm command
+new service package file
+enable code
+highly-available workflow execution engine
+essential application
+microsoft software user agreement page
+github
+-111
+image url
+exposed http endpoint
+administrator user name
+directory layout
+wa-guest-os-4.5_201402-01
+appropriate xml file
+string concatenation code
+subsequent mutating operation
+basic structure
+time zone
+window command line auditing
+xml customerrors
+installation file
+environment variable myversionnumber
+mail
+ms15-121
+restore button
+clusrun /nodes
+angle-bracketed item
+general
+file location
+configuration schema
+microsoft font driver could allow remote code execution
+inputendpoints
+central u
+bufferquotainmb attribute
+outside world
+bring online
+lightweight version
+ms15-008
+new web role
+provider=”prov2”
+azure region
+relevant msrc patch
+new link
+development machine
+azure package build
+namespace
+public\stylesheets directory
+allow client
+utf8 -filepath
+msrc patch applies
+worker process restarts
+vm1 get-azurevm -servicename
+guest o release matrix
+//nodejs.org
+encrypted standard string
+waddirectoriestable directory
+reduction
+service definition file.| rolebinariesdirectory
+d-series vms
+new asp.net project dialog
+click discard
+mail.mysite.cloudapp.net
+xpath attribute
+ms15-112
+flag
+favorite development tool
+python developer center
+backup datacenter
+full path
+grid
+completetasks
+project template
+logger object
+regular release
+economical way
+localport attribute
+collect logging data
+instance section
+replace datacentername
+new cloud service version
+wa-guest-os-4.3_201312-01
+default collection
+continue
+right arrow icon
+automatic mode
+function allinstancesrunning
+user/operator prompting
+wad-control-container blob
+default perform
+pinned cluster
+on-premise resource
+paas customer
+version=1.0.0.0
+following image
+locked
+azure service management api
+webrole1\package.json
+process exit
+preview management portal
+ms15-122
+parameter section
+solution section
+xml schema reference
+\program files\microsoft sdks\azure\.net sdk\ sdk-version \bin\
+credential object
+publish-azureserviceproject -slot
+commandline attribute
+phone call
+profiling data
+september guest o rollout
+operational overhead
+online migration tool
+ad class
+virtual machine name
+neudesic
+vodafone
+startup element
+microsoft.windowsazure.storage.table
+/a *+*
+full dump
+application workload
+selection
+-112
+manual process
+retirement microsoft
+cloud back-end
+comment block
+cloud service setting dialog
+remotedebugvs2015
+url format
+input element
+logfile
+osfamily=
+**figure
+normal privilege
+paste
+set-azureserviceprojectrole statement
+emulator startup
+functionally
+conversion
+.rootpath
+drop-down list
+sharepoint server
+expressapp
+remote desktop protocol could allow denial
+subscription information
+credential -expiration
+pencil icon
+wa-guest-os-3.26_201504-01
+cpu activity
+cspack directoryname servicedefinition
+vm2.vm
+cpu core
+new folder
+click attach certificate
+press ctrl+f5
+new local branch
+plan
+unrestricted
+started state
+user prompting
+create storage account
+startup task stage
+total number
+valid azure xpath value
+local resource disk
+azure webjobs sdk
+cleardb
+remove-azureservice
+azure cloud service part
+ms15-021
+myinternalep.address
+adfs could allow information disclosure
+series
+management api certificate
+script behavior
+change service configuration
+whenever
+mvc template
+storage connection string
+.key
+firewall
+window scheduler
+local service configuration file
+specific public-facing port
+visual studio express
+performancecountertype.numberofitems32
+approot\bin
+publisher -extensionname
+choose publish
+minimum setting
+netfxinstallerlog
+object sender
+ms15-106
+roleendpoint endpointname=
+deployment operation completes
+executable file
+system crash
+development group
+new test
+file selection dialog
+fast communication
+use full emulator radio button
+click create sql database
+new xml file
+southeast asia
+foreground task hang
+instanceinputendpoint child element
+pin-protected printing option
+extension.name -eq
+co-administrators
+memory capacity
+ctrl+\
+hadoop
+// shut
+wa-guest-os-4.19_201504-01
+ipendpoint property
+memory allocation
+//deployment-id.cloudapp.net/ create
+.net clr exception
+***
+sent
+july guest o rollout
+dropdown list
+file install.cmd
+wa-guest-os-4.20_201505-02
+localstoragepath
+hpc cluster
+upgrade domain count
+void button1_click
+microsoft azure performancecounters sample
+click provide installation credential
+straightforward
+select head node dialog box
+window kernel could allow elevation
+left-side navigation pane
+front-end
+commercial website
+invalid command line
+entity class
+new instance
+mercurial
+msrc update release
+visual studio tool folder
+list_storage_accounts method
+list_os_images
+storage account dialog enter
+menu
+explicit error message
+schannel
+-launch option
+standalone vm
+missing exit
+pathtoinstalllogs
+partner
+new thread handlerthread.start
+microsoft subscription
+aggregation_interval
+default connection string
+name installlogs
+high performance computing
+hdinsight
+.net web installer
+form encoding
+ad.cs file
+create_deployment method
+localpath parameter
+azure datacenters
+visual studio project
+required field
+msrc update microsoft security bulletin ms14-066
+sample configuration file
+role life cycle
+myinternalep
+on-premises network
+fresh copy
+digital certificate could allow
+new asp.net project dialog box
+/allocatepublicportfrom /instanceinputendpoint /endpoints
+hope
+system.threading
+start page
+rollback update upgrade
+goto ndp46
+ms15-073
+specify new node page
+addtask
+lowercase character
+visual studio commmand prompt
+appropriate netsh advfirewall firewall command
+serviceconfiguration servicename=
+compute power
+transfer period
+name-of-user-account
+file name
+executionpolicy setting
+local storage emulator account
+access key
+deployment id guid
+eventargs
+busy state
+window shell
+additional cost
+next simple startup task
+thumbprint attribute
+kernel-mode driver could
+contosadsweb role property
+average
+add project reference
+extensionname -version
+specified wait time
+u west nov'15
+mpi
+desired state configuration feature
+//jade-lang.com
+show
+-101
+remotedesktop
+window page file
+ms15-066
+file menu choose open project
+dropbox
+service management functionality
+finish provisioning
+memory-to-core ratio
+single input endpoint
+linux server
+microsoft.windowsazure.storage.dll
+local resource directory
+quotation mark
+verbose metric
+wa-guest-os-4.11_201408-02
+automatic operating system update
+unique
+azure python sdk
+right-clicking
+addprinterconnection vbscript command
+environment section
+setting modify
+vs_reconfigure
+stop profiling link
+webdeploy technology
+64-bit environment
+ef
+later time
+anti-virus
+function createnewdeployment
+expected errorlevel
+default browser
+-10
+nickname
+window could allow remote code execution
+ssh
+ms15-032
+mysql db
+performance run
+system.linq
+add_os_image method
+default performance counter data
+service definition xml schema
+determine .net framework version installed
+// ipv4 address /default.aspx
+web application gallery
+obvious performance problem
+xml core service could allow security feature bypass
+runtime environment variable name=
+dv2-series regional availability
+substantial modification
+on-demand transfer request
+*** echo
+new password.txt file
+waddest1
+window kernel could allow security feature bypass
+virtual machine image dialog
+convertimagetothumbnailjpg method
+ms15-118
+compatibility issue
+appcmd.exe sufficient permission
+date/time string
+root project directory
+endpoint information
+storage service name
+rightscale
+**microsoft azure compute emulator**
+add-azureendpoint -vm
+roleinstance roleenvironment.currentroleinstance
+visual studio server explorer expand azure
+build agent
+release build
+default new cloud service project
+on-demand computing resource
+vs_remote
+root level
+azure web role access
+window component could allow elevation
+wa-guest-os-4.14_201411-01
+many week
+connection reset
+window task scheduler could allow elevation
+select contosoadscommon
+sdk dependency
+ms15-056
+cloud service project deploy
+specific member
+azure storage node
+configuration file app.config
+pre-upgrade version
+standard .net file i/o class
+start visual studio
+/roleenvironment/deployment/
+remote direct memory access
+increment
+resource group
+guest o retirement policy
+ms15-067
+waiishost.exe
+/internalendpoint /endpoints
+first batch file
+choose view intellitrace log
+azure.note cspack.exe
+double click
+link resource wizard
+get_operation_status method
+publish /p
+click data service
+\node
+microsoft azure publish setting dialog select create new…
+new-azurereservedip -reservedipname
+instance property
+installation wizard
+separate file
+following setting
+empty cloud service
+show connection string
+connectionstrings
+certificate management process
+diagnostics extension
+output directory property
+new data
+sites\mysite
+installation credential dialog box
+ms15-115
+button1counter.increment
+primary location
+different startup action
+solution contosoadscloudservice
+com+ service
+window server product
+web content
+vm1 -storagecontext
+iis7
+rolename \roletemp directory
+sudden increase
+detailed discussion
+'socket.io
+ms15-082
+advanced
+plain text password
+specialized skill
+localresources section
+key difference
+default view engine
+existence
+add new project dialog box
+system.drawing namespace
+dedicated test service
+wa-guest-os-4.25_201510-01
+half hour
+initial operation
+database configuration
+-2
+goto logtimestamp
+winsock
+/samplerateinseconds
+system.io.filenotfoundexception error
+remote access area
+essential
+million
+azure.note depending
+ms15-097
+list_hosted_services method
+naming series
+install azure powershell
+ipsecurity
+differencing vhd
+secure manner
+publishdir=\\myserver\drops\
+several performance counter
+bin
+information technical detail
+vs_create
+deployment workflow
+sync
+setting step
+recent performance counter data
+import-module azure
+/configurationsettings certificate certificate name=
+.ipendpoint.port
+select window server
+publish setting download page
+continuousdeploy
+specific role instance
+wadperformancecounterstable performance counter
+add-azureaccount
+equivalent visual studio button
+internet-facing role
+contosoadsworker role
+enterprise network
+image repository
+queue new build
+following error message
+\commandexecution.log
+computational work
+staging column status
+unneeded complexity
+initialization
+creating new deployment
+dv2-series cpu
+previous
+database connection
+install required component page
+ms15-093
+wa-guest-os-3.15_201405-01
+.tsf file
+console command
+hadoop cluster
+next open blade
+open project
+wa-guest-os-3.14_201404-01
+instance property return
+file maeventtable.tsf
+ms15-111
+default option
+==
+endpoint.publicport -localport
+storageproxy
+ghz
+scheduledtransferperiod attribute
+reasonable effort
+service healing occurs
+subscription name
+miscellaneous configuration setting
+wa-guest-os-3.16_201406-01
+folder structure
+.cer certificate
+collecting event data
+exit notepad
+centos
+right-click contosoadsworker
+customer feedback
+add reference
+source control check-in occurs
+system.diagnostics.trace log
+new directory
+addfirewallrules.cmd
+second update
+powershell example show
+myaccountkey
+cloud service monitoring metric
+valid cloud service
+-108
+active session
+end echo install.cmd
+view menu
+front-end running
+topology
+function publish
+servicedefinition.cmd
+express version
+/directoryconfiguration
+automatic upgrade
+large spike
+connect powershell
+various azure powershell
+diagnosticmonitorconfiguration element
+rereleases
+apac east
+pre-created vnet
+diagnostic configuration setting
+define
+multiple user
+role instance restarts due
+ip name
+role.| virtualpath\
+disabled guest o version
+automatic operating system
+name='startuplocalstorage
+select deployment method page
+u central
+first cmdlet parameter
+ms15-117
+select cloud service
+click setting
+select add
+/variable
+scheduledtransferperiodtransfer interval
+function deletedeployment
+new socket
+scheduled transfer request
+command-line tool
+choose window desktop
+//127.0.0.1
+data storage
+-106
+ms15-084
+ms15-074
+worker role contosoadsworker
+webrole1/routes directory
+new feature
+performancecounters sample
+caught exception
+file system storage
+filecontent system.io.file.readalltext
+\resources\temp\ guid
+wa-guest-os-3.13_201403-01
+git version
+ms15-076
+new build definition
+ms15-042
+role environment setting
+manage key
+role name=
+azure.tip run
+rem check
+local resource size
+certificate file pfx
+stored content
+csharp int port
+// start socket handler
+// set
+different individual
+details.cshtml file
+last line
+configure server startup task
+change authentication dialog box
+pipeline
+azure sdk version
+wa-guest-os-4.1_201310-01
+cpu resource
+guest agent plugin
+ms15-085
+task work
+roleinstance object
+ms15-014
+vm infrastructure
+ms15-004
+'..//..//lib//socket.io
+restarts
+update deployment status
+customer transition
+get-azureserviceremotedesktopextension
+trailing backslash separator
+startuperrorlog.txt
+wa-guest-os-3.12_201402-01
+rem installing .net ***
+new parameterizedthreadstart
+get-date
+setting name
+system requirement
+foreground startup task
+uncheck start hpc cluster manager
+different prefix
+second tuesday
+function upgradedeployment
+host operating system
+submit
+redeploy button
+new visual
+sure head node
+launch visual studio link
+choose cloud
+performance wizard
+tasklist
+specify node naming series dialog box
+configurationsettings element
+cloud config file
+jade
+web/worker role instance
+wa-guest-os-4.9_201406-01
+deployment process
+many kind
+relativepath field
+targetprofile= yourprofile
+first instance
+ms15-052
+team
+contact azure support
+allocatepublicportfrom fixedportrange max=
+azure web/worker development experience
+instance-to-instance communication
+partial command get-azure
+overallquotainmb
+custom
+insufficient number
+visual studio team system
+different update
+ssl encryption
++”1”
+large portion
+active directory federation service could allow elevation
+worker role log console window
+multi-tier .net application
+follow instruction
+catch
+app generates
+diagnosticsconnectionstring setting point
+new guest operating system
+timeout duration elapses
+/out
+event occurs
+ssd
+footer text
+create virtual machine
+optimized
+import import modulename=
+september guest os
+ado.net connection
+alternative approach
+window http server
+runasync method
+online state
+context menu
+evaluation version
+worker role monitoring
+efficiency
+refs/heads/working
+usedevelopmentstorage
+-ne
+statuscheck event
+solid-state drive
+hostheader=
+app store ad
+// identify direct communication port var mypublicep roleinstance.instanceendpoints
+microsoft.windowsazure.storageclient
+dotted line
+project name
+vm_image_name
+event handler
+trace.traceerror
+bufferquotainmb property
+version retirement change
+segment sent/sec
+contoso ad
+provide service information page
+wa-guest-os-3.8_201310-01
+ssl certificate .pfx file
+wa-guest-os-2.19_201309-03
+certificate-thumbprint
+azure data management service
+visual studio instance
+exported management certificate
+directory node
+repository link
+consultant
+azure data center
+previous version
+check mark
+data collection type
+microsoft management console file format could allow denial
+additional method
+image processing option
+preview
+logo
+web role store
+source control solution
+error handling
+wa-guest-os-3.18_201408-02
+system.io.path.combine
+sent/sec network interface object
+add node wizard
+devops staff
+azure account credential
+walkthrough assumes
+cloud service vs_reconfigure deploy
+microsoft azure command prompt shortcut
+appropriate size
+retry policy
+3rd-party system
+ellipsis button
+config_path -version
+sqlclient provider
+select solution project
+extra vms
+mobile device component
+commandexecution.log
+wa-guest-os-3.30_201508-02
+create virtual network
+msbuild argument line option /p
+may guest o rollout
+develop
+ms15-075
+various technology
+host header
+following page
+digi
+envorionment
+path environment variable
+parallel task
+create_hosted_service method
+openssl parameter
+second update operation
+point select
+button1
+click view task
+east
+address spoofing
+create_storage_account operation
+/bindings virtualdirectory name=
+fault tolerance
+approot
+visual studio template
+stop azure node dialog box
+netsh advfirewall firewall command line tool
+affinity group cluster
+role instance start
+today june
+additional symbol file
+file mytest.txt
+waddirectoriestable
+approot\bin folder
+cloud hosting task
+concatenate method
+worker role environment
+several data center
+following error code
+click browse
+scalextreme
+overallquotainmb attribute
+mac
+verify
+set number
+new hpc cluster
+developer command prompt
+relevant microsoft security response center
+express application
+remote debug runtime
+bug
+startuptasklog reg query
+subscriptiondatafile import-azurepublishsettingsfile
+next check-in
+enter contosoads
+scheduled transfer
+public oct
+setup wad section
+background startup task
+image blob
+apac southeast
+cloud service fundamental
+netfx
+small business
+role process
+local storage resource location
+azure.note bulletin ms15-031
+microsoft.azure.diagnostics
+selectedsubscription select-azuresubscription
+diagnostics agent transfer frequency
+minimal monitoring level
+waworkerhost.exe process
+update deployment inplace
+attach/detach
+logon process
+cmdlet setup phase choose
+full compute emulator
+management work
+select add new folder
+provider
+wa-guest-os-2.21_201311-01
+guid name
+wa-guest-os-3.32_201510-01
+wa-guest-os-3.28_201506-01
+review
+secure way
+azure.note visual studio online
+rdfwdrvs2013
+compatibility rule
+particular interest
+-erroraction silentlycontinue
+please run
+sum
+administrator level task
+get-azurelocation cmdlet
+team foundation server
+pattern deploymentid/rolename/roleinstance
+azure roleenvironment
+basic chat application
+uncaught exception
+global setting
+virtualapplication name=
+utility
+mvc controller
+guest
+single application
+unsynced commits link
+webmatrix
+pending change link
+.cmd shell script
+module dependency section
+role designer
+socket.io library
+publickeytoken=31bf856ad364e35’
+diagnostics.wadcfgx
+system32 folder
+precaution
+ms15-025
+valid storage account
+redirection
+north europe
+.zip file
+accept button
+wa-guest-os-3.11_201401-01
+new guest o
+p help
+xml localresources localstorage name=
+physicalpath /role
+choose build
+pathtoinstalllogs startuptasklog- timestamp .txt
+microsoft.windowsazure
+deployment status
+role checkbox
+service admins
+thumbnail url database field
+get-help new-azureservice
+netfxinstallfile /q /serialdownload /log netfxinstallerlog
+wa-guest-os-3.27_201505-02
+installlogs local storage
+last step
+ad category
+**/copyonly** option
+content management system
+initializestorage method
+create branch
+sample cmd shell script
+local configuration
+performance problem
+uploads
+temp environment variable resolve
+system.web section
+address security feature bypass
+application home page
+blob path
+wad-iis-logfiles contains information
+ms15-018
+start deployment
+azurecn* ipconfig
+storage resource
+smb could allow security feature bypass
+internal input endpoint
+thumbnail image
+ms15-098
+azure library
+telekom mobile operator
+test pas
+virtual machine deployment
+remoteusercredentials
+monthly guest o release
+title bar
+ms15-040
+mobile device
+check button
+socketshutdown.both
+.bat batch file
+waddefault+md5
+south central
+naming
+setting definition
+configuration entry
+locally redundant
+premise
+deployment get-azuredeployment -servicename
+one-time setup step
+accountname= name
+specified threshold
+vm get-azurevm -servicename
+ms15-019
+application restarts
+much data
+replace storageaccountkey
+png processing could allow information disclosure
+extension.version -eq
+visual studio cloud service project
+get_hosted_service_properties method
+source control icon
+advertising bulletin board
+system.net.sockets
+remove affinity group
+blank console window
+ms15-090
+europe west jan'16
+new ad
+expiration parameter
+wa-guest-os-4.0_201309-03
+entirety
+encrypted standard
+contosoadscontext class specifies
+critical patch
+subdirectory
+program file folder
+parallel application
+ms15-057
+build link
+x86
+find search
+role property
+click remote
+sticky session
+// define body
+set- cmdlet
+important information
+counter name
+xml datasources directoryconfiguration containername=
+processing power
+fabric
+vm environment
+click detail
+storage account dashboard
+full size image
+install script check
+.net clr memory
+myinternalep.port
+rdma
+upload remote desktop certificate
+working installation
+corporate active directory
+custom directory
+azure platform
+compare app service
+fifth domain contains
+oversight cost
+different node name
+schannel could allow security feature bypass important information disclosure
+account administrator
+right-click virtual machine
+desired service configuration
+ghz intel xeon® e5-2673 v3
+v0.6.1
+“–version “1.1””
+provide subscription information page
+write bytes/sec /counterspecifier samplerateinseconds
+discard
+uninstallconfiguration
+following cmdlet script
+substantial effort
+name attribute
+ms15-062
+location \\myserver\drops\
+bind socket listener
+standard window troubleshooting tool
+service disruption
+msbuild command line
+vm update-azurevm
+wadevent+md5
+system.webserver section
+foot
+network policy server radius could cause denial
+relation
+url box
+update button
+rootpath property return
+wa-guest-os-2.24_201402-01
+workerrole node
+solution configuration
+branch button
+wa-guest-os-3.7_201309-01
+symbol file
+remotedebugvs2013
+new branch link
+footer
+transient fault
+sockettype.stream
+webdav could allow information disclosure
+publicport=30400
+compatibility
+statement completion
+microsoft window server
+var socket
+ms15-055
+/startup
+distance
+obfuscated internal id
+task run
+pathtostartupstorage environment variable
+garbage collection
+today september
+name='installlogs
+excessive amount
+select package
+quota limitation
+basic node.js application
+atm font driver could allow elevation
+visual studio project template
+/role
+set type
+lot
+maximize
+-3
+re-install diagnostics
+window server base image
+security feature bypass
+browsing storage resource
+protocoltype.tcp
+specific cloud service
+long time
+blob log file
+asp.net mvc front-end
+application freeze
+cspack directoryname servicedefinition /role
+correct cloud service certificate
+select staging
+workerrole1_in_0
+notimplementedexception
+first firewall control connection
+azure virtual network
+full deployment
+multiple component
+cloud service creation
+projectdir \bin\ configuration \app.publish\
+remote user account
+installlogs resource
+storagecontext -diagnosticsconfigurationpath
+ms15-080
+window user profile service
+logical name
+fresh update
+head
+.net installer file
+current date
+status changing
+web role’s web.config file
+retired family
+project node
+ms15-024
+microsoft window
+add-azurenodewebrole myrole
+november release
+bitbucket
+vsperfclrenv /globaloff
+run msbuild
+convertfrom-securestring
+monitoring agent configuration file
+ms15-119
+graphing capability
+ms15-114
+function call stack
+new queue message
+target version
+netfxinstallerlog= pathtoinstalllogs netfxinstallerlog- timestamp
+iteration
+system release
+a11 virtual machine instance
+particular hosted service
+generation
+many type
+python application
+current configuration
+script template
+temporary disk performance
+internalendpoint child element
+new service configuration file
+click create storage account
+helpful
+count=
+buggy code
+system.drawing
+contosoadscontext.cs file
+introduces azure storage table
+ms15-007
+ad database record
+south central u
+hit
+add-azurenodewebrole
+max number
+node-uuid
+azure project.| servicedefinition\
+configure trace switch
+azure cloud service run
+busy stopping
+new computer
+microsoft customer advisory team
+determine
+stopping state
+production deployment slot
+source control link
+create_storage_account
+command prompt type run
+a11 instance
+size limit
+ms15-061
+profiler report
+west u
+operationtotal1.countername
+last operation
+service administrator
+azure affinity group
+personal data
+azure.warning ii
+window dump file
+available resource pool
+thumbnail blob url
+securepassword set-azureserviceremotedesktopextension -servicename
+entityframework nuget package
+application_end method
+request current
+periodic background job
+microsoft.webapplication.targets
+default command line
+class library template
+sql data
+poco entity class
+effect
+import-azurepublishsettingsfile
+previous hour
+non-default port
+concurrent connection
+create storage account connection string dialog box
+ms15-011
+performance counter instance
+csharp foreach
+d-series cpu
+package blade
+library
+kernel mode driver could allow elevation
+application compatibility impact
+time schedule
+security prompt
+public share
+substitute microsoftazureauthoringtools-x86.msi
+remote desktop connection dialog
+command-line build
+click new data service sql database quick create
+sla
+click allocated node
+click get support
+ruby
+pfx format
+endpoint name
+download rdp file rest operation
+traffic manager
+ms15-063
+mobile app backends
+site name=
+scheduled transfer period
+delete_storage_account method
+simple text editor
+cluster job
+php create
+workerrole class
+remote desktop configuration dialog
+vm set-azurevmextension -referencename
+detailed error information
+file explorer
+upgradedeployment
+long wait
+remotedesktopuser
+/bindings /site site name=
+ui
+portal screen
+xml configuration file
+equivalent guest o family
+execute
+manual install
+variable roleinstancevalue element
+plugin
+azure cloud service template
+shows.
+simple query
+azure activity log window open
+thousand
+ms15-039
+hardware
+vulnerability adobe font driver could allow remote code execution
+d-series vm instance
+/performancecounterconfiguration
+worker role application
+comment section
+window task management could allow elevation
+new queue
+active directory
+kerberos
+limited time
+verify.exe command line program
+wa-guest-os-3.23_201501-01
+new-azureservice -servicename
+controller code
+install visual studio
+log trace message
+relative path
+service config xml schema
+adcontroller.cs file
+hpc pack installation file
+data tier
+ms15-020
+source control option
+service configuration element
+window hyper-v could allow security feature bypass
+storage cost
+get-credentials cmdlet
+vm.vm.resourceextensionreferences
+app file
+context class
+time reboots
+ii web.config file
+diagnostics configuration file defines value
+framework install
+get-azureservice
+health assessment
+wa-guest-os-4.10_201407-01
+capture_vm_image method
+automatic upgrade reboots
+-107
+tag
+custom build process
+cloud management
+directoriesbufferconfiguration
+edit.cshtml file
+see create
+automatic transfer
+cloud service management task
+nuget package content
+europe
+roleinstance roleinst
+/trace /system.diagnostics
+following feature
+add setting button
+required ipsecurity section
+servicename -name
+fixedportrange max=
+quick
+window journal
+trace log
+virtual hard disk
+enter /t
+readyrole
+console utility
+address potential remote code execution
+ms15-030
+processqueuemessage
+various version
+url input box
+video introduction
+cpu percentage
+wa-guest-os-2.25_201403-01
+v12.0
+accountkey value
+haswell
+azure.note note
+command exit
+batch optimized
+right click
+window kernel mode driver could allow elevation
+-label
+certificate string
+32-bit target
+total/sec network interface object
+standard window environment variable temp
+credential new-object
+inclusion
+installation rule page
+iaas-based disaster recovery
+cspack.exe program
+test node
+store name
+management portal configuration
+today july
+privateport=30398
+next day
+.txt
+correct port value
+table data
+snap-in
+many disk
+local database
+official sla
+public override bool onstart
+click swap
+manual step
+possible switch
+netfx-install blob container
+microsoft graphic component could allow information disclosure
+appropriate .net framework
+remote monitoring
+stack trace
+go
+wadwindowseventlogstable window event log
+production deployment switch
+ctrl+m
+continued availability
+assumes
+window installer service could allow elevation
+running
+individual role instance
+.net eventsource
+executionpolicy
+configurationsettings settingname=
+sort
+cmd echo
+process id
+vbscript scripting engine could allow remote code execution
+available virtual machine size
+available datacenters
+program file \microsoft sdks\microsoft azure.net sdk\version-num\ref\ directory
+create socket listener var listener
+ms15-043
+azure storage project
+targetprofile=test
+requests/sec
+custom data
+mobile service optimized
+virtual machine basic setting
+cluster scenario
+proper redirection
+staging slot
+branch name
+today august
+execution time
+new-azureservice -servicename string -affinitygroup string -label string -description string -reversednsfqdn string commonparameters new-azureservice -servicename string -location string -label string -description string -reversednsfqdn string commonparameters
+receive alert notification
+sizeinmb
+default template name
+poison message
+delete deploy
+azure service configuration schema
+set-azureservice command
+azurecn-0001
+top right
+use version
+mechanism
+temporary disk
+configuration choice
+data transfer
+ribbon
+performancecounter
+specifier
+roleentrypoint.onstart method finish
+msdn topic
+epname .ipendpoint
+much storage
+web role contosoadsweb
+pku2u authentication
+//go.microsoft.com/fwlink/
+separate cloud service
+ready status
+dummy test
+mypublicep.address
+temp environment
+open additional browser window
+/v release find netfxregkey
+azure certificate
+ri
+contosadscommon project
+button1_click event
+goto end
+enable secure communication
+generated package file
+east asia
+hpc db configuration page
+install setup
+process.env.port
+guest agent
+october guest o rollout
+committed byte
+click compute
+wa-guest-os-3.19_201409-02
+user code
+serverthumbprint value
+ms15-001
+o disk
+instanceendpoints property
+microsoft account
+ms15-108
+standard performance counter data
+.publishsettings file
+profiler generates
+additional certificate
+mount manager could allow elevation
+exception detail
+step-by-step tutorial series
+specified endpoint
+program.cs
+new sql database
+user privilege
+quick glance
+performance tool node
+new set
+web browser prompt
+void run
+button1counter.rawvalue.tostring
+new row
+wa-guest-os-3.31_201509-01
+complete api reference documentation
+mapreduce job
+instructs azure
+february
+cloud-based team foundation service
+single network adapter
+storageaccountname -subscriptionname
+available symbol server
+stuck deployment
+system version
+detailed documentation
+credential parameter
+storage connection
+standalone version
+exact date
+vsperfmon.exe
+function startinstances
+wad-iis-failedreqlogfiles contains information
+complete
+url contosoads.core.windows.net
+team explorer window
+multiple endpoint
+choose node template type page
+select-azuresubscription
+remote user
+multiple service configuration
+select publish
+ms15-054
+new d-series virtual machine size
+code change
+direct port endpoint
+cloudservice
+setup remote desktop
+new resource group
+move-deployment cmdlet
+minor difference
+calculation
+vsx64remotedebuggerpath
+different vms
+useful graphical user interface tool
+appropriate msbuild command line argument
+boolean value
+repackage
+europe north
+ms15-071
+region closest
+pool
+new project dialog box
+new-azureservice
+var config
+solid line
+azure.warning role instance
+different internal port
+absolute display
+developer computer
+scale action
+specific task
+rdconnvs2013
+colon
+vso team project
+performance session
+vs_deploy
+browse service
+update role setting
+a8/a10
+-110
+ctrl+f5
+new hosted service
+appropriate msbuild command line
+minimum average cpu percentage
+appropriate number
+ms15-088
+deployment switch
+socket.localendpoint
+night scheduling
+azure web site
+deploy step
+critical
+bin/www file
+development account
+ms15-045
+use microsoftazuretools.vs140.exe
+popular open source application
+\scripts\windowsazure\ publishcloudservice.ps1
+performancecounters\subscriptions
+-104
+get started
+d.
+ms15-065
+azure.note hpc pack service
+december guest o release
+repeated retries
+socket
+cloud platform
+mycloudservicev4
+azure storage client library
+overload
+vm extension
+exception section
+pubsettings
+application configuration
+management portal notification
+following azure powershell cmdlet
+file system data
+accept cluster job
+guest operating system family value
+-103
+remote debug
+wa-guest-os-4.21_201506-01
+default entry location
+microsoft common control could allow remote code execution
+build section
+comprehensive sample
+type csrun.exe /devstore
+ongoing maintenance effort
+version control
+add-azurenodewebrole cmdlet
+log event
+onstop
+select update
+following condition
+microsoft pattern
+/add /listeners
+custom class
+technical resource
+similar task
+configuration tab un-check enable diagnostics
+sharepoint
+wadexample project
+client request socket handler
+.jpg image
+tier interaction profiler
+co-administrator
+scope
+wa-guest-os-4.8_201405-01
+set-content
+hpc database
+launch parameter
+pathtoapp1install directory
+network drive
+application compatibility validation
+listener.bind
+checkbox
+storage emulator resource
+build action
+restrict use
+ms15-009
+today
+azure.important update
+deployment detail
+required blob container
+3-minute interval
+localstorage
+globe
+attach/detach option
+general information
+interaction
+storageconnectionstring entry
+ensure cloud service
+job processing
+complex troubleshooting scenario
+wa-guest-os-3.20_201410-01
+captured image
+understanding
+linked resource section
+wa-guest-os-2.26_201404-01
+august guest o rollout
+printer
+runtimeexecutioncontext=
+optional command line parameter
+ms15-016
+several pre-installation test
+storageconnectionstring
+replication drop-down list
+msdn code gallery
+.rdp file
+window error reporting
+reliable application
+ms15-038
+specific cluster
+window hyper-v could allow denial
+guid
+official release date
+current web request
+serverdefinition.csdef file
+click new parametric sweep job
+wa-guest-os-4.15_201412-01
+new-azureserviceproject cmdlet
+startuplocalstorage
+views\home\index.cshtml file display
+ms15-010
+certificate-expiration
+wa-guest-os-2.23_201401-01
+disable diagnostics
+sql database tab
+pubsettings set-azuresubscription -currentstorageaccountname
+paas guest o
+direct communication
+accessing role instance
+.net version
+portal display connection string
+verbose monitoring* gather additional metric
+performancecountercategory.create
+zero-based index
+tmp directory
+manage alert rule
+window form
+filter type=
+epname
+remove
+networking capability
+guideline
+application operation
+a9 virtual machine instance
+installation credential
+entity
+default window server
+first
+time pas
+// myurl .cloudapp.net
+invalid argument
+absolutepath field
+add solution
+user-initiated shutdown
+executioncontext
+.vsp file
+required module
+business application
+additional dependency
+active directory service could allow denial
+microsoft.windowsazure.storage.auth
+ms15-015
+ip address portion
+partition key
+remote desktop connections…”
+project contosoadscommon
+azure forum
+osversion=
+toggle
+click storage
+access local storage
+intel turbo boost technology
+-asplaintext -force
+ms15-023
+tile
+new image file
+publish setting
+microsoft.windowsazure.storage
+manage nuget package
+vbscript scripting engine could allow security feature bypass
+restart
+specified role
+'/
+database name box
+protocol type
+microsoft office
+jade template engine
+ms15-101
+necessary firewall rule
+.pdb
+reliability
+/webrole /servicedefinition
+remotedebug extension
+application interact
+list_operating_systems method
+get-azureserviceremotedesktopextension cmdlet display
+wa-guest-os-3.24_201502-01
+new deployment.
+economic sense
+available mbytes
+allowed service
+ms15-077
+install.cmd
+replace myuniquename
+job management
+different nickname
+deep inside image resizing
+compilation element
+remoteaccess
+powershell prompt
+outputfilename
+http request
+azurediagnostics
+business process
+process automation
+tb
+business value
+source control explorer link
+tableentity
+window kernel mode driver could allow remote code execution
+wa-guest-os-3.21_201411-01
+azure.note use
+practice group
+oct'15
+securepassword get-content -path
+browser-based portal
+desired drop location
+real-world cloud app
+dictionary object
+click azure node template
+console command install.cmd
+answer
+web role application_start method
+applicationname\ .cspkg.| rolename\
+single role update
+finish
+upgraded role instance
+u north central
+//azure.microsoft.com
+aggregation
+roleinst.id
+disk read throughput
+http response
+eventsource
+specified .net framework version
+roleinstancevalue element
+enough hardware
+xml performancecounterconfiguration counterspecifier \logicaldisk
+dynamic image generation
+unused assembly
+additional metric
+choose msbuild argument
+storageconnectionstring connection
+name unique
+correct version
+close socket socket.shutdown
+multiple app
+performance monitor
+dbset collection
+azure compute emulator express
+master branch trigger
+chatapp
+epname .publicipendpoint
+feedback
+click finish
+step process
+computeemulatorrunning environment variable
+datetime
+running state
+outputfilename\
+maeventtable.csv
+small value
+microsoft excel
+config_path -servicename
+ms15-094
+click new installation
+azure reserve compute
+ms15-053
+ms15-120
+specific service
+internalendpoints
+virtual machine additional capability
+virtual machine running window server
+ms15-003
+azure binary
+configsections element
+accountname
+temp \\startuplog.txt
+first update
+local
+manage deployment
+tcp connectivity
+outputfilename /role
+system.io.filenotfoundexception
+system.webserver
+address denial
+taskbar
+xml variable name=
+\program file
+v0.10.21
+long-running
+app name
+size small
+site node
+roleinstendpoint.ipendpoint
+favorite text editor
+hundred
+microsoft graphic component could allow elevation
+start azure powershell
+west
+window certificate manager
+specific line
+32-bit os/processor
+extension.referencename -eq
+save data
+//www.openssl.org/docs/apps/openssl.html
+web page
+ms14-080
+wa-guest-os-3.7_201309-03
+many counter
+disk write bytes/sec
+e7dcb00cb916c468cc3228261d6e4ee45c8ed3c6
+default retry policy appropriate
+ms15-079
+remote debug binary
+azure cache performance counter data
+integer value
+pointer
+class1.cs file
+azure\cloud service node
+tmp point
+next example
+scaffolding
+localstorage child element
+select installation type page
+specific time
+subscription get-azuresubscription
+additional one-time step
+visual studio installation
+active directory domain controller
+// identify public endpoint var myinternalep roleinstance.instanceendpoints
+window hyper-v could allow remote code execution
+new web app instance
+complete description
+stringbuilder
+ms15-041
+-slot parameter
+private key option
+add metric dialog box
+model binder
+servicename -uninstallconfiguration
+scale enterprise-grade app
+solution node
+install python version
+lock
+password123
+team foundation version control
+window task scheduler could allow security feature bypass
+custom container
+contosoadscloudservice
+console window
+ms15-028
+window root certificate program
+process object
+layout.jade
+normal allocation
+key set-azureservicediagnosticsextension -storagecontext
+tasklist application
+endpoint.privateport
+entire solution
+csa file
+ide
+request wait time
+monitored branch
+wa-guest-os-3.9_201311-01
+scalable web application
+internal port
+resource requirement
+server drop-down list
+required deployment task
+temporary disk space
+param
+maximum setting
+december
+window hyper-v improvement
+ms15-029
+start azure node dialog box
+pathtostartupstorage
+httppost edit method
+group policy could allow remote code execution
+dynamic port
+user button1 click countercreationdata operationtotal1 new countercreationdata
+alternate host header
+azure\cloud services\ cloud service name node
+ms15-035
+.net framework installation
+cleanonrolerecycle
+asynchronous startup task
+c.
+mycloudservice4
+open internet explorer
+specific role environment
+azure worker role environment
+region drop-down list
+microsoft symbol server
+network configuration
+localresource name=
+default exponential backoff retry policy
+summary step
+general diagnostics configuration error
+-11
+xmlcfg
+mysite
+asp.net service
+replace myaccountname
+publicport=31400
+contosoadscloudservice cloud project
+certificate thumbprint value
+change authentication
+default setting
+azure.note project
+add node wizard page
+substitute actual path
+role setting
+graphic driver could allow elevation
+application folder
+today may
